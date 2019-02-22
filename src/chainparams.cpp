@@ -237,13 +237,13 @@ public:
         nMaxMoneyOut                   = 10000000 * COIN;
 
         //! Modify the testnet genesis block so the timestamp is valid for a later start.
-        genesis.nTime                  = 1550620900;
-        genesis.nNonce                 = 0x1e0ffff0;
-
+        genesis.nTime                  = 1550620800;
+        genesis.nBits                  = 0x1e0ffff0;
+        genesis.nNonce                 = 20693100;
 
         hashGenesisBlock               = genesis.GetHash();
-        //assert(hashGenesisBlock        == uint256("0x0000057b3e19a3b07e3102a770c7a511cb51544ca7033aa54d0fde53acd45584"));
-        //assert(genesis.hashMerkleRoot  == uint256("0x4b239699c7be15090c228025421a1c62f7d0456e87efac1a61292151fb639333"));
+        assert(hashGenesisBlock        == uint256("0x00000d8a90b3e5bf86330904ae5cdb57794d283cecdacd432578a53dad7cb5a2"));
+        assert(genesis.hashMerkleRoot  == uint256("0x4b239699c7be15090c228025421a1c62f7d0456e87efac1a61292151fb639333"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,  85);  // Start with 'b' from https://en.bitcoin.it/wiki/List_of_address_prefixes
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 87);  // Start with 'c' from https://en.bitcoin.it/wiki/List_of_address_prefixes
