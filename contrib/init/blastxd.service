@@ -1,0 +1,26 @@
+[Unit]
+Description=BlastX's distributed currency daemon
+After=network.target
+
+[Service]
+User=blastx
+Group=blastx
+
+Type=forking
+PIDFile=/var/lib/blastxd/blastxd.pid
+
+ExecStart=/usr/bin/blastxd -daemon -pid=/var/lib/blastxd/blastxd.pid \
+          -conf=/etc/blastx/blastx.conf -datadir=/var/lib/blastxd
+
+ExecStop=-/usr/bin/blastx-cli -conf=/etc/blastx/blastx.conf \
+         -datadir=/var/lib/blastxd stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,26 @@
+# /etc/conf.d/blastxd: config file for /etc/init.d/blastxd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/blastx/blastx.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/blastxd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/blastxd.pid"
+
+# Where to write blastxd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/blastxd"
+
+# User and group to own blastxd process
+#BITCOIND_USER="blastx"
+#BITCOIND_GROUP="blastx"
+
+# Path to blastxd executable
+#BITCOIND_BIN="/usr/bin/blastxd"
+
+# Nice value to run blastxd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
