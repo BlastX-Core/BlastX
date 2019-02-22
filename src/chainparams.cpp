@@ -67,7 +67,7 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 // + Contains no strange transactions
 static Checkpoints::MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
-    (0, uint256("0x"));
+    (0, uint256("0x00000d8a90b3e5bf86330904ae5cdb57794d283cecdacd432578a53dad7cb5a2"));
 
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
@@ -77,7 +77,7 @@ static const Checkpoints::CCheckpointData data = {
 };
 
 static Checkpoints::MapCheckpoints mapCheckpointsTestnet =
-    boost::assign::map_list_of(0, uint256("0x"));
+    boost::assign::map_list_of(0, uint256("0x0000057b3e19a3b07e3102a770c7a511cb51544ca7033aa54d0fde53acd45584"));
 
 static const Checkpoints::CCheckpointData dataTestnet = {
     &mapCheckpointsTestnet,
@@ -87,7 +87,7 @@ static const Checkpoints::CCheckpointData dataTestnet = {
 };
 
 static Checkpoints::MapCheckpoints mapCheckpointsRegtest =
-    boost::assign::map_list_of(0, uint256("0x"));
+    boost::assign::map_list_of(0, uint256("0x12e3588ae73da228a1b90f7499a904da6228b7db186877a5b26a02c073f208fe"));
 static const Checkpoints::CCheckpointData dataRegtest = {
     &mapCheckpointsRegtest,
     1550621000, // * UNIX timestamp of last checkpoint block
@@ -240,9 +240,10 @@ public:
         genesis.nTime                  = 1550620900;
         genesis.nNonce                 = 0x1e0ffff0;
 
+
         hashGenesisBlock               = genesis.GetHash();
-        assert(hashGenesisBlock        == uint256("0x0000057b3e19a3b07e3102a770c7a511cb51544ca7033aa54d0fde53acd45584"));
-        assert(genesis.hashMerkleRoot  == uint256("0x4b239699c7be15090c228025421a1c62f7d0456e87efac1a61292151fb639333"));
+        //assert(hashGenesisBlock        == uint256("0x0000057b3e19a3b07e3102a770c7a511cb51544ca7033aa54d0fde53acd45584"));
+        //assert(genesis.hashMerkleRoot  == uint256("0x4b239699c7be15090c228025421a1c62f7d0456e87efac1a61292151fb639333"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,  85);  // Start with 'b' from https://en.bitcoin.it/wiki/List_of_address_prefixes
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 87);  // Start with 'c' from https://en.bitcoin.it/wiki/List_of_address_prefixes
