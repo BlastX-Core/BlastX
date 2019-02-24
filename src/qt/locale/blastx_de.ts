@@ -653,8 +653,8 @@
         <translation>An eine BLASTX-Adresse überweisen</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
-        <translation>Zahlung anfordern (QR-Code Generierung und clg: URIs)</translation>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
+        <translation>Zahlung anfordern (QR-Code Generierung und Blast: URIs)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -887,8 +887,8 @@ Adresse: %4</translation>
         <translation>TextEtikett</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (clg.conf).</source>
-        <translation>Nicht alle Transaktionen können anzezeigt werden. Um alle Transaktionen zu sehen, müssen sie die Option  "txindex=1" in der "clg.conf" Konfigurationsdatei hinzufügen.</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
+        <translation>Nicht alle Transaktionen können anzezeigt werden. Um alle Transaktionen zu sehen, müssen sie die Option  "txindex=1" in der "Blast.conf" Konfigurationsdatei hinzufügen.</translation>
     </message>
 </context>
 <context>
@@ -1125,8 +1125,8 @@ Adresse: %4</translation>
         <translation>Diese Bezeichnung wird rot, wenn ein Empfänger einen Betrag erhält, der kleiner ist als %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uclg per input.</source>
-        <translation>Kann um +/- %1 uclg pro Eingang variieren.</translation>
+        <source>Can vary +/- %1 uBlast per input.</source>
+        <translation>Kann um +/- %1 uBlast pro Eingang variieren.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1930,9 +1930,9 @@ Bitte haben Sie etwas Geduld, nachdem Sie auf Importieren geklickt haben.</trans
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/clg-project/clg-project-translations</source>
+https://www.transifex.com/Blast-project/Blast-project-translations</source>
         <translation>Sprache fehlt oder ist unvollständig? Helfe mit und trage zur Übersetzung bei unter:
-https://www.transifex.com/clg-project/clg-project-translations</translation>
+https://www.transifex.com/Blast-project/Blast-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -2246,14 +2246,14 @@ Falls das automatische Prägen aktiviert ist, wird sich dieser Prozentsatz um de
         <translation>Automatisches Prägen ist aktiv und eingestellt auf</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in clg.conf.</source>
-        <translation>Um das automatische Prägen zu deaktivieren, füge 'enablezeromint=0' in clg.conf ein.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</source>
+        <translation>Um das automatische Prägen zu deaktivieren, füge 'enablezeromint=0' in Blast.conf ein.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in clg.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf</source>
         <translation>Das automatische Prägen ist deaktiviert.
-Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablezeromint=1' in clg.conf</translation>
+Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablezeromint=1' in Blast.conf</translation>
     </message>
 </context>
 <context>
@@ -2279,7 +2279,7 @@ Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablez
         <translation>Ungültige Zahlungsaufforderungsadresse %1</translation>
     </message>
     <message>
-        <source>Cannot start clg: click-to-pay handler</source>
+        <source>Cannot start Blast: click-to-pay handler</source>
         <translation>Kann BLASTX nicht starten: click-to-pay Handler</translation>
     </message>
     <message>
@@ -2433,7 +2433,7 @@ Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablez
         <translation>PRIVATSPHÄRE</translation>
     </message>
     <message>
-        <source>Enter an amount of Clg to convert to zBLASTX</source>
+        <source>Enter an amount of Blast to convert to zBLASTX</source>
         <translation>Geben Sie den Betrag ein, den sie von BLASTX in zBLASTX umwandeln möchten</translation>
     </message>
     <message>
@@ -2570,8 +2570,8 @@ Unreif: Bestätigt, aber keine Prägung in der selben Stückelung seit erfolgter
         <source>Show the current status of automatic zBLASTX minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to clg.conf
-- disable: add 'enablezeromint=0' to clg.conf
+- enable: add 'enablezeromint=1' to Blast.conf
+- disable: add 'enablezeromint=0' to Blast.conf
 
 To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zBLASTX
@@ -2580,8 +2580,8 @@ To change the percentage (no restart required):
         <translation>Zeigt den aktuellen Status der automatischen zBLASTX-Prägung an
 
 Um den Status zu ändern (Neustart erforderlich): 
-- enable: füge 'enablezeromint = 1' zu clg.conf hinzu
-- disable: füge 'enablezeromint = 0' zu clg.conf hinzu
+- enable: füge 'enablezeromint = 1' zu Blast.conf hinzu
+- disable: füge 'enablezeromint = 0' zu Blast.conf hinzu
 
 Um den Prozentsatz zu ändern (kein Neustart erforderlich): 
 - Menü Einstellungen-&gt; Optionen-&gt; Prozentsatz der autom. zBLASTX
@@ -4848,7 +4848,7 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
     </message>
 </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
         <source>Select zBLASTX to Spend</source>
         <translation>Wählen Sie die zBLASTX aus, die Sie ausgeben möchten</translation>
@@ -4875,7 +4875,7 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
     </message>
 </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = behalte Tx-Meta-Daten z.B. Betrag, Besitzer und Zahlungsanforderungsinformationen, 2 = verwerfe Tx-Meta-Daten)</translation>

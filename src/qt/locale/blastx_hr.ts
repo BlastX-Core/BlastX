@@ -609,8 +609,8 @@
         <translation>Pošaljite kovanice na BLASTX adresu</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
-        <translation>Zahtjev za plaćanja (generira QR kodove i clg: URI)</translation>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
+        <translation>Zahtjev za plaćanja (generira QR kodove i Blast: URI)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -1345,14 +1345,14 @@
     </message>
     </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>Error</source>
         <translation>Greška</translation>

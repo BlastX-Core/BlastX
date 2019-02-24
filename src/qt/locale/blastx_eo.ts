@@ -653,8 +653,8 @@
         <translation>Sendu mono al BLASTX addreso</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
-        <translation>Peto pagojn (generas QR kodojn kaj clg: URIs)</translation>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
+        <translation>Peto pagojn (generas QR kodojn kaj Blast: URIs)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -892,8 +892,8 @@ Muktisendi: %1</translation>
         <translation>Tekstetikedo</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (clg.conf).</source>
-        <translation>Ĉiuj transakcio ne estos montri. Peor vidi ĉiuj transakcio bezonas agordi txindekso=1 en la agordo dosiero (clg.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
+        <translation>Ĉiuj transakcio ne estos montri. Peor vidi ĉiuj transakcio bezonas agordi txindekso=1 en la agordo dosiero (Blast.conf).</translation>
     </message>
 </context>
 <context>
@@ -1122,8 +1122,8 @@ Muktisendi: %1</translation>
         <translation>Ĉi tiun etikedo ruĝiĝas se iu ajna ricevanto ricevas totalo pli malgranda ol %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uclg per input.</source>
-        <translation>Povas varii +/- %1 uclg per enigo.</translation>
+        <source>Can vary +/- %1 uBlast per input.</source>
+        <translation>Povas varii +/- %1 uBlast per enigo.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1711,9 +1711,9 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/clg-project/clg-project-translations</source>
+https://www.transifex.com/Blast-project/Blast-project-translations</source>
         <translation>Ĉu mankas lingvon aŭ nekompleta tradukado? Helpu la  tradukcio ĉi tie:
-https://www.transifex.com/clg-project/clg-project-translations</translation>
+https://www.transifex.com/Blast-project/Blast-project-translations</translation>
     </message>
     <message>
         <source>Connect to the BLASTX network through a SOCKS5 proxy.</source>
@@ -1849,7 +1849,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
-        <translation>Pago peto dosiero ne povas estas legi! Ĉi tio clgas esti kauzita por nevalida pago peto dosiero.</translation>
+        <translation>Pago peto dosiero ne povas estas legi! Ĉi tio Blastas esti kauzita por nevalida pago peto dosiero.</translation>
     </message>
     <message>
         <source>Payment request rejected</source>
@@ -2649,7 +2649,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
     </message>
     </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
@@ -2664,7 +2664,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
     </message>
 </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>Connect through SOCKS5 proxy</source>
         <translation>Konekti per SOCKS5 prokurilo</translation>

@@ -565,8 +565,8 @@
         <translation>送出錢幣到 BLASTX 地址</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
-        <translation>請求付款 (會產生 QR Code跟 clg 位址)</translation>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
+        <translation>請求付款 (會產生 QR Code跟 Blast 位址)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -957,9 +957,9 @@
     </message>
     </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     </context>
 </TS>

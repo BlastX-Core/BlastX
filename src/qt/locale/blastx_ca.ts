@@ -1959,7 +1959,7 @@
     </message>
     </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
         <source>Quantity</source>
         <translation>Quantitat</translation>
@@ -1974,7 +1974,7 @@
     </message>
     </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>Can't mix while sync in progress.</source>
         <translation>No es pot mesclar mentre s'està sincronitzant.</translation>

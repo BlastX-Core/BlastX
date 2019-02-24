@@ -653,8 +653,8 @@
         <translation>Invia valuta all'indirizzo BLASTX</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
-        <translation>Richiedi pagamenti (genera codici QR e clg: URIs)</translation>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
+        <translation>Richiedi pagamenti (genera codici QR e Blast: URIs)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -888,8 +888,8 @@ MultiSend: %1</translation>
         <translation>Etichetta</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (clg.conf).</source>
-        <translation>Non tutte le transazioni verranno visualizzate. Per vedere tutte le transazioni è necessario aggiungere txindex=1 nel file di configurazione (clg.conf)</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
+        <translation>Non tutte le transazioni verranno visualizzate. Per vedere tutte le transazioni è necessario aggiungere txindex=1 nel file di configurazione (Blast.conf)</translation>
     </message>
 </context>
 <context>
@@ -1126,7 +1126,7 @@ MultiSend: %1</translation>
         <translation>Questa etichetta diventa rossa se uno dei destinatari riceve un importo inferiore a %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uclg per input.</source>
+        <source>Can vary +/- %1 uBlast per input.</source>
         <translation>Può variare di +/- %1 uBLASTX per input.</translation>
     </message>
     <message>
@@ -1878,14 +1878,14 @@ Se il conio automatico è attivato questa percentuale si stabilizzerà all'incir
         <translation>AutoMint è attivo e impostato su</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in clg.conf.</source>
-        <translation>Per disabilitare il conio automatico aggiungi 'enablezeromint=0' in clg.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</source>
+        <translation>Per disabilitare il conio automatico aggiungi 'enablezeromint=0' in Blast.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in clg.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf</source>
         <translation>Conio automatico è correntemente disattivato.
-Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=1' in clg.conf</translation>
+Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=1' in Blast.conf</translation>
     </message>
 </context>
 <context>
@@ -1961,7 +1961,7 @@ Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=
         <translation>PRIVACY</translation>
     </message>
     <message>
-        <source>Enter an amount of Clg to convert to zBLASTX</source>
+        <source>Enter an amount of Blast to convert to zBLASTX</source>
         <translation>Immetti un importo di BLASTX da convertire in zBLASTX</translation>
     </message>
     <message>
@@ -2051,8 +2051,8 @@ Gli zBLASTX sono maturi quando hanno più di 20 conferme E più di 2 conii della
         <source>Show the current status of automatic zBLASTX minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to clg.conf
-- disable: add 'enablezeromint=0' to clg.conf
+- enable: add 'enablezeromint=1' to Blast.conf
+- disable: add 'enablezeromint=0' to Blast.conf
 
 To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zBLASTX
@@ -2060,8 +2060,8 @@ To change the percentage (no restart required):
 </source>
         <translation>Mostra lo stato corrente del conio automatico zBLASTX.
 Per cambiare lo stato (riavvio necessario):
-- attivato: aggiungi 'enablezeromint=1' a clg.conf
-- disattivato: aggiungi 'enablezeromint=0' a clg.conf
+- attivato: aggiungi 'enablezeromint=1' a Blast.conf
+- disattivato: aggiungi 'enablezeromint=0' a Blast.conf
 
 Per cambiare la percentuale (riavvio non necessario):
 - menu Impostazioni-&gt;Opzioni-&gt;Percentuale di zBLASTX da coniare automaticamente
@@ -2666,7 +2666,7 @@ Per cambiare la percentuale (riavvio non necessario):
     </message>
     </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
@@ -2677,7 +2677,7 @@ Per cambiare la percentuale (riavvio non necessario):
     </message>
     </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>Error</source>
         <translation>Errore</translation>

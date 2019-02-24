@@ -243,12 +243,12 @@ RES_ICONS = \
   qt/res/icons/tx_input.png \
   qt/res/icons/tx_output.png \
   qt/res/icons/tx_mined.png \
-  qt/res/icons/unit_clg.png \
-  qt/res/icons/unit_mclg.png \
-  qt/res/icons/unit_uclg.png \
-  qt/res/icons/unit_tclg.png \
-  qt/res/icons/unit_tmclg.png \
-  qt/res/icons/unit_tuclg.png
+  qt/res/icons/unit_blast.png \
+  qt/res/icons/unit_mblast.png \
+  qt/res/icons/unit_ublast.png \
+  qt/res/icons/unit_tblast.png \
+  qt/res/icons/unit_tmblast.png \
+  qt/res/icons/unit_tublast.png
 
 BITCOIN_QT_CPP = \
   qt/bantablemodel.cpp \

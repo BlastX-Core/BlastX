@@ -577,8 +577,8 @@
         <translation>发送数字货币到BLASTX地址</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
-        <translation>请求支付（生成二维码和clg：URIs）</translation>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
+        <translation>请求支付（生成二维码和Blast：URIs）</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -1533,10 +1533,10 @@ Address: %4
     </message>
     </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
         <translation>在收到相关警报时执行命令，或者看到一个很长的分叉（cmd中的%s被消息替换）</translation>

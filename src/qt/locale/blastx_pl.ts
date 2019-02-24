@@ -517,8 +517,8 @@
         <translation>Wyślij monety do adresu BLASTX</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
-        <translation>Zarządaj płatności (generuje kod QR i clg:URI)</translation>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
+        <translation>Zarządaj płatności (generuje kod QR i Blast:URI)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -1219,9 +1219,9 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/clg-project/clg-project-translations</source>
+https://www.transifex.com/Blast-project/Blast-project-translations</source>
         <translation>Brakuje języka bądź nieukończona pełnego tłumaczenia? Pomóż w tłumaczeniu tutaj:
-https://www.transifex.com/clg-project/clg-project-translations </translation>
+https://www.transifex.com/Blast-project/Blast-project-translations </translation>
     </message>
     <message>
         <source>Connect to the BLASTX network through a SOCKS5 proxy.</source>
@@ -2021,14 +2021,14 @@ https://www.transifex.com/clg-project/clg-project-translations </translation>
     </message>
     </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>Error</source>
         <translation>Błąd</translation>

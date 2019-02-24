@@ -83,10 +83,10 @@ UniValue importprivkey(const UniValue& params, bool fHelp)
 {
     if (fHelp || params.size() < 1 || params.size() > 3)
         throw runtime_error(
-            "importprivkey \"clgprivkey\" ( \"label\" rescan )\n"
+            "importprivkey \"Blastprivkey\" ( \"label\" rescan )\n"
             "\nAdds a private key (as returned by dumpprivkey) to your wallet.\n"
             "\nArguments:\n"
-            "1. \"clgprivkey\"   (string, required) The private key (see dumpprivkey)\n"
+            "1. \"Blastprivkey\"   (string, required) The private key (see dumpprivkey)\n"
             "2. \"label\"            (string, optional, default=\"\") An optional label\n"
             "3. rescan               (boolean, optional, default=true) Rescan the wallet for transactions\n"
             "\nNote: This call can take minutes to complete if rescan is true.\n"
@@ -308,11 +308,11 @@ UniValue dumpprivkey(const UniValue& params, bool fHelp)
 {
     if (fHelp || params.size() != 1)
         throw runtime_error(
-            "dumpprivkey \"clgaddress\"\n"
-            "\nReveals the private key corresponding to 'clgaddress'.\n"
+            "dumpprivkey \"Blastaddress\"\n"
+            "\nReveals the private key corresponding to 'Blastaddress'.\n"
             "Then the importprivkey can be used with this output\n"
             "\nArguments:\n"
-            "1. \"clgaddress\"   (string, required) The clg address for the private key\n"
+            "1. \"Blastaddress\"   (string, required) The Blast address for the private key\n"
             "\nResult:\n"
             "\"key\"                (string) The private key\n"
             "\nExamples:\n" +
@@ -396,10 +396,10 @@ UniValue bip38encrypt(const UniValue& params, bool fHelp)
 {
     if (fHelp || params.size() != 2)
         throw runtime_error(
-            "bip38encrypt \"clgaddress\"\n"
-            "\nEncrypts a private key corresponding to 'clgaddress'.\n"
+            "bip38encrypt \"Blastaddress\"\n"
+            "\nEncrypts a private key corresponding to 'Blastaddress'.\n"
             "\nArguments:\n"
-            "1. \"clgaddress\"   (string, required) The clg address for the private key (you must hold the key already)\n"
+            "1. \"Blastaddress\"   (string, required) The Blast address for the private key (you must hold the key already)\n"
             "2. \"passphrase\"   (string, required) The passphrase you want the private key to be encrypted with - Valid special chars: !#$%&'()*+,-./:;<=>?`{|}~ \n"
             "\nResult:\n"
             "\"key\"                (string) The encrypted private key\n"
@@ -434,7 +434,7 @@ UniValue bip38decrypt(const UniValue& params, bool fHelp)
 {
     if (fHelp || params.size() != 2)
         throw runtime_error(
-            "bip38decrypt \"clgaddress\"\n"
+            "bip38decrypt \"Blastaddress\"\n"
             "\nDecrypts and then imports password protected private key.\n"
             "\nArguments:\n"
             "1. \"encryptedkey\"   (string, required) The encrypted private key\n"

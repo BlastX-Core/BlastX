@@ -573,8 +573,8 @@
         <translation>Lähetä kolikkoja BLASTX osoitteeseen</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
-        <translation>Pyydä maksuja (Generoi QR koodeja ja clg: URIja)</translation>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
+        <translation>Pyydä maksuja (Generoi QR koodeja ja Blast: URIja)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -2511,14 +2511,14 @@ Please check the address and try again.</source>
     </message>
 </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
         <translation>Varoitus: Verkko ei näytä olevan samaa mieltä! Jotkin mainaajat saattavat kokea ongelmia.</translation>

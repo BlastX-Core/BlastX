@@ -653,8 +653,8 @@
         <translation>Skicka mynt till en BLASTX adress</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
-        <translation>Begär betalning (genererar QR kod och clg: URls)</translation>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
+        <translation>Begär betalning (genererar QR kod och Blast: URls)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -892,8 +892,8 @@ MultiSend: %1</translation>
         <translation>text etikett</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (clg.conf).</source>
-        <translation>Alla transaktioner kommer inte visas. För att visa alla transaktioner behöver du sätta txindex=1 i konfigurationsfilen (clg.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
+        <translation>Alla transaktioner kommer inte visas. För att visa alla transaktioner behöver du sätta txindex=1 i konfigurationsfilen (Blast.conf).</translation>
     </message>
 </context>
 <context>
@@ -1130,8 +1130,8 @@ MultiSend: %1</translation>
         <translation>Den här etiketten blir röd, ifall någon mottagare får en mängd som är mindre än %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uclg per input.</source>
-        <translation>Kan variera med +/- %1 uclg per inmatning.</translation>
+        <source>Can vary +/- %1 uBlast per input.</source>
+        <translation>Kan variera med +/- %1 uBlast per inmatning.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1926,9 +1926,9 @@ Var god vänta efter att du trycker på importera.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/clg-project/clg-project-translations</source>
+https://www.transifex.com/Blast-project/Blast-project-translations</source>
         <translation>Fattas språk eller är översättningen ofullständig? Hjälp till att bidra med översättning här:
-https://www.transifex.com/clg-project/clg-project-translations</translation>
+https://www.transifex.com/Blast-project/Blast-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -2230,14 +2230,14 @@ Om AutoMint är tillåten så kommer denna procent att vara som den konfigurerad
         <translation>AutoMint är för tillfället aktiverat och inställt på</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in clg.conf.</source>
-        <translation>För att inaktivera AutoMint, lägg till 'enablezeromint=0' i clg.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</source>
+        <translation>För att inaktivera AutoMint, lägg till 'enablezeromint=0' i Blast.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in clg.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf</source>
         <translation>AutoMint är för närvarande inaktiverat.
-För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i clg.conf</translation>
+För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i Blast.conf</translation>
     </message>
 </context>
 <context>
@@ -2263,8 +2263,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i c
         <translation>Ogiltig betalningsadress %1</translation>
     </message>
     <message>
-        <source>Cannot start clg: click-to-pay handler</source>
-        <translation>Kan ej starta clg: klicka-för-att-betala hanterare</translation>
+        <source>Cannot start Blast: click-to-pay handler</source>
+        <translation>Kan ej starta Blast: klicka-för-att-betala hanterare</translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid BLASTX address or malformed URI parameters.</source>
@@ -2308,7 +2308,7 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i c
     </message>
     <message>
         <source>Payment request DoS protection</source>
-        <translation>Betalningsförfrågan DoS sclgd</translation>
+        <translation>Betalningsförfrågan DoS sBlastd</translation>
     </message>
     <message>
         <source>Error communicating with %1: %2</source>
@@ -2417,7 +2417,7 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i c
         <translation>SEKRETESS</translation>
     </message>
     <message>
-        <source>Enter an amount of Clg to convert to zBLASTX</source>
+        <source>Enter an amount of Blast to convert to zBLASTX</source>
         <translation>Mata in en mängd BLASTX att konvertera till zBLASTX</translation>
     </message>
     <message>
@@ -2554,8 +2554,8 @@ Omogna: bekräftade men under 1 mint av samma valör efter den blev mintad</tran
         <source>Show the current status of automatic zBLASTX minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to clg.conf
-- disable: add 'enablezeromint=0' to clg.conf
+- enable: add 'enablezeromint=1' to Blast.conf
+- disable: add 'enablezeromint=0' to Blast.conf
 
 To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zBLASTX
@@ -2564,8 +2564,8 @@ To change the percentage (no restart required):
         <translation>Visa den nuvarande statusen av automatisk zBLASTX minting.
 
 För att ändra statusen (omstart krävs):
--aktivera: lägg till 'enablezeromint=1' i clg.conf
--inaktivera: lägg till 'enablezeromint=0' i clg.conf
+-aktivera: lägg till 'enablezeromint=1' i Blast.conf
+-inaktivera: lägg till 'enablezeromint=0' i Blast.conf
 
 För att ändra procenten (ingen omstart krävs):
 -meny Inställningar-&gt;Alternativ-&gt;Procent på autominted zBLASTX
@@ -4773,7 +4773,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
     </message>
 </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
         <source>Select zBLASTX to Spend</source>
         <translation>Välj zBLASTX att Spendera</translation>
@@ -4800,7 +4800,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
     </message>
 </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = behåll tx meta data t.ex. kontoägare och information om betalningsförfråga, 2 = släpp tx meta data)</translation>

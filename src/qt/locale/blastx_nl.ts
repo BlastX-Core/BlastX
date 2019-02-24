@@ -653,7 +653,7 @@
         <translation>Verstuur munten naar een BLASTX adres</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
         <translation>Vraag betaling aan (genereert QR codes en BLASTX: URI's)</translation>
     </message>
     <message>
@@ -892,8 +892,8 @@ MultiSend: %1</translation>
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (clg.conf).</source>
-        <translation>Niet alle transacties zullen worden getoond. Om alle transacties te bekijken moet u txindex=1 instellen in het configuratie bestand (clg.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
+        <translation>Niet alle transacties zullen worden getoond. Om alle transacties te bekijken moet u txindex=1 instellen in het configuratie bestand (Blast.conf).</translation>
     </message>
 </context>
 <context>
@@ -1130,8 +1130,8 @@ MultiSend: %1</translation>
         <translation>Dit label wordt rood, als een ontvanger een hoeveelheid kleiner dan %1 ontvangt.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uclg per input.</source>
-        <translation>Kan +/-%1 uclg per invoer variëren.</translation>
+        <source>Can vary +/- %1 uBlast per input.</source>
+        <translation>Kan +/-%1 uBlast per invoer variëren.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1939,9 +1939,9 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/clg-project/clg-project-translations</source>
+https://www.transifex.com/Blast-project/Blast-project-translations</source>
         <translation>Taal ontbreekt of vertaling onvolledig? Help om bij te dragen aan vertalingen:
-https://www.transifex.com/clg-project/clg-project-translations</translation>
+https://www.transifex.com/Blast-project/Blast-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -2255,14 +2255,14 @@ Als AutoMint ingeschakeld is zal deze percentage afhangen van de geconfigureerde
         <translation>AutoMint is momenteel ingeschakeld en ingesteld op</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in clg.conf.</source>
-        <translation>Om AutoMint uit te schakelen, voeg je 'enablezeromint=0' toe aan clg.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</source>
+        <translation>Om AutoMint uit te schakelen, voeg je 'enablezeromint=0' toe aan Blast.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in clg.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf</source>
         <translation>AutoMint is momenteel uitgeschakeld.
-Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint=1' in clg.conf</translation>
+Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint=1' in Blast.conf</translation>
     </message>
 </context>
 <context>
@@ -2288,8 +2288,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Ongeldig betalingsadres %1</translation>
     </message>
     <message>
-        <source>Cannot start clg: click-to-pay handler</source>
-        <translation>Kan clg niet starten: click-to-pay handler</translation>
+        <source>Cannot start Blast: click-to-pay handler</source>
+        <translation>Kan Blast niet starten: click-to-pay handler</translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid BLASTX address or malformed URI parameters.</source>
@@ -2442,7 +2442,7 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>PRIVACY</translation>
     </message>
     <message>
-        <source>Enter an amount of Clg to convert to zBLASTX</source>
+        <source>Enter an amount of Blast to convert to zBLASTX</source>
         <translation>Vul het aantal BLASTX in om te converteren naar zBLASTX</translation>
     </message>
     <message>
@@ -2479,7 +2479,7 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
 zBLASTX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
         <translation>Beschikbare (volwwassen en uitgeefbaar) zBLASTX voor besteding
 
-zClg zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 muntages van dezelfde denominaties nadat zij gemunt zijn.</translation>
+zBlast zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 muntages van dezelfde denominaties nadat zij gemunt zijn.</translation>
     </message>
     <message>
         <source>0 zBLASTX</source>
@@ -2579,8 +2579,8 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <source>Show the current status of automatic zBLASTX minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to clg.conf
-- disable: add 'enablezeromint=0' to clg.conf
+- enable: add 'enablezeromint=1' to Blast.conf
+- disable: add 'enablezeromint=0' to Blast.conf
 
 To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zBLASTX
@@ -2589,8 +2589,8 @@ To change the percentage (no restart required):
         <translation>Toon de huidige status van automatische zBLASTX-markering.
 
 Om de status te wijzigen (opnieuw opstarten vereist): 
-- enable: voeg 'enablezeromint = 1' toe aan clg.conf
-- uitschakelen: voeg 'enablezeromint = 0' toe aan clg.conf
+- enable: voeg 'enablezeromint = 1' toe aan Blast.conf
+- uitschakelen: voeg 'enablezeromint = 0' toe aan Blast.conf
 
 Om het percentage te wijzigen (geen herstart vereist): 
 - menu Instellingen-&gt; Opties-&gt; Percentage van geautomatiseerde zBLASTX
@@ -4857,7 +4857,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
 </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
         <source>Select zBLASTX to Spend</source>
         <translation>Selecteer zBLASTX om te besteden</translation>
@@ -4884,7 +4884,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
 </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = houd tx meta data, bijvoorbeeld account eigenaar en betalingsverzoek informatie, 2 = drop tx meta data)</translation>

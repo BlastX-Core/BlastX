@@ -653,7 +653,7 @@
         <translation>Отправить монеты на BLASTX адрес</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
         <translation>Запросить платежи (генерирует QR-код и BLASTX: URI)</translation>
     </message>
     <message>
@@ -892,8 +892,8 @@ MultiSend: %1</translation>
         <translation>Текстовая метка</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (clg.conf).</source>
-        <translation>Будут показаны не все транзакции. Для отображения всех транзакций необходимо выставить txindex=1 в конфигурационном файле (clg.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
+        <translation>Будут показаны не все транзакции. Для отображения всех транзакций необходимо выставить txindex=1 в конфигурационном файле (Blast.conf).</translation>
     </message>
 </context>
 <context>
@@ -1130,8 +1130,8 @@ MultiSend: %1</translation>
         <translation>Этот маркер становится красным если получаемая адресатом сумма меньше, чем %1</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uclg per input.</source>
-        <translation>Может вариироваться +/- %1 uclg при вводе</translation>
+        <source>Can vary +/- %1 uBlast per input.</source>
+        <translation>Может вариироваться +/- %1 uBlast при вводе</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1939,9 +1939,9 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/clg-project/clg-project-translations</source>
+https://www.transifex.com/Blast-project/Blast-project-translations</source>
         <translation>Отсутствует ваш язык или заметили незавершенный перевод? Вы можете помочь нам стать лучше:
-https://www.transifex.com/clg-project/clg-project-translations</translation>
+https://www.transifex.com/Blast-project/Blast-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -2254,14 +2254,14 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
         <translation>Авточеканка в данный момен включена и установлена в</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in clg.conf.</source>
-        <translation>To disable AutoMint add 'enablezeromint=0' in clg.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</source>
+        <translation>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in clg.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf</source>
         <translation>Авточеканка  в настоящее время отключена.
-Чтобы включить Авточеканку, измените 'enablezeromint = 0' на 'enablezeromint = 1' в файле clg.conf</translation>
+Чтобы включить Авточеканку, измените 'enablezeromint = 0' на 'enablezeromint = 1' в файле Blast.conf</translation>
     </message>
 </context>
 <context>
@@ -2287,8 +2287,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in clg.conf</
         <translation>Неверный адрес оплаты %1</translation>
     </message>
     <message>
-        <source>Cannot start clg: click-to-pay handler</source>
-        <translation>Не удалось запустить clg: обработчик click-to-pay </translation>
+        <source>Cannot start Blast: click-to-pay handler</source>
+        <translation>Не удалось запустить Blast: обработчик click-to-pay </translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid BLASTX address or malformed URI parameters.</source>
@@ -2441,8 +2441,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in clg.conf</
         <translation>КОНФИДЕНЦИАЛЬНОСТЬ</translation>
     </message>
     <message>
-        <source>Enter an amount of Clg to convert to zBLASTX</source>
-        <translation>Введите сумму в Clg для  конвертации в zBLASTX</translation>
+        <source>Enter an amount of Blast to convert to zBLASTX</source>
+        <translation>Введите сумму в Blast для  конвертации в zBLASTX</translation>
     </message>
     <message>
         <source>zBLASTX Control</source>
@@ -2578,8 +2578,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
         <source>Show the current status of automatic zBLASTX minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to clg.conf
-- disable: add 'enablezeromint=0' to clg.conf
+- enable: add 'enablezeromint=1' to Blast.conf
+- disable: add 'enablezeromint=0' to Blast.conf
 
 To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zBLASTX
@@ -2588,8 +2588,8 @@ To change the percentage (no restart required):
         <translation>Показать текущий статус автоматической чеканки zBLASTX.
 
 Чтобы изменить статус (требуется перезагрузка):
-- включить: добавить 'enablezeromint = 1' в clg.conf
-- отключить: добавить 'enablezeromint = 0' в clg.conf
+- включить: добавить 'enablezeromint = 1' в Blast.conf
+- отключить: добавить 'enablezeromint = 0' в Blast.conf
 
 Чтобы изменить процент (не требуется перезагрузка):
 - меню Настройки-&gt; Параметры-&gt; Процент авторизованного zBLASTX</translation>
@@ -4856,7 +4856,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
         <source>Select zBLASTX to Spend</source>
         <translation>Выберите zBLASTX чтобы потратить</translation>
@@ -4883,7 +4883,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = сохранить tx метаданные, например, владельца учетной записи и информацию о запросе платежа, 2 = удалить tx метаданные)</translation>
@@ -6266,7 +6266,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Value is below the smallest available denomination (= 1) of zBLASTX</source>
-        <translation>Значение ниже наименьшего доступного номинала (= 1) zClg</translation>
+        <translation>Значение ниже наименьшего доступного номинала (= 1) zBlast</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>

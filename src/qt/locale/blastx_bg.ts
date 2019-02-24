@@ -653,7 +653,7 @@
         <translation>Изпратете монети до BLASTX адрес</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
         <translation>Поискай плащане (генерира QR кодове и  BLASTX:URI)</translation>
     </message>
     <message>
@@ -888,8 +888,8 @@ Address: %4
         <translation>ТекстовЕтикет</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (clg.conf).</source>
-        <translation>Не всички преводи ще бъдат показани. За да разгледате всички преводи, трябва да зададете txindex=1 в конфигурационния файл (clg.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
+        <translation>Не всички преводи ще бъдат показани. За да разгледате всички преводи, трябва да зададете txindex=1 в конфигурационния файл (Blast.conf).</translation>
     </message>
 </context>
 <context>
@@ -1126,8 +1126,8 @@ Address: %4
         <translation>Етикета става червен, когато получателя ще получи сума по-малка от %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uclg per input.</source>
-        <translation>Може да има разлика от +/- %1 uclg на вх.</translation>
+        <source>Can vary +/- %1 uBlast per input.</source>
+        <translation>Може да има разлика от +/- %1 uBlast на вх.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1935,9 +1935,9 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/clg-project/clg-project-translations</source>
+https://www.transifex.com/Blast-project/Blast-project-translations</source>
         <translation>Липсващ език или непълен превод? Помогнете с преводите тук:
-https://www.transifex.com/clg-project/clg-project-translations</translation>
+https://www.transifex.com/Blast-project/Blast-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -2243,14 +2243,14 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
         <translation>АвтоЕмисията е включена и настроена на</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in clg.conf.</source>
-        <translation>Да изключите АвтоЕмисия добавете  'enablezeromint=0' в clg.conf файла.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</source>
+        <translation>Да изключите АвтоЕмисия добавете  'enablezeromint=0' в Blast.conf файла.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in clg.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf</source>
         <translation>АвтоЕмисия е изключено.
-За да включите АвтоЕмисия сменете 'enablezeromint=0' на 'enablezeromint=1' в clg.conf файла.</translation>
+За да включите АвтоЕмисия сменете 'enablezeromint=0' на 'enablezeromint=1' в Blast.conf файла.</translation>
     </message>
 </context>
 <context>
@@ -2276,8 +2276,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in clg.conf</
         <translation>Грешен адрес за плащане %1</translation>
     </message>
     <message>
-        <source>Cannot start clg: click-to-pay handler</source>
-        <translation>Провал при стартирането на clg: click-to-pay обработвател</translation>
+        <source>Cannot start Blast: click-to-pay handler</source>
+        <translation>Провал при стартирането на Blast: click-to-pay обработвател</translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid BLASTX address or malformed URI parameters.</source>
@@ -2430,7 +2430,7 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in clg.conf</
         <translation>КОНФИДЕНЦИАЛНОСТ</translation>
     </message>
     <message>
-        <source>Enter an amount of Clg to convert to zBLASTX</source>
+        <source>Enter an amount of Blast to convert to zBLASTX</source>
         <translation>Въведете колко BLASTX  да се конвертират в zBLASTX</translation>
     </message>
     <message>
@@ -2567,8 +2567,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
         <source>Show the current status of automatic zBLASTX minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to clg.conf
-- disable: add 'enablezeromint=0' to clg.conf
+- enable: add 'enablezeromint=1' to Blast.conf
+- disable: add 'enablezeromint=0' to Blast.conf
 
 To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zBLASTX
@@ -2577,8 +2577,8 @@ To change the percentage (no restart required):
         <translation>Покажи състоянието на автоматичното zBLASTX емитиране.
 
 За да пормените състоянието (изисква рестарт):
-- вклчване: добавете 'enablezeromint=1' в clg.conf
-- изключване: добавете 'enablezeromint=0' в clg.conf
+- вклчване: добавете 'enablezeromint=1' в Blast.conf
+- изключване: добавете 'enablezeromint=0' в Blast.conf
 
 За промяна в процентите (не изисква рестарт):
 - меню Настройки -&gt; Опции -&gt; Процент на автоемитиран zBLASTX
@@ -4845,7 +4845,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
         <source>Select zBLASTX to Spend</source>
         <translation>Изберете zBLASTX за Изпращане</translation>
@@ -4872,7 +4872,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = пази мета данните от преводи, например собственик на акаунта и ифнормация за изисквани плащания, 2 = изхръвли мета данните от преводи)</translation>

@@ -373,9 +373,9 @@
     </message>
     </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     </context>
 </TS>

@@ -653,7 +653,7 @@
         <translation>Send mønter til en BLASTX adresse</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
         <translation>Anmod om betaling (genrerer QR kode og BLASTX URL)</translation>
     </message>
     <message>
@@ -831,7 +831,7 @@ Adresse: %4
     <message>
         <source>Staking is active
  MultiSend: %1</source>
-        <translation>"Indsclgning af saldo" aktiveret
+        <translation>"IndsBlastning af saldo" aktiveret
 "Multisend": %1</translation>
     </message>
     <message>
@@ -845,7 +845,7 @@ Adresse: %4
     <message>
         <source>Staking is not active
  MultiSend: %1</source>
-        <translation>"Indsclgning af saldo" ikke aktiveret
+        <translation>"IndsBlastning af saldo" ikke aktiveret
 "Multisend": %1</translation>
     </message>
     <message>
@@ -892,8 +892,8 @@ Adresse: %4
         <translation>Tekstmærke</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (clg.conf).</source>
-        <translation>Ikke alle transaktioner vil blive vist. For at vise alle transaktioner må De sætte "txindex=1" i konfigurationsfilen (clg.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
+        <translation>Ikke alle transaktioner vil blive vist. For at vise alle transaktioner må De sætte "txindex=1" i konfigurationsfilen (Blast.conf).</translation>
     </message>
 </context>
 <context>
@@ -1130,8 +1130,8 @@ Adresse: %4
         <translation>Denne tekstmarkør bliver rød, hvis en modtageradresse modtager et beløb mindre end %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uclg per input.</source>
-        <translation>Kan variere +/- %1 oclg pr input.</translation>
+        <source>Can vary +/- %1 uBlast per input.</source>
+        <translation>Kan variere +/- %1 oBlast pr input.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1939,9 +1939,9 @@ Vær tålmodig efter at du har klikket på import.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/clg-project/clg-project-translations</source>
+https://www.transifex.com/Blast-project/Blast-project-translations</source>
         <translation>Det valgte sprog mangler, eller oversættelsen er mangelfuld. Hjælp ved at bidrage med oversættelser her:
-https://www.transifex.com/clg-project/clg-project-translations</translation>
+https://www.transifex.com/Blast-project/Blast-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -2148,7 +2148,7 @@ https://www.transifex.com/clg-project/clg-project-translations</translation>
     </message>
     <message>
         <source>Staked or masternode rewards that has not yet matured</source>
-        <translation>Indsclger- eller masternodebelønning er stadig under behandling</translation>
+        <translation>IndsBlaster- eller masternodebelønning er stadig under behandling</translation>
     </message>
     <message>
         <source>Current locked balance in watch-only addresses</source>
@@ -2196,7 +2196,7 @@ Uplettet: bekræftet, men mindre end 1 minutter med samme betegnelse, efter at d
     </message>
     <message>
         <source>Staked or masternode rewards in watch-only addresses that has not yet matured</source>
-        <translation>Indsclger- eller masternodebelønning for "vis kun" adresser er stadig under behandling</translation>
+        <translation>IndsBlaster- eller masternodebelønning for "vis kun" adresser er stadig under behandling</translation>
     </message>
     <message>
         <source>Total:</source>
@@ -2254,14 +2254,14 @@ Hvis AutoMint er aktiveret, vil denne procentdel sætte sig omkring den konfigur
         <translation>AutoMint er i øjeblikket aktiveret og indstillet til</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in clg.conf.</source>
-        <translation>To disable AutoMint add 'enablezeromint=0' in clg.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</source>
+        <translation>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in clg.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf</source>
         <translation>AutoMint er for øjeblikket deaktiveret
-For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' i clg.conf</translation>
+For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' i Blast.conf</translation>
     </message>
 </context>
 <context>
@@ -2287,7 +2287,7 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>Ugyldig betalingsadresse: %1</translation>
     </message>
     <message>
-        <source>Cannot start clg: click-to-pay handler</source>
+        <source>Cannot start Blast: click-to-pay handler</source>
         <translation>Kan ikke starte BLASTX "klik for at betale" systemet</translation>
     </message>
     <message>
@@ -2441,8 +2441,8 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>PRIVATLIV</translation>
     </message>
     <message>
-        <source>Enter an amount of Clg to convert to zBLASTX</source>
-        <translation>Indtast en mængde Clg for at konvertere til zClg</translation>
+        <source>Enter an amount of Blast to convert to zBLASTX</source>
+        <translation>Indtast en mængde Blast for at konvertere til zBlast</translation>
     </message>
     <message>
         <source>zBLASTX Control</source>
@@ -2578,8 +2578,8 @@ Uplettet: bekræftet, men mindre end 1 minutter med samme betegnelse, efter at d
         <source>Show the current status of automatic zBLASTX minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to clg.conf
-- disable: add 'enablezeromint=0' to clg.conf
+- enable: add 'enablezeromint=1' to Blast.conf
+- disable: add 'enablezeromint=0' to Blast.conf
 
 To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zBLASTX
@@ -2588,8 +2588,8 @@ To change the percentage (no restart required):
         <translation>Vis den aktuelle status for automatisk zBLASTX minting.øj
 
 For at ændre status (genstart kræves):.
-- aktiver: tilføj 'enablezeromint = 1' til clg.conf
-- deaktiver: tilføj 'enablezeromint = 0' til clg.conf
+- aktiver: tilføj 'enablezeromint = 1' til Blast.conf
+- deaktiver: tilføj 'enablezeromint = 0' til Blast.conf
 
 For at ændre procentdelen (ingen genstart kræves):.
 - menu Indstillinger-&gt; Indstillinger-&gt; Procentdel af automatiseret zBLASTX
@@ -2737,7 +2737,7 @@ For at ændre procentdelen (ingen genstart kræves):.
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>Hvis denne er aktiveret, men tilbagebetalingsadressen er tom, eller ugyldig, oversclgende beløb vil blive fremsendt til en nyoprettet adresse</translation>
+        <translation>Hvis denne er aktiveret, men tilbagebetalingsadressen er tom, eller ugyldig, oversBlastende beløb vil blive fremsendt til en nyoprettet adresse</translation>
     </message>
     <message>
         <source>Custom change address</source>
@@ -3297,7 +3297,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>Time Offset</source>
-        <translation>Tidsforsclgning</translation>
+        <translation>TidsforsBlastning</translation>
     </message>
     <message>
         <source>Custom Backup Path:</source>
@@ -3729,7 +3729,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>Hvis denne er aktiveret, men tilbagebetalingsadressen er tom, eller ugyldig, oversclgende beløb vil blive fremsendt til en nyoprettet adresse</translation>
+        <translation>Hvis denne er aktiveret, men tilbagebetalingsadressen er tom, eller ugyldig, oversBlastende beløb vil blive fremsendt til en nyoprettet adresse</translation>
     </message>
     <message>
         <source>Custom change address</source>
@@ -4553,11 +4553,11 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>Spent zBLASTX</source>
-        <translation>Brugt zClg</translation>
+        <translation>Brugt zBlast</translation>
     </message>
     <message>
         <source>Received BLASTX from zBLASTX</source>
-        <translation>Modtaget Clg fra zClg</translation>
+        <translation>Modtaget Blast fra zBlast</translation>
     </message>
     <message>
         <source>Minted Change as zBLASTX from zBLASTX Spend</source>
@@ -4784,7 +4784,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>Received BLASTX from zBLASTX</source>
-        <translation>Modtaget Clg fra zClg</translation>
+        <translation>Modtaget Blast fra zBlast</translation>
     </message>
     <message>
         <source>Zerocoin Spend, Change in zBLASTX</source>
@@ -4856,7 +4856,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
 </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
         <source>Select zBLASTX to Spend</source>
         <translation>Vælg zBLASTX for at bruge</translation>
@@ -4883,7 +4883,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
 </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = beholdtx metadata. For eksempel information om kontoejer og betalngsanmodninger, 2 = drop TX metadata)</translation>
@@ -4939,7 +4939,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>Enable automatic wallet backups triggered after each zBLASTX minting (0-1, default: %u)</source>
-        <translation>Aktivér automatiske wallet-sikkerhedskopier udløst efter hver zClg-mintning (0-1, standard: %u)</translation>
+        <translation>Aktivér automatiske wallet-sikkerhedskopier udløst efter hver zBlast-mintning (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for BLASTX inputs (0-1, default: %u)</source>

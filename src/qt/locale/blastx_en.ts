@@ -842,7 +842,7 @@
     </message>
     <message>
         <location line="+11"/>
-        <source>Request payments (generates QR codes and clg: URIs)</source>
+        <source>Request payments (generates QR codes and Blast: URIs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1153,7 +1153,7 @@ Address: %4
     </message>
     <message>
         <location filename="../blockexplorer.cpp" line="+480"/>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (clg.conf).</source>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1453,7 +1453,7 @@ Address: %4
     </message>
     <message>
         <location line="+8"/>
-        <source>Can vary +/- %1 uclg per input.</source>
+        <source>Can vary +/- %1 uBlast per input.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2447,7 +2447,7 @@ Please be patient after clicking import.</source>
     <message>
         <location line="+21"/>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/clg-project/clg-project-translations</source>
+https://www.transifex.com/Blast-project/Blast-project-translations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2853,13 +2853,13 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
     </message>
     <message>
         <location line="+1"/>
-        <source>To disable AutoMint add &apos;enablezeromint=0&apos; in clg.conf.</source>
+        <source>To disable AutoMint add &apos;enablezeromint=0&apos; in Blast.conf.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>AutoMint is currently disabled.
-To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1&apos; in clg.conf</source>
+To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1&apos; in Blast.conf</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2899,7 +2899,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="-108"/>
-        <source>Cannot start clg: click-to-pay handler</source>
+        <source>Cannot start Blast: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3098,7 +3098,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     <message>
         <location line="+182"/>
         <location line="+52"/>
-        <source>Enter an amount of Clg to convert to zBLASTX</source>
+        <source>Enter an amount of Blast to convert to zBLASTX</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3290,8 +3290,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
         <source>Show the current status of automatic zBLASTX minting.
 
 To change the status (restart required):
-- enable: add &apos;enablezeromint=1&apos; to clg.conf
-- disable: add &apos;enablezeromint=0&apos; to clg.conf
+- enable: add &apos;enablezeromint=1&apos; to Blast.conf
+- disable: add &apos;enablezeromint=0&apos; to Blast.conf
 
 To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zBLASTX
@@ -6224,9 +6224,9 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>ZClgControlDialog</name>
+    <name>ZBlastControlDialog</name>
     <message>
-        <location filename="../forms/zclgcontroldialog.ui" line="+20"/>
+        <location filename="../forms/zBlastcontroldialog.ui" line="+20"/>
         <source>Select zBLASTX to Spend</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6258,9 +6258,9 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>clg-core</name>
+    <name>Blast-core</name>
     <message>
-        <location filename="../clgstrings.cpp" line="+15"/>
+        <location filename="../Blaststrings.cpp" line="+15"/>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation type="unfinished">(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</translation>
     </message>

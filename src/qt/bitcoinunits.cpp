@@ -42,11 +42,11 @@ QString BitcoinUnits::id(int unit)
 {
     switch (unit) {
     case BLASTX:
-        return QString("clg");
+        return QString("Blast");
     case mBLASTX:
-        return QString("mclg");
+        return QString("mBlast");
     case uBLASTX:
-        return QString::fromUtf8("uclg");
+        return QString::fromUtf8("uBlast");
     default:
         return QString("???");
     }

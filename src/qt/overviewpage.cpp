@@ -180,14 +180,14 @@ void OverviewPage::setBalance(const CAmount& balance, const CAmount& unconfirmed
 
     // BLASTX Balance
     CAmount nTotalBalance = balance + unconfirmedBalance;
-    CAmount clgAvailableBalance = balance - immatureBalance - nLockedBalance;
+    CAmount BlastAvailableBalance = balance - immatureBalance - nLockedBalance;
 
     // BLASTX Watch-Only Balance
     CAmount nTotalWatchBalance = watchOnlyBalance + watchUnconfBalance;
     CAmount nAvailableWatchBalance = watchOnlyBalance - watchImmatureBalance - nWatchOnlyLockedBalance;
 
     // BLASTX labels
-    ui->labelBalance->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, clgAvailableBalance, false, BitcoinUnits::separatorAlways));
+    ui->labelBalance->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, BlastAvailableBalance, false, BitcoinUnits::separatorAlways));
     ui->labelUnconfirmed->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, unconfirmedBalance, false, BitcoinUnits::separatorAlways));
     ui->labelImmature->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, immatureBalance, false, BitcoinUnits::separatorAlways));
     ui->labelLockedBalance->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, nLockedBalance, false, BitcoinUnits::separatorAlways));
@@ -207,7 +207,7 @@ void OverviewPage::setBalance(const CAmount& balance, const CAmount& unconfirmed
     bool showWatchOnly = nTotalWatchBalance != 0;
 
     // BLASTX Available
-    bool showBLASTXAvailable = settingShowAllBalances || clgAvailableBalance != nTotalBalance;
+    bool showBLASTXAvailable = settingShowAllBalances || BlastAvailableBalance != nTotalBalance;
     bool showWatchOnlyBLASTXAvailable = showBLASTXAvailable || nAvailableWatchBalance != nTotalWatchBalance;
     ui->labelBalanceText->setVisible(showBLASTXAvailable || showWatchOnlyBLASTXAvailable);
     ui->labelBalance->setVisible(showBLASTXAvailable || showWatchOnlyBLASTXAvailable);
