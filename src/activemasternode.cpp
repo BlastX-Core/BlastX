@@ -1,6 +1,7 @@
 // Copyright (c) 2014-2016 The Dash developers
-// Copyright (c) 2015-2019 The PIVX developers
-//Copyright (c) 2019 The BlastX developers
+// Copyright (c) 2015-2017 The PIVX developers
+// Copyright (c) 2019 The Blastx Developers
+// Copyright (c) 2019 The Blastx developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -17,7 +18,7 @@
 CActiveMasternode activeMasternode;
 
 //
-// Bootup the Masternode, look for a BLASTX collateral input and register on the network
+// Bootup the Masternode, look for a BLAST collateral input and register on the network
 //
 void CActiveMasternode::ManageStatus()
 {

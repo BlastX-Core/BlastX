@@ -62,12 +62,12 @@
         <translation>Vastaanottavat osoitteet</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat sinun BLASTX osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
+        <source>These are your BLAST addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat sinun BLAST osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Nämä ovat sinun BLASTX osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
+        <source>These are your BLAST addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Nämä ovat sinun BLAST osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,16 +172,16 @@
         <translation>Vahvista lompakon salaus</translation>
     </message>
     <message>
-        <source>BLASTX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTXs from being stolen by malware infecting your computer.</source>
-        <translation>BLASTX sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella BLASTXien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
+        <source>BLAST will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTs from being stolen by malware infecting your computer.</source>
+        <translation>BLAST sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella BLASTien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Oletko varma että tahdot salata lompakkosi?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLASTX&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja unohdat salausavaimesi, &lt;b&gt;menetät kaikki BLASTXisi&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLAST&lt;/b&gt;!</source>
+        <translation>Varoitus: Jos salaat lompakkosi ja unohdat salausavaimesi, &lt;b&gt;menetät kaikki BLASTisi&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -565,16 +565,16 @@
         <translation>&amp;Apua</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Ydin</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Ydin</translation>
     </message>
     <message>
-        <source>Send coins to a BLASTX address</source>
-        <translation>Lähetä kolikkoja BLASTX osoitteeseen</translation>
+        <source>Send coins to a BLAST address</source>
+        <translation>Lähetä kolikkoja BLAST osoitteeseen</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Blast: URIs)</source>
-        <translation>Pyydä maksuja (Generoi QR koodeja ja Blast: URIja)</translation>
+        <source>Request payments (generates QR codes and blast: URIs)</source>
+        <translation>Pyydä maksuja (Generoi QR koodeja ja blast: URIja)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -585,24 +585,24 @@
         <translation>Selaa masternodeja</translation>
     </message>
     <message>
-        <source>&amp;About BLASTX Core</source>
-        <translation>BLASTX Core &amp;ytimestä</translation>
+        <source>&amp;About BLAST Core</source>
+        <translation>BLAST Core &amp;ytimestä</translation>
     </message>
     <message>
-        <source>Show information about BLASTX Core</source>
-        <translation>Näytä tietoja BLASTX Ytimestä</translation>
+        <source>Show information about BLAST Core</source>
+        <translation>Näytä tietoja BLAST Ytimestä</translation>
     </message>
     <message>
-        <source>Modify configuration options for BLASTX</source>
-        <translation>Muokkaa konfiguraatio vaihtoehtoja BLASTX:lle</translation>
+        <source>Modify configuration options for BLAST</source>
+        <translation>Muokkaa konfiguraatio vaihtoehtoja BLAST:lle</translation>
     </message>
     <message>
-        <source>Sign messages with your BLASTX addresses to prove you own them</source>
+        <source>Sign messages with your BLAST addresses to prove you own them</source>
         <translation>Allekirjoita viestejä todistaaksesi, että omistat ne.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified BLASTX addresses</source>
-        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä BLASTX osoiteella.</translation>
+        <source>Verify messages to ensure they were signed with specified BLAST addresses</source>
+        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä BLAST osoiteella.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -633,8 +633,8 @@
         <translation>Avaa Masternode konfiguraatiotiedosto</translation>
     </message>
     <message>
-        <source>Open a BLASTX: URI or payment request</source>
-        <translation>Avaa BLASTX: URI tai pyydä maksua</translation>
+        <source>Open a BLAST: URI or payment request</source>
+        <translation>Avaa BLAST: URI tai pyydä maksua</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -645,12 +645,12 @@
         <translation>Lohkon tutkija näkymä</translation>
     </message>
     <message>
-        <source>Show the BLASTX Core help message to get a list with possible BLASTX command-line options</source>
-        <translation>Näytä BLASTX Ydin apuviesti saadaksesi lista mahdollisista BLASTX komentolinja komennoista.</translation>
+        <source>Show the BLAST Core help message to get a list with possible BLAST command-line options</source>
+        <translation>Näytä BLAST Ydin apuviesti saadaksesi lista mahdollisista BLAST komentolinja komennoista.</translation>
     </message>
     <message>
-        <source>BLASTX Core client</source>
-        <translation>BLASTX Ydin asiakasohjelma</translation>
+        <source>BLAST Core client</source>
+        <translation>BLAST Ydin asiakasohjelma</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -908,8 +908,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Ydin</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Ydin</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -927,12 +927,12 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to BLASTX Core.</source>
-        <translation>Tervetuloa BLASTX Ytimeen.</translation>
+        <source>Welcome to BLAST Core.</source>
+        <translation>Tervetuloa BLAST Ytimeen.</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Ydin</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Ydin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1128,32 +1128,32 @@ Please check the address and try again.</source>
         <translation>Valitse yksityisyyden taso.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 BLASTX</source>
-        <translation>Käytä 2 erillistä masternodea sekoittaaksesi enintään 10000 BLASTX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 BLAST</source>
+        <translation>Käytä 2 erillistä masternodea sekoittaaksesi enintään 10000 BLAST</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 BLASTX</source>
-        <translation>Käytä 8 erillistä masternodea sekoittaaksesi enintään 10000 BLASTX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 BLAST</source>
+        <translation>Käytä 8 erillistä masternodea sekoittaaksesi enintään 10000 BLAST</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Käytä 16 erillistä masternodea</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 BLASTX anonymoidaksesi 10000 BLASTX</translation>
+        <source>This option is the quickest and will cost about ~0.025 BLAST to anonymize 10000 BLAST</source>
+        <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 BLAST anonymoidaksesi 10000 BLAST</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Tämä vaihtoehto on suhteellisen nopea ja maksaa 0.05 BLASTX anonymoidaksesi 10000 BLASTX</translation>
+        <source>This option is moderately fast and will cost about 0.05 BLAST to anonymize 10000 BLAST</source>
+        <translation>Tämä vaihtoehto on suhteellisen nopea ja maksaa 0.05 BLAST anonymoidaksesi 10000 BLAST</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Tämä on hitain ja turvallisin vaihtoehto. Täydesti anonymisoiminen ei maksa mitään.</translation>
     </message>
     <message>
-        <source>0.1 BLASTX per 10000 BLASTX you anonymize.</source>
-        <translation>0.1 per 10000 BLASTX, jotka anonymisoit.</translation>
+        <source>0.1 BLAST per 10000 BLAST you anonymize.</source>
+        <translation>0.1 per 10000 BLAST, jotka anonymisoit.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1202,12 +1202,12 @@ Please check the address and try again.</source>
         <translation>Ekspertti</translation>
     </message>
     <message>
-        <source>Automatically start BLASTX after logging in to the system.</source>
-        <translation>Automaattisesti käynnistä BLASTX kun kirjaudut sisään.</translation>
+        <source>Automatically start BLAST after logging in to the system.</source>
+        <translation>Automaattisesti käynnistä BLAST kun kirjaudut sisään.</translation>
     </message>
     <message>
-        <source>&amp;Start BLASTX on system login</source>
-        <translation>&amp;Aloita BLASTX järjestelmän kirjautumisessa</translation>
+        <source>&amp;Start BLAST on system login</source>
+        <translation>&amp;Aloita BLAST järjestelmän kirjautumisessa</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -1226,12 +1226,12 @@ Please check the address and try again.</source>
         <translation>&amp;Verkko</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting BLASTX.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting BLAST.</source>
         <translation>Käyttöliittymän kielen voi säätää täällä. Tämä asetus tulee voimaan uudelleenkäynnistettyäsi lompakon.</translation>
     </message>
     <message>
-        <source>Connect to the BLASTX network through a SOCKS5 proxy.</source>
-        <translation>Yhdistä BLASTX verkkoon SOCKS5 proxyn kautta</translation>
+        <source>Connect to the BLAST network through a SOCKS5 proxy.</source>
+        <translation>Yhdistä BLAST verkkoon SOCKS5 proxyn kautta</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1535,8 +1535,8 @@ Please check the address and try again.</source>
         <translation>Lohko ketju</translation>
     </message>
     <message>
-        <source>Open the BLASTX debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa BLASTX debug loki nykyisestä sijainnista. Tämä voi kestää muutaman sekunnin suurille lokeille</translation>
+        <source>Open the BLAST debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa BLAST debug loki nykyisestä sijainnista. Tämä voi kestää muutaman sekunnin suurille lokeille</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -1619,7 +1619,7 @@ Please check the address and try again.</source>
         <translation>Käytössä oleva lompakko:</translation>
     </message>
     <message>
-        <source>BlastX wallet</source>
+        <source>Blastx wallet</source>
         <translation>Pelasta lompakko</translation>
     </message>
     <message>
@@ -1647,8 +1647,8 @@ Please check the address and try again.</source>
         <translation>Ulos:</translation>
     </message>
     <message>
-        <source>Welcome to the BLASTX RPC console.</source>
-        <translation>Tervetuloa BLASTX RPC konsoliin.</translation>
+        <source>Welcome to the BLAST RPC console.</source>
+        <translation>Tervetuloa BLAST RPC konsoliin.</translation>
     </message>
     <message>
         <source>never</source>
@@ -1686,12 +1686,12 @@ Please check the address and try again.</source>
         <translation>Vaihtoehtoinen nimike uudelle vastaanottavalle osoitteelle</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BLASTX network.</source>
-        <translation>Vaihtoehtoinen viesti joka liitetään maksupyyntöön, joka näytetään kun pyyntö avataan. Huomio: Viestiä ei lähetetä maksun mukana BLASTX verkolle.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BLAST network.</source>
+        <translation>Vaihtoehtoinen viesti joka liitetään maksupyyntöön, joka näytetään kun pyyntö avataan. Huomio: Viestiä ei lähetetä maksun mukana BLAST verkolle.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BLASTX network.</source>
-        <translation>Vaihtoehtoinen viesti, joka liitetään maksupyyntöö, joka näytetään kun pyyntö avataan. &lt;br&gt; Huomio: Tätä viestiä ei lähetetä maksun mukana BLASTX  verkolle.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BLAST network.</source>
+        <translation>Vaihtoehtoinen viesti, joka liitetään maksupyyntöö, joka näytetään kun pyyntö avataan. &lt;br&gt; Huomio: Tätä viestiä ei lähetetä maksun mukana BLAST  verkolle.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -1887,8 +1887,8 @@ Please check the address and try again.</source>
         <translation>Muutos:</translation>
     </message>
     <message>
-        <source>0 BLASTX</source>
-        <translation>0 BLASTX</translation>
+        <source>0 BLAST</source>
+        <translation>0 BLAST</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -1963,8 +1963,8 @@ Please check the address and try again.</source>
         <translation>Kopioi taksa</translation>
     </message>
     <message>
-        <source>Warning: Invalid BLASTX address</source>
-        <translation>Varoitus: Virheellinen BLASTX osoite</translation>
+        <source>Warning: Invalid BLAST address</source>
+        <translation>Varoitus: Virheellinen BLAST osoite</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
@@ -2014,8 +2014,8 @@ Please check the address and try again.</source>
         <translation>Tämä on normaali maksu.</translation>
     </message>
     <message>
-        <source>The BLASTX address to send the payment to</source>
-        <translation>BLASTX osoite johon maksu lähetetään</translation>
+        <source>The BLAST address to send the payment to</source>
+        <translation>BLAST osoite johon maksu lähetetään</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2057,8 +2057,8 @@ Please check the address and try again.</source>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>BLASTX Core is shutting down...</source>
-        <translation>BLASTX core sammuu...</translation>
+        <source>BLAST Core is shutting down...</source>
+        <translation>BLAST core sammuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2076,8 +2076,8 @@ Please check the address and try again.</source>
         <translation>Voit allekirjoittaa viestejä osoitteillasi todistaaksesi, että omistat ne. Ole varovainen ettet allekirjoita mitään kummallista, sillä kalasteluyritykset saattavat yrittää huijata sinut luovuttamaan tietoja. Allekirjoita vain täysin yksityiskohtaisia sanomia, jotka hyväksyt.</translation>
     </message>
     <message>
-        <source>The BLASTX address to sign the message with</source>
-        <translation>BLASTX osoite, jolla viesti allekirjoitetaan</translation>
+        <source>The BLAST address to sign the message with</source>
+        <translation>BLAST osoite, jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2108,16 +2108,16 @@ Please check the address and try again.</source>
         <translation>Kopioi nykyinen allekirjoitus järjestelmän leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this BLASTX address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän BLASTX osoitteen</translation>
+        <source>Sign the message to prove you own this BLAST address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän BLAST osoitteen</translation>
     </message>
     <message>
-        <source>The BLASTX address the message was signed with</source>
-        <translation>BLASTX osoite, jolla viesti allekirjoitettiin</translation>
+        <source>The BLAST address the message was signed with</source>
+        <translation>BLAST osoite, jolla viesti allekirjoitettiin</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified BLASTX address</source>
-        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla BLASTX osoitteella.</translation>
+        <source>Verify the message to ensure it was signed with the specified BLAST address</source>
+        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla BLAST osoitteella.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2199,8 +2199,8 @@ Please check the address and try again.</source>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Ydin</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Ydin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2215,8 +2215,8 @@ Please check the address and try again.</source>
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
-        <source>The BLASTX Core developers</source>
-        <translation>BLASTX core kehittäjät</translation>
+        <source>The BLAST Core developers</source>
+        <translation>BLAST core kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2518,7 +2518,7 @@ Please check the address and try again.</source>
     </message>
     </context>
 <context>
-    <name>Blast-core</name>
+    <name>blast-core</name>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
         <translation>Varoitus: Verkko ei näytä olevan samaa mieltä! Jotkin mainaajat saattavat kokea ongelmia.</translation>
@@ -2568,8 +2568,8 @@ Please check the address and try again.</source>
         <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko korruptoitunut</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of BLASTX Core</source>
-        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version BLASTX Coresta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BLAST Core</source>
+        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version BLAST Coresta</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

@@ -17,7 +17,7 @@
   <string>APPL</string>
 
   <key>CFBundleGetInfoString</key>
-  <string>@CLIENT_VERSION_MAJOR@.@CLIENT_VERSION_MINOR@.@CLIENT_VERSION_REVISION@, Copyright © 2009-@COPYRIGHT_YEAR@ The Bitcoin Core developers, 2014-@COPYRIGHT_YEAR@ The Dash Core developers, 2015-@COPYRIGHT_YEAR@ The Pivx Core developers, 2019-@COPYRIGHT_YEAR@ The BlastX Core developers</string>
+  <string>@CLIENT_VERSION_MAJOR@.@CLIENT_VERSION_MINOR@.@CLIENT_VERSION_REVISION@, Copyright © 2009-@COPYRIGHT_YEAR@ The Bitcoin Core developers, 2014-@COPYRIGHT_YEAR@ The Dash Core developers, 2015-@COPYRIGHT_YEAR@ The Pivx Core developers, 2019-@COPYRIGHT_YEAR@ The Blastx Core developers</string>
 
   <key>CFBundleShortVersionString</key>
   <string>@CLIENT_VERSION_MAJOR@.@CLIENT_VERSION_MINOR@.@CLIENT_VERSION_REVISION@</string>
@@ -29,10 +29,10 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>BlastX-Qt</string>
+  <string>Blastx-Qt</string>
 
   <key>CFBundleIdentifier</key>
-  <string>io.savebitcoin.BlastX-Qt</string>
+  <string>io.savebitcoin.Blastx-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -40,7 +40,7 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>io.savebitcoin.BlastXPayment</string>
+      <string>io.savebitcoin.BlastxPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
         <string>blastx</string>
@@ -54,7 +54,7 @@
       <key>UTTypeIdentifier</key>
       <string>io.savebitcoin.paymentrequest</string>
       <key>UTTypeDescription</key>
-      <string>BlastX payment request</string>
+      <string>Blastx payment request</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.data</string>

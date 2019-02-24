@@ -62,12 +62,12 @@
         <translation>Adresy pro přijetí peněz</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto jsou Vaše BLASTX adresy pro poslání platby. Vždy si překontrolujte množství peněz a cílovou adresu než platbu odešlete.</translation>
+        <source>These are your BLAST addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto jsou Vaše BLAST adresy pro poslání platby. Vždy si překontrolujte množství peněz a cílovou adresu než platbu odešlete.</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto jsou Vaše BLASTX adresy pro přijetí plateb. Je doporučeno použít novou adresu pro každou novou transakci.</translation>
+        <source>These are your BLAST addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto jsou Vaše BLAST adresy pro přijetí plateb. Je doporučeno použít novou adresu pro každou novou transakci.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,16 +172,16 @@
         <translation>Potvrdit zašifrování peněženky</translation>
     </message>
     <message>
-        <source>BLASTX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTXs from being stolen by malware infecting your computer.</source>
-        <translation>BLASTX se teď zavře pro dokončení šifrovacího procesu. Prosím, vemte na vědomí, že zašifrování Vaší peněženky plně neochrání Vaše BLASTXy před krádží, pokud je Váš počítač infikován malwarem.</translation>
+        <source>BLAST will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTs from being stolen by malware infecting your computer.</source>
+        <translation>BLAST se teď zavře pro dokončení šifrovacího procesu. Prosím, vemte na vědomí, že zašifrování Vaší peněženky plně neochrání Vaše BLASTy před krádží, pokud je Váš počítač infikován malwarem.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Opravdu chcete zašifrovat Vaši peněženku?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLASTX&lt;/b&gt;!</source>
-        <translation>Varování: Pokud zašifrujete svou peněženku a ztratíte frázové heslo, tak &lt;b&gt;ZTRATÍTE VŠECHNY VAŠE BLASTXy&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLAST&lt;/b&gt;!</source>
+        <translation>Varování: Pokud zašifrujete svou peněženku a ztratíte frázové heslo, tak &lt;b&gt;ZTRATÍTE VŠECHNY VAŠE BLASTy&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -397,8 +397,8 @@
         <translation>Procházet historii transakcí</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBLASTX</source>
-        <translation>Řešení soukromí pro zBLASTX</translation>
+        <source>Privacy Actions for zBLAST</source>
+        <translation>Řešení soukromí pro zBLAST</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -601,16 +601,16 @@
         <translation>Nástrojová lišta záložek</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
-        <source>Send coins to a BLASTX address</source>
-        <translation>Odeslat platbuna BLASTX adresu</translation>
+        <source>Send coins to a BLAST address</source>
+        <translation>Odeslat platbuna BLAST adresu</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Blast: URIs)</source>
-        <translation>Vyžádat platbu (generování QK kódu a Blast: URIs)</translation>
+        <source>Request payments (generates QR codes and blast: URIs)</source>
+        <translation>Vyžádat platbu (generování QK kódu a blast: URIs)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -625,24 +625,24 @@
         <translation>Procházet masternody</translation>
     </message>
     <message>
-        <source>&amp;About BLASTX Core</source>
-        <translation>&amp;O BLASTX Core</translation>
+        <source>&amp;About BLAST Core</source>
+        <translation>&amp;O BLAST Core</translation>
     </message>
     <message>
-        <source>Show information about BLASTX Core</source>
-        <translation>Zobraz informace o BLASTX Core</translation>
+        <source>Show information about BLAST Core</source>
+        <translation>Zobraz informace o BLAST Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for BLASTX</source>
-        <translation>Upravit možnosti konfigurace pro BLASTX</translation>
+        <source>Modify configuration options for BLAST</source>
+        <translation>Upravit možnosti konfigurace pro BLAST</translation>
     </message>
     <message>
-        <source>Sign messages with your BLASTX addresses to prove you own them</source>
-        <translation>Podepsat zprávy Vaší BLASTX adresou pro prokázaní, že jste jejich vlastníkem</translation>
+        <source>Sign messages with your BLAST addresses to prove you own them</source>
+        <translation>Podepsat zprávy Vaší BLAST adresou pro prokázaní, že jste jejich vlastníkem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified BLASTX addresses</source>
-        <translation>Ověřit zprávy k zajištění, že bylypodepsány vybranými BLASTX adresami</translation>
+        <source>Verify messages to ensure they were signed with specified BLAST addresses</source>
+        <translation>Ověřit zprávy k zajištění, že bylypodepsány vybranými BLAST adresami</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -673,8 +673,8 @@
         <translation>Otevřít Masternodový konfigurační soubor</translation>
     </message>
     <message>
-        <source>Open a BLASTX: URI or payment request</source>
-        <translation>Otevřít BLASTX: URI nebo platební žádost</translation>
+        <source>Open a BLAST: URI or payment request</source>
+        <translation>Otevřít BLAST: URI nebo platební žádost</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -685,12 +685,12 @@
         <translation>Okno blokového průzkumníka</translation>
     </message>
     <message>
-        <source>Show the BLASTX Core help message to get a list with possible BLASTX command-line options</source>
-        <translation>Zobrazit BLASTX Core pomocnou zpráv pro získání seznamu možných parametrů BLASTX pro příkazy do příkazové řádky</translation>
+        <source>Show the BLAST Core help message to get a list with possible BLAST command-line options</source>
+        <translation>Zobrazit BLAST Core pomocnou zpráv pro získání seznamu možných parametrů BLAST pro příkazy do příkazové řádky</translation>
     </message>
     <message>
-        <source>BLASTX Core client</source>
-        <translation>BLASTX Core klient</translation>
+        <source>BLAST Core client</source>
+        <translation>BLAST Core klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -820,8 +820,8 @@ MultiSend: %1</translation>
         <translation>TextPopisku</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
-        <translation>Ne všechny transakce budou zobrazeny. Pro zobrazení všech transackí nastavte v konfiguračním souboru (Blast.conf) txindex=1.</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (blast.conf).</source>
+        <translation>Ne všechny transakce budou zobrazeny. Pro zobrazení všech transackí nastavte v konfiguračním souboru (blast.conf) txindex=1.</translation>
     </message>
 </context>
 <context>
@@ -1081,8 +1081,8 @@ MultiSend: %1</translation>
         <translation>Upravit adresu k odeslání platby</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid BLASTX address.</source>
-        <translation>Zadaná adresa "%1" není validní BLASTX adresa.</translation>
+        <source>The entered address "%1" is not a valid BLAST address.</source>
+        <translation>Zadaná adresa "%1" není validní BLAST adresa.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1127,12 +1127,12 @@ MultiSend: %1</translation>
         <translation>verze</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
-        <source>About BLASTX Core</source>
-        <translation>O BLASTX Core</translation>
+        <source>About BLAST Core</source>
+        <translation>O BLAST Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1166,16 +1166,16 @@ MultiSend: %1</translation>
         <translation>Vítejte</translation>
     </message>
     <message>
-        <source>Welcome to BLASTX Core.</source>
-        <translation>Vítejte v BLASTX Core.</translation>
+        <source>Welcome to BLAST Core.</source>
+        <translation>Vítejte v BLAST Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where BLASTX Core will store its data.</source>
-        <translation>Při prvním spuštění programu si můžete vybrat, kam bude BLASTX Core ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where BLAST Core will store its data.</source>
+        <translation>Při prvním spuštění programu si můžete vybrat, kam bude BLAST Core ukládat svá data.</translation>
     </message>
     <message>
-        <source>BLASTX Core will download and store a copy of the BLASTX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>BLASTX Core stáhne a uloží kopii BLASTX blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
+        <source>BLAST Core will download and store a copy of the BLAST block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>BLAST Core stáhne a uloží kopii BLAST blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1186,8 +1186,8 @@ MultiSend: %1</translation>
         <translation>Použít vlastní složku pro data</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1468,24 +1468,24 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Vyberte úrpvěň ochrany soukromí</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 BLASTX</source>
-        <translation>Použí 2 oddělené masternody k promíchání prostředků až do 10000 BLASTX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 BLAST</source>
+        <translation>Použí 2 oddělené masternody k promíchání prostředků až do 10000 BLAST</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Použít 16 oddělených masternodů</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Tato možnost je nejrychleší a bude stát zhruba ~0.025 BLASTX pro anonymizaci 10000 BLASTX</translation>
+        <source>This option is the quickest and will cost about ~0.025 BLAST to anonymize 10000 BLAST</source>
+        <translation>Tato možnost je nejrychleší a bude stát zhruba ~0.025 BLAST pro anonymizaci 10000 BLAST</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Toto je nejpomalejší a nejvíce bezpečná volba. Použití maximalní anonymity bude stát</translation>
     </message>
     <message>
-        <source>0.1 BLASTX per 10000 BLASTX you anonymize.</source>
-        <translation>0.1 BLASTX za 10000 BLASTX anonymizujete.</translation>
+        <source>0.1 BLAST per 10000 BLAST you anonymize.</source>
+        <translation>0.1 BLAST za 10000 BLAST anonymizujete.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1550,12 +1550,12 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start BLASTX after logging in to the system.</source>
-        <translation>Automaticky spustit BLASTX po přihlášení do systému</translation>
+        <source>Automatically start BLAST after logging in to the system.</source>
+        <translation>Automaticky spustit BLAST po přihlášení do systému</translation>
     </message>
     <message>
-        <source>&amp;Start BLASTX on system login</source>
-        <translation>&amp;Spusti BLASTX při přihlášení do systému</translation>
+        <source>&amp;Start BLAST on system login</source>
+        <translation>&amp;Spusti BLAST při přihlášení do systému</translation>
     </message>
     <message>
         <source>Show Masternodes Tab</source>
@@ -2087,8 +2087,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Změna:</translation>
     </message>
     <message>
-        <source>0 BLASTX</source>
-        <translation>0 BLASTX</translation>
+        <source>0 BLAST</source>
+        <translation>0 BLAST</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2212,8 +2212,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The BLASTX address to sign the message with</source>
-        <translation>BLASTX adresa pro podepsání zprávy</translation>
+        <source>The BLAST address to sign the message with</source>
+        <translation>BLAST adresa pro podepsání zprávy</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2240,16 +2240,16 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Kopírovat aktuální podpis do systémové mezipaměti</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this BLASTX address</source>
-        <translation>Podepsat zprávu k prokázání, že vlastníte tuto BLASTX adresu</translation>
+        <source>Sign the message to prove you own this BLAST address</source>
+        <translation>Podepsat zprávu k prokázání, že vlastníte tuto BLAST adresu</translation>
     </message>
     <message>
-        <source>The BLASTX address the message was signed with</source>
-        <translation>BLASTX adresa zprávy byla podpsána</translation>
+        <source>The BLAST address the message was signed with</source>
+        <translation>BLAST adresa zprávy byla podpsána</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified BLASTX address</source>
-        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou BLASTX adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified BLAST address</source>
+        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou BLAST adresou</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2291,8 +2291,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     </context>
 <context>
@@ -2402,7 +2402,7 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
     </message>
     </context>
 <context>
-    <name>Blast-core</name>
+    <name>blast-core</name>
     <message>
         <source>Error</source>
         <translation>Chyba</translation>

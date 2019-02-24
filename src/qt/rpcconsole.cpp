@@ -53,7 +53,7 @@ const QSize ICON_SIZE(24, 24);
 const int INITIAL_TRAFFIC_GRAPH_MINS = 30;
 
 // Repair parameters
-const QString COLLEGICOINWALLET("-blastxwallet");
+const QString BLASTXWALLET("-blastxwallet");
 const QString RESCAN("-rescan");
 const QString ZAPTXES1("-zapwallettxes=1");
 const QString ZAPTXES2("-zapwallettxes=2");
@@ -281,7 +281,7 @@ RPCConsole::RPCConsole(QWidget* parent) : QDialog(parent, Qt::WindowSystemMenuHi
     connect(ui->btnClearTrafficGraph, SIGNAL(clicked()), ui->trafficGraph, SLOT(clear()));
 
     // Wallet Repair Buttons
-    connect(ui->btn_blastxwallet, SIGNAL(clicked()), this, SLOT(walletBlastX()));
+    connect(ui->btn_blastxwallet, SIGNAL(clicked()), this, SLOT(walletBlastx()));
     connect(ui->btn_rescan, SIGNAL(clicked()), this, SLOT(walletRescan()));
     connect(ui->btn_zapwallettxes1, SIGNAL(clicked()), this, SLOT(walletZaptxes1()));
     connect(ui->btn_zapwallettxes2, SIGNAL(clicked()), this, SLOT(walletZaptxes2()));
@@ -507,9 +507,9 @@ static QString categoryClass(int category)
 }
 
 /** Restart wallet with "-blastxwallet" */
-void RPCConsole::walletBlastX()
+void RPCConsole::walletBlastx()
 {
-    buildParameterlist(COLLEGICOINWALLET);
+    buildParameterlist(BLASTXWALLET);
 }
 
 /** Restart wallet with "-rescan" */
@@ -571,7 +571,7 @@ void RPCConsole::buildParameterlist(QString arg)
     args.removeFirst();
 
     // Remove existing repair-options
-    args.removeAll(COLLEGICOINWALLET);
+    args.removeAll(BLASTXWALLET);
     args.removeAll(RESCAN);
     args.removeAll(ZAPTXES1);
     args.removeAll(ZAPTXES2);
@@ -611,7 +611,7 @@ void RPCConsole::clear()
         "td.cmd-error { color: red; } "
         "b { color: #006060; } ");
 
-    message(CMD_REPLY, (tr("Welcome to the BlastX RPC console.") + "<br>" +
+    message(CMD_REPLY, (tr("Welcome to the Blastx RPC console.") + "<br>" +
                            tr("Use up and down arrows to navigate history, and <b>Ctrl-L</b> to clear screen.") + "<br>" +
                            tr("Type <b>help</b> for an overview of available commands.")),
         true);

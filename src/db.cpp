@@ -159,7 +159,7 @@ CDBEnv::VerifyResult CDBEnv::Verify(std::string strFile, bool (*recoverFunc)(CDB
     return (fRecovered ? RECOVER_OK : RECOVER_FAIL);
 }
 
-bool CDBEnv::BlastX(std::string strFile, bool fAggressive, std::vector<CDBEnv::KeyValPair>& vResult)
+bool CDBEnv::Blastx(std::string strFile, bool fAggressive, std::vector<CDBEnv::KeyValPair>& vResult)
 {
     LOCK(cs_db);
     assert(mapFileUseCount.count(strFile) == 0);
@@ -173,14 +173,14 @@ bool CDBEnv::BlastX(std::string strFile, bool fAggressive, std::vector<CDBEnv::K
     Db db(&dbenv, 0);
     int result = db.verify(strFile.c_str(), NULL, &strDump, flags);
     if (result == DB_VERIFY_BAD) {
-        LogPrintf("CDBEnv::BlastX : Database blastx found errors, all data may not be recoverable.\n");
+        LogPrintf("CDBEnv::Blastx : Database blastx found errors, all data may not be recoverable.\n");
         if (!fAggressive) {
-            LogPrintf("CDBEnv::BlastX : Rerun with aggressive mode to ignore errors and continue.\n");
+            LogPrintf("CDBEnv::Blastx : Rerun with aggressive mode to ignore errors and continue.\n");
             return false;
         }
     }
     if (result != 0 && result != DB_VERIFY_BAD) {
-        LogPrintf("CDBEnv::BlastX : Database blastx failed with result %d.\n", result);
+        LogPrintf("CDBEnv::Blastx : Database blastx failed with result %d.\n", result);
         return false;
     }
 

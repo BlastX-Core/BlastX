@@ -1,6 +1,7 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
-// Copyright (c) 2015-2019 The PIVX developers
-//Copyright (c) 2019 The BlastX developers
+// Copyright (c) 2015-2017 The PIVX developers
+// Copyright (c) 2019 The Blastx Developers
+// Copyright (c) 2019 The Blastx developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -48,7 +49,7 @@ static bool AppInitRawTx(int argc, char* argv[])
 
     if (argc < 2 || mapArgs.count("-?") || mapArgs.count("-help")) {
         // First part of help message is specific to this utility
-        std::string strUsage = _("BlastX Core blastx-tx utility version") + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = _("Blastx Core blastx-tx utility version") + " " + FormatFullVersion() + "\n\n" +
                                _("Usage:") + "\n" +
                                "  blastx-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded blastx transaction") + "\n" +
                                "  blastx-tx [options] -create [commands]   " + _("Create hex-encoded blastx transaction") + "\n" +

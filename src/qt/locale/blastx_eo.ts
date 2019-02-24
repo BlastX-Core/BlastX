@@ -62,11 +62,11 @@
         <translation>Ricevanta adresojn</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ĉi tiuj estas viaj BLASTX adreso por sendi pagojn. Ĉiam kontroku la kvanto kaj la ricevanta antaŭ ol sendi monerojn.</translation>
+        <source>These are your BLAST addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ĉi tiuj estas viaj BLAST adreso por sendi pagojn. Ĉiam kontroku la kvanto kaj la ricevanta antaŭ ol sendi monerojn.</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your BLAST addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Ĉi tiuj estas vian adreson por ricevi pagojn. Ĝi rekomendas uzi novajn ricenvantan adreson por ĉiu nova transakcio.</translation>
     </message>
     <message>
@@ -176,15 +176,15 @@
         <translation>Konfirmi monerĉifrado</translation>
     </message>
     <message>
-        <source>BLASTX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTXs from being stolen by malware infecting your computer.</source>
-        <translation>BLASTX fermos nun por fini ĉifran procezon. Memoru ke ĉifri vian monujon ne povas plene protekti viajn BLASTXs de esti ŝtelita per malware infektanta vian komputilon.</translation>
+        <source>BLAST will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTs from being stolen by malware infecting your computer.</source>
+        <translation>BLAST fermos nun por fini ĉifran procezon. Memoru ke ĉifri vian monujon ne povas plene protekti viajn BLASTs de esti ŝtelita per malware infektanta vian komputilon.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Ĉu vi certas ke vi volas ĉifri vian monujon?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLASTX&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLAST&lt;/b&gt;!</source>
         <translation>Averto: se vi ĉifras vian monujo kaj perdi vian pasfrazon, vi &lt;b&gt;PERDOS VIAN TUTAN MONON&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -254,11 +254,11 @@
         <translation>Adreso:</translation>
     </message>
     <message>
-        <source>Enter a BLASTX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Eniri unu BLASTX adreso ke vi volus ĉifri per BIP 38. Eniri unu pasfrazon meze skatolo. Klaku ĉifri por komputi la ĉifrita privata ŝlosilo.</translation>
+        <source>Enter a BLAST Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Eniri unu BLAST adreso ke vi volus ĉifri per BIP 38. Eniri unu pasfrazon meze skatolo. Klaku ĉifri por komputi la ĉifrita privata ŝlosilo.</translation>
     </message>
     <message>
-        <source>The BLASTX address to encrypt</source>
+        <source>The BLAST address to encrypt</source>
         <translation>Adreson por ĉifri</translation>
     </message>
     <message>
@@ -290,8 +290,8 @@
         <translation>Kopiu la aktualan subskribo al la sistemo-poŝo</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this BLASTX address</source>
-        <translation>Ĉifri la privata ŝlosilo por ĉi tiu BLASTX adreso</translation>
+        <source>Encrypt the private key for this BLAST address</source>
+        <translation>Ĉifri la privata ŝlosilo por ĉi tiu BLAST adreso</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>&amp;Foliumi transakcio historio</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBLASTX</source>
-        <translation>Privataj agoj por zBLASTX</translation>
+        <source>Privacy Actions for zBLAST</source>
+        <translation>Privataj agoj por zBLAST</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,16 +645,16 @@
         <translation>Iloj langeto</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX kerno</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST kerno</translation>
     </message>
     <message>
-        <source>Send coins to a BLASTX address</source>
-        <translation>Sendu mono al BLASTX addreso</translation>
+        <source>Send coins to a BLAST address</source>
+        <translation>Sendu mono al BLAST addreso</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Blast: URIs)</source>
-        <translation>Peto pagojn (generas QR kodojn kaj Blast: URIs)</translation>
+        <source>Request payments (generates QR codes and blast: URIs)</source>
+        <translation>Peto pagojn (generas QR kodojn kaj blast: URIs)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Foliumi mastro-nodo</translation>
     </message>
     <message>
-        <source>&amp;About BLASTX Core</source>
-        <translation>&amp;Pri BLASTX Kerno</translation>
+        <source>&amp;About BLAST Core</source>
+        <translation>&amp;Pri BLAST Kerno</translation>
     </message>
     <message>
-        <source>Show information about BLASTX Core</source>
-        <translation>Montri informon pri BLASTX Kerno</translation>
+        <source>Show information about BLAST Core</source>
+        <translation>Montri informon pri BLAST Kerno</translation>
     </message>
     <message>
-        <source>Modify configuration options for BLASTX</source>
-        <translation>Modifi agordajn opciojn por BLASTX</translation>
+        <source>Modify configuration options for BLAST</source>
+        <translation>Modifi agordajn opciojn por BLAST</translation>
     </message>
     <message>
-        <source>Sign messages with your BLASTX addresses to prove you own them</source>
-        <translation>Subskribu mesaĝo per via BLASTX adreso por pruvi vi posedas ĝin</translation>
+        <source>Sign messages with your BLAST addresses to prove you own them</source>
+        <translation>Subskribu mesaĝo per via BLAST adreso por pruvi vi posedas ĝin</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified BLASTX addresses</source>
-        <translation>Kontrolu mesaĝojn por certigi ke ili estas subskribita kun specifita BLASTX adreso</translation>
+        <source>Verify messages to ensure they were signed with specified BLAST addresses</source>
+        <translation>Kontrolu mesaĝojn por certigi ke ili estas subskribita kun specifita BLAST adreso</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Malfermi mastro-nodo agord-dosieron</translation>
     </message>
     <message>
-        <source>Open a BLASTX: URI or payment request</source>
-        <translation>Malfermi unu BLASTX: URI aŭ pago peto</translation>
+        <source>Open a BLAST: URI or payment request</source>
+        <translation>Malfermi unu BLAST: URI aŭ pago peto</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Bloko esplorilo fenestro</translation>
     </message>
     <message>
-        <source>Show the BLASTX Core help message to get a list with possible BLASTX command-line options</source>
-        <translation>Montri la BLASTX Kore help-mesaĝo por havi liston de havebla BLASTX komandlinion opciojn</translation>
+        <source>Show the BLAST Core help message to get a list with possible BLAST command-line options</source>
+        <translation>Montri la BLAST Kore help-mesaĝo por havi liston de havebla BLAST komandlinion opciojn</translation>
     </message>
     <message>
-        <source>BLASTX Core client</source>
-        <translation>BLASTX Kerno kliento</translation>
+        <source>BLAST Core client</source>
+        <translation>BLAST Kerno kliento</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to BLASTX network</source>
-        <translation><numerusform>%n aktiva ligo(j) al la BLASTX reto</numerusform><numerusform>%n aktiva ligo(j) al la BLASTX reto</numerusform></translation>
+        <source>%n active connection(s) to BLAST network</source>
+        <translation><numerusform>%n aktiva ligo(j) al la BLAST reto</numerusform><numerusform>%n aktiva ligo(j) al la BLAST reto</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ Muktisendi: %1</translation>
         <translation>Tekstetikedo</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
-        <translation>Ĉiuj transakcio ne estos montri. Peor vidi ĉiuj transakcio bezonas agordi txindekso=1 en la agordo dosiero (Blast.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (blast.conf).</source>
+        <translation>Ĉiuj transakcio ne estos montri. Peor vidi ĉiuj transakcio bezonas agordi txindekso=1 en la agordo dosiero (blast.conf).</translation>
     </message>
 </context>
 <context>
@@ -1122,8 +1122,8 @@ Muktisendi: %1</translation>
         <translation>Ĉi tiun etikedo ruĝiĝas se iu ajna ricevanto ricevas totalo pli malgranda ol %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uBlast per input.</source>
-        <translation>Povas varii +/- %1 uBlast per enigo.</translation>
+        <source>Can vary +/- %1 ublast per input.</source>
+        <translation>Povas varii +/- %1 ublast per enigo.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1177,8 +1177,8 @@ Muktisendi: %1</translation>
         <translation>Redaktu sendantan adreson</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid BLASTX address.</source>
-        <translation>La enirita "%1" adreso ne estas validan BLASTX adreson.</translation>
+        <source>The entered address "%1" is not a valid BLAST address.</source>
+        <translation>La enirita "%1" adreso ne estas validan BLAST adreson.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1223,16 +1223,16 @@ Muktisendi: %1</translation>
         <translation>versio</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX kerno</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST kerno</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bajto)</translation>
     </message>
     <message>
-        <source>About BLASTX Core</source>
-        <translation>Pri BLASTX Kerno</translation>
+        <source>About BLAST Core</source>
+        <translation>Pri BLAST Kerno</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1274,16 +1274,16 @@ Muktisendi: %1</translation>
         <translation>Bonvenon</translation>
     </message>
     <message>
-        <source>Welcome to BLASTX Core.</source>
-        <translation>Bonvenon al la BLASTX Kerno.</translation>
+        <source>Welcome to BLAST Core.</source>
+        <translation>Bonvenon al la BLAST Kerno.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where BLASTX Core will store its data.</source>
-        <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie BLASTX kernk storigis sian datumojn. </translation>
+        <source>As this is the first time the program is launched, you can choose where BLAST Core will store its data.</source>
+        <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie BLAST kernk storigis sian datumojn. </translation>
     </message>
     <message>
-        <source>BLASTX Core will download and store a copy of the BLASTX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>BLASTX kerno elŝutos kaj konservi kopion de la BLASTX blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
+        <source>BLAST Core will download and store a copy of the BLAST block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>BLAST kerno elŝutos kaj konservi kopion de la BLAST blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1294,8 +1294,8 @@ Muktisendi: %1</translation>
         <translation>Uzi kutimon datumojn dosierujo:</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX kerno</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST kerno</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1561,8 +1561,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>Adreso / Kvanto:</translation>
     </message>
     <message>
-        <source>Add destinations to send BLASTX to</source>
-        <translation>Aldonu destinoj por sendi BLASTX al</translation>
+        <source>Add destinations to send BLAST to</source>
+        <translation>Aldonu destinoj por sendi BLAST al</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1628,12 +1628,12 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>Bonvolu elekti privata nivelo.</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Tion opcion estas la plej rapida kaji kostos ~0.025 BLASTX por anonimigi 10000 BLASTX</translation>
+        <source>This option is the quickest and will cost about ~0.025 BLAST to anonymize 10000 BLAST</source>
+        <translation>Tion opcion estas la plej rapida kaji kostos ~0.025 BLAST por anonimigi 10000 BLAST</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Tion opcion estas moderebla rapide kaj kostos ĉirkaŭ 0.05 BLASTX por anonimigi 10000 BLASTX</translation>
+        <source>This option is moderately fast and will cost about 0.05 BLAST to anonymize 10000 BLAST</source>
+        <translation>Tion opcion estas moderebla rapide kaj kostos ĉirkaŭ 0.05 BLAST por anonimigi 10000 BLAST</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -1682,8 +1682,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>&amp;Monujo</translation>
     </message>
     <message>
-        <source>Automatically open the BLASTX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aŭtomate malfermi BLASTX klienton havenon en la enkursigilo. Tio nur laboras kiam via enkursigilo subtenas UPnP kaj estas ebligita.</translation>
+        <source>Automatically open the BLAST client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aŭtomate malfermi BLAST klienton havenon en la enkursigilo. Tio nur laboras kiam via enkursigilo subtenas UPnP kaj estas ebligita.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1694,8 +1694,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>Sperta</translation>
     </message>
     <message>
-        <source>&amp;Start BLASTX on system login</source>
-        <translation>&amp;Komencu BLASTX en sistem-ensaluto</translation>
+        <source>&amp;Start BLAST on system login</source>
+        <translation>&amp;Komencu BLAST en sistem-ensaluto</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
@@ -1706,18 +1706,18 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>&amp;Reto</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting BLASTX.</source>
-        <translation>La uzanta interfaco lingvo povas esti agordi ĉi tie. Tio agordo efektivigos post rekomenci BLASTX.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BLAST.</source>
+        <translation>La uzanta interfaco lingvo povas esti agordi ĉi tie. Tio agordo efektivigos post rekomenci BLAST.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Blast-project/Blast-project-translations</source>
+https://www.transifex.com/blast-project/blast-project-translations</source>
         <translation>Ĉu mankas lingvon aŭ nekompleta tradukado? Helpu la  tradukcio ĉi tie:
-https://www.transifex.com/Blast-project/Blast-project-translations</translation>
+https://www.transifex.com/blast-project/blast-project-translations</translation>
     </message>
     <message>
-        <source>Connect to the BLASTX network through a SOCKS5 proxy.</source>
-        <translation>Konekti al la BLASTX reto per SOCKS5 prokurilo.</translation>
+        <source>Connect to the BLAST network through a SOCKS5 proxy.</source>
+        <translation>Konekti al la BLAST reto per SOCKS5 prokurilo.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1787,20 +1787,20 @@ https://www.transifex.com/Blast-project/Blast-project-translations</translation>
         <translation>Via aktuala elspezebla saldo</translation>
     </message>
     <message>
-        <source>BLASTX Balance</source>
-        <translation>BLASTX kvanto</translation>
+        <source>BLAST Balance</source>
+        <translation>BLAST kvanto</translation>
     </message>
     <message>
         <source>Immature:</source>
         <translation>Nematura:</translation>
     </message>
     <message>
-        <source>Your current BLASTX balance, unconfirmed and immature transactions included</source>
-        <translation>Via aktuala BLASTX totalo, nekonformita kaj nematurita transakcioj inkluzivita</translation>
+        <source>Your current BLAST balance, unconfirmed and immature transactions included</source>
+        <translation>Via aktuala BLAST totalo, nekonformita kaj nematurita transakcioj inkluzivita</translation>
     </message>
     <message>
-        <source>zBLASTX Balance</source>
-        <translation>zBLASTX kvanto</translation>
+        <source>zBLAST Balance</source>
+        <translation>zBLAST kvanto</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -1809,8 +1809,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mintita</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLASTX network after a connection is established, but this process has not completed yet.</source>
-        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la BLASTX reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLAST network after a connection is established, but this process has not completed yet.</source>
+        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la BLAST reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -1849,7 +1849,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
-        <translation>Pago peto dosiero ne povas estas legi! Ĉi tio Blastas esti kauzita por nevalida pago peto dosiero.</translation>
+        <translation>Pago peto dosiero ne povas estas legi! Ĉi tio blastas esti kauzita por nevalida pago peto dosiero.</translation>
     </message>
     <message>
         <source>Payment request rejected</source>
@@ -1862,20 +1862,20 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLASTX network after a connection is established, but this process has not completed yet.</source>
-        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la BLASTX reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLAST network after a connection is established, but this process has not completed yet.</source>
+        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la BLAST reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
     </message>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zBLASTX</source>
-        <translation>zBLASTX</translation>
+        <source>zBLAST</source>
+        <translation>zBLAST</translation>
     </message>
     <message>
-        <source>0.000 000 00 BLASTX</source>
-        <translation>0.000 000 00 BLASTX</translation>
+        <source>0.000 000 00 BLAST</source>
+        <translation>0.000 000 00 BLAST</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1890,12 +1890,12 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Kvanto</translation>
     </message>
     <message>
-        <source>zBLASTX Control</source>
-        <translation>zBLASTX kontrolu</translation>
+        <source>zBLAST Control</source>
+        <translation>zBLAST kontrolu</translation>
     </message>
     <message>
-        <source>zBLASTX Selected:</source>
-        <translation>Elektita zBLASTX</translation>
+        <source>zBLAST Selected:</source>
+        <translation>Elektita zBLAST</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -1906,20 +1906,20 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Elspezi zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBLASTX for spending</source>
-        <translation>Havebla (matura kaj elspezebla) zBLASTX por elspezi</translation>
+        <source>Available (mature and spendable) zBLAST for spending</source>
+        <translation>Havebla (matura kaj elspezebla) zBLAST por elspezi</translation>
     </message>
     <message>
-        <source>0 zBLASTX</source>
-        <translation>0 zBLASTX</translation>
+        <source>0 zBLAST</source>
+        <translation>0 zBLAST</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
         <translation>Pagu &amp;Al:</translation>
     </message>
     <message>
-        <source>The BLASTX address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>BLASTX adreso por alsendi la pago. Kreas lokala pago al vi mem kiam malplenija.</translation>
+        <source>The BLAST address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>BLAST adreso por alsendi la pago. Kreas lokala pago al vi mem kiam malplenija.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2004,8 +2004,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Mesaĝo: eniri kvanto &gt; 0.</translation>
     </message>
     <message>
-        <source>Invalid BLASTX Address</source>
-        <translation>Nevalida BLASTX adreso</translation>
+        <source>Invalid BLAST Address</source>
+        <translation>Nevalida BLAST adreso</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
@@ -2101,8 +2101,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Rekonstrui indekson</translation>
     </message>
     <message>
-        <source>Welcome to the BLASTX RPC console.</source>
-        <translation>Bonvenon al la BLASTX RPC konzolo.</translation>
+        <source>Welcome to the BLAST RPC console.</source>
+        <translation>Bonvenon al la BLAST RPC konzolo.</translation>
     </message>
     <message>
         <source>1 &amp;hour</source>
@@ -2297,8 +2297,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Se estas aktiva sed ŝanĝo-adreso estas malpleniĝa au nevalida, ŝanĝo sendos al nova generita adreson.</translation>
     </message>
     <message>
-        <source>0 BLASTX</source>
-        <translation>0 BLASTX</translation>
+        <source>0 BLAST</source>
+        <translation>0 BLAST</translation>
     </message>
     <message>
         <source>Open Coin Control...</source>
@@ -2345,8 +2345,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Kopi ŝanĝo</translation>
     </message>
     <message>
-        <source>Warning: Invalid BLASTX address</source>
-        <translation>Averto: nevalida BLASTX adreson</translation>
+        <source>Warning: Invalid BLAST address</source>
+        <translation>Averto: nevalida BLAST adreson</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
@@ -2372,8 +2372,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Pagu &amp;Al:</translation>
     </message>
     <message>
-        <source>The BLASTX address to send the payment to</source>
-        <translation>BLASTXC adreso por sendi la pago al</translation>
+        <source>The BLAST address to send the payment to</source>
+        <translation>BLASTC adreso por sendi la pago al</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2407,8 +2407,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>BLASTX Core is shutting down...</source>
-        <translation>BLASTX kerno fermanta...</translation>
+        <source>BLAST Core is shutting down...</source>
+        <translation>BLAST kerno fermanta...</translation>
     </message>
     </context>
 <context>
@@ -2461,8 +2461,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX kerno</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST kerno</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2473,8 +2473,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>La Dash kerno programistoj</translation>
     </message>
     <message>
-        <source>The BLASTX Core developers</source>
-        <translation>La BLASTX kerno programistoj</translation>
+        <source>The BLAST Core developers</source>
+        <translation>La BLAST kerno programistoj</translation>
     </message>
     </context>
 <context>
@@ -2655,8 +2655,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>0</translation>
     </message>
     <message>
-        <source>zBLASTX</source>
-        <translation>zBLASTX</translation>
+        <source>zBLAST</source>
+        <translation>zBLAST</translation>
     </message>
     <message>
         <source>Is Spendable</source>
@@ -2664,7 +2664,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
     </message>
 </context>
 <context>
-    <name>Blast-core</name>
+    <name>blast-core</name>
     <message>
         <source>Connect through SOCKS5 proxy</source>
         <translation>Konekti per SOCKS5 prokurilo</translation>

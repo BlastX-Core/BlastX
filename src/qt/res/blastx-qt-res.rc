@@ -19,14 +19,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "BlastX"
-            VALUE "FileDescription",    "BlastX Core (OSS GUI client for BlastX)"
+            VALUE "CompanyName",        "Blastx"
+            VALUE "FileDescription",    "Blastx Core (OSS GUI client for Blastx)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "blastx-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "blastx-qt.exe"
-            VALUE "ProductName",        "BlastX Core"
+            VALUE "ProductName",        "Blastx Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

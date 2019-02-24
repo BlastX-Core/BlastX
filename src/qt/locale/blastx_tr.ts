@@ -62,12 +62,12 @@
         <translation>Alıcı Adres</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödemeleri göndermek için olan BLASTX adreslerinizdir.Coinleri göndermeden önce her zaman gönderilen miktarı ve adresi kontrol edin</translation>
+        <source>These are your BLAST addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödemeleri göndermek için olan BLAST adreslerinizdir.Coinleri göndermeden önce her zaman gönderilen miktarı ve adresi kontrol edin</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Bunlar ödemeleri almak için olan BLASTX adreslerinizdirHer işlem için yeni bir adres kullanmanız önerilir.</translation>
+        <source>These are your BLAST addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Bunlar ödemeleri almak için olan BLAST adreslerinizdirHer işlem için yeni bir adres kullanmanız önerilir.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,15 +176,15 @@
         <translation>cüzdan şifrelemesini onayla</translation>
     </message>
     <message>
-        <source>BLASTX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTXs from being stolen by malware infecting your computer.</source>
-        <translation>BLASTX şifreleme işlemini tamamlamak için şimdi kapanacaktır. Cüzdanınızı şifrelemenin, BLASTX'lerinizi bilgisayarınıza bulaşan kötücül yazılımlar tarafından çalınmasına tamamen engelleyemediğini unutmayın</translation>
+        <source>BLAST will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTs from being stolen by malware infecting your computer.</source>
+        <translation>BLAST şifreleme işlemini tamamlamak için şimdi kapanacaktır. Cüzdanınızı şifrelemenin, BLAST'lerinizi bilgisayarınıza bulaşan kötücül yazılımlar tarafından çalınmasına tamamen engelleyemediğini unutmayın</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Cüzdanınızı şifrelemek istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLASTX&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLAST&lt;/b&gt;!</source>
         <translation>Dikkat! Eğer cüzdanınızı şifrelerseniz ve şifrenizi unutursanız &lt;b&gt;Tüm Pıvlerinizi kaybedersiniz&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -254,12 +254,12 @@
         <translation>adres</translation>
     </message>
     <message>
-        <source>Enter a BLASTX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>BIP 38 ile şifrelemek isteğiniz BLASTX Adresini giriniz. Ortadaki kutucuğa bir parola giriniz. Şifrelenmiş özel anahtarı hesaplamak için şifrele tuşuna basınız. </translation>
+        <source>Enter a BLAST Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>BIP 38 ile şifrelemek isteğiniz BLAST Adresini giriniz. Ortadaki kutucuğa bir parola giriniz. Şifrelenmiş özel anahtarı hesaplamak için şifrele tuşuna basınız. </translation>
     </message>
     <message>
-        <source>The BLASTX address to encrypt</source>
-        <translation>Şifrelenecek BLASTX adresi</translation>
+        <source>The BLAST address to encrypt</source>
+        <translation>Şifrelenecek BLAST adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Geçerli imzayı sistem panosuna kopyala</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this BLASTX address</source>
-        <translation>Bu BLASTX adresinin özel anahtarını şifreleyin</translation>
+        <source>Encrypt the private key for this BLAST address</source>
+        <translation>Bu BLAST adresinin özel anahtarını şifreleyin</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>İşlem geçmişini ara</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBLASTX</source>
-        <translation>Gizlilik Aksiyonları zBLASTX</translation>
+        <source>Privacy Actions for zBLAST</source>
+        <translation>Gizlilik Aksiyonları zBLAST</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -637,16 +637,16 @@
         <translation>Sekme tablosu</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX CORE</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST CORE</translation>
     </message>
     <message>
-        <source>Send coins to a BLASTX address</source>
-        <translation>Koinleri BLASTX adresine gönder</translation>
+        <source>Send coins to a BLAST address</source>
+        <translation>Koinleri BLAST adresine gönder</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Blast: URIs)</source>
-        <translation>Ödeme talep etme (QR kodları ve Blast üretir: URI'ler)</translation>
+        <source>Request payments (generates QR codes and blast: URIs)</source>
+        <translation>Ödeme talep etme (QR kodları ve blast üretir: URI'ler)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -661,24 +661,24 @@
         <translation>Masternodları ara</translation>
     </message>
     <message>
-        <source>&amp;About BLASTX Core</source>
+        <source>&amp;About BLAST Core</source>
         <translation>Pıvx core Hakkında</translation>
     </message>
     <message>
-        <source>Show information about BLASTX Core</source>
+        <source>Show information about BLAST Core</source>
         <translation>Pıvx Core hakkında bilgi göster</translation>
     </message>
     <message>
-        <source>Modify configuration options for BLASTX</source>
-        <translation>BLASTX için yapılandırma seçeneklerini değiştirin</translation>
+        <source>Modify configuration options for BLAST</source>
+        <translation>BLAST için yapılandırma seçeneklerini değiştirin</translation>
     </message>
     <message>
-        <source>Sign messages with your BLASTX addresses to prove you own them</source>
-        <translation>Sahip olduğunuzu kanıtlamak için mesajlarınızı BLASTX adresleriyle imzalayın</translation>
+        <source>Sign messages with your BLAST addresses to prove you own them</source>
+        <translation>Sahip olduğunuzu kanıtlamak için mesajlarınızı BLAST adresleriyle imzalayın</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified BLASTX addresses</source>
-        <translation>Belirtilen BLASTX adresleriyle imzalanmış olduklarından emin olmak için iletileri doğrulayın</translation>
+        <source>Verify messages to ensure they were signed with specified BLAST addresses</source>
+        <translation>Belirtilen BLAST adresleriyle imzalanmış olduklarından emin olmak için iletileri doğrulayın</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -709,8 +709,8 @@
         <translation>Açık Masternode yapılandırma dosyası</translation>
     </message>
     <message>
-        <source>Open a BLASTX: URI or payment request</source>
-        <translation>Bir BLASTX: URI veya ödeme isteği açın</translation>
+        <source>Open a BLAST: URI or payment request</source>
+        <translation>Bir BLAST: URI veya ödeme isteği açın</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -721,12 +721,12 @@
         <translation>Kaşif penceresini engelle</translation>
     </message>
     <message>
-        <source>Show the BLASTX Core help message to get a list with possible BLASTX command-line options</source>
-        <translation>Olası BLASTX komut satırı seçeneklerine sahip bir liste almak için BLASTX Core yardım mesajını gösterin</translation>
+        <source>Show the BLAST Core help message to get a list with possible BLAST command-line options</source>
+        <translation>Olası BLAST komut satırı seçeneklerine sahip bir liste almak için BLAST Core yardım mesajını gösterin</translation>
     </message>
     <message>
-        <source>BLASTX Core client</source>
-        <translation>BLASTX Core istemci</translation>
+        <source>BLAST Core client</source>
+        <translation>BLAST Core istemci</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -864,8 +864,8 @@ Adres: %4
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
-        <translation>Tüm işlemler gösterilmez. Tüm işlemleri görmek için yapılandırma dosyasında txindex = 1 ayarlamanız gerekir (Blast.conf).
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (blast.conf).</source>
+        <translation>Tüm işlemler gösterilmez. Tüm işlemleri görmek için yapılandırma dosyasında txindex = 1 ayarlamanız gerekir (blast.conf).
 </translation>
     </message>
 </context>
@@ -1154,8 +1154,8 @@ Adres: %4
         <translation>Gönderen adresini düzenle</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid BLASTX address.</source>
-        <translation>Girilen "%1" adresi geçerli bir BLASTX adresi değil.</translation>
+        <source>The entered address "%1" is not a valid BLAST address.</source>
+        <translation>Girilen "%1" adresi geçerli bir BLAST adresi değil.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1200,16 +1200,16 @@ Adres: %4
         <translation>versiyon</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX CORE</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST CORE</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About BLASTX Core</source>
-        <translation>hakkında BLASTX Core</translation>
+        <source>About BLAST Core</source>
+        <translation>hakkında BLAST Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1255,16 +1255,16 @@ Adres: %4
         <translation>Hoşgeldiniz</translation>
     </message>
     <message>
-        <source>Welcome to BLASTX Core.</source>
-        <translation>BLASTX Core'a hoşgeldiniz.</translation>
+        <source>Welcome to BLAST Core.</source>
+        <translation>BLAST Core'a hoşgeldiniz.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where BLASTX Core will store its data.</source>
-        <translation>Program ilk başlatıldığında BLASTX Core'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
+        <source>As this is the first time the program is launched, you can choose where BLAST Core will store its data.</source>
+        <translation>Program ilk başlatıldığında BLAST Core'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
-        <source>BLASTX Core will download and store a copy of the BLASTX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>BLASTX Core, BLASTX blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
+        <source>BLAST Core will download and store a copy of the BLAST block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>BLAST Core, BLAST blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1275,8 +1275,8 @@ Adres: %4
         <translation>Özel bir veri dizini kullanın:</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX CORE</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST CORE</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1417,12 +1417,12 @@ Adres: %4
         <translation>Gönderim adresi girin</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other BLASTX addresses after it matures.
-To Add: enter percentage to give and BLASTX address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other BLAST addresses after it matures.
+To Add: enter percentage to give and BLAST address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend, olgunlaştıktan sonra diğer BLASTX adreslerinin bir listesine otomatik olarak kazancınızın 100% 'ünü veya grup yazınızı ödüllendirmenize olanak tanır.
-Eklemek için: Verilecek yüzdeyi ve MultiSend vektörüne eklemek için BLASTX adresi girin.
+        <translation>MultiSend, olgunlaştıktan sonra diğer BLAST adreslerinin bir listesine otomatik olarak kazancınızın 100% 'ünü veya grup yazınızı ödüllendirmenize olanak tanır.
+Eklemek için: Verilecek yüzdeyi ve MultiSend vektörüne eklemek için BLAST adresi girin.
 Silme: Silinecek adresi girin ve silmek için basın.
 MultiSend, Etkinleştir'i tıklamadığınız sürece etkinleştirilmeyecektir</translation>
     </message>
@@ -1644,8 +1644,8 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>Address /miktar:</translation>
     </message>
     <message>
-        <source>Add destinations to send BLASTX to</source>
-        <translation>BLASTX göndermek için varış yerleri ekleyin</translation>
+        <source>Add destinations to send BLAST to</source>
+        <translation>BLAST göndermek için varış yerleri ekleyin</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1743,48 +1743,48 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>Lütfen bir gizlilik düzeyi seçin.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 BLASTX</source>
-        <translation>10000 BLASTX'e kadar fonları karıştırmak için 2 ayrı matternod kullanın</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 BLAST</source>
+        <translation>10000 BLAST'e kadar fonları karıştırmak için 2 ayrı matternod kullanın</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 BLASTX</source>
-        <translation>10000 BLASTX'ye kadar olan fonları karıştırmak için 8 ayrı matternod kullanın</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 BLAST</source>
+        <translation>10000 BLAST'ye kadar olan fonları karıştırmak için 8 ayrı matternod kullanın</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>16 ayrı matternod kullan</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Bu seçenek en hızlıdır ve 10000 BLASTX'yi anonimleştirmek için ~ 0.025 BLASTX'lik bir maliyeti olacaktır</translation>
+        <source>This option is the quickest and will cost about ~0.025 BLAST to anonymize 10000 BLAST</source>
+        <translation>Bu seçenek en hızlıdır ve 10000 BLAST'yi anonimleştirmek için ~ 0.025 BLAST'lik bir maliyeti olacaktır</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Bu seçenek orta derecede hızlıdır ve 10000 BLASTX'yi anonimleştirmek için yaklaşık 0.05 BLASTX'e mal olur</translation>
+        <source>This option is moderately fast and will cost about 0.05 BLAST to anonymize 10000 BLAST</source>
+        <translation>Bu seçenek orta derecede hızlıdır ve 10000 BLAST'yi anonimleştirmek için yaklaşık 0.05 BLAST'e mal olur</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Bu en yavaş ve en güvenli seçenektir. Maksimum anonimlik kullanmak maliyete gelecek</translation>
     </message>
     <message>
-        <source>0.1 BLASTX per 10000 BLASTX you anonymize.</source>
-        <translation>0.1 BLASTX her 10000 BLASTX anonimleştirmeye.</translation>
+        <source>0.1 BLAST per 10000 BLAST you anonymize.</source>
+        <translation>0.1 BLAST her 10000 BLAST anonimleştirmeye.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Şaşırtma ayarlama</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening BLASTX's configuration screen.</source>
-        <translation>Şaşırtma başarıyla temele ayarlandı. (%1 ve  2 turlar) Bunu istediğiniz zaman değiştirmek için BLASTX in ayarlar ekranını açmanız yeterli</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening BLAST's configuration screen.</source>
+        <translation>Şaşırtma başarıyla temele ayarlandı. (%1 ve  2 turlar) Bunu istediğiniz zaman değiştirmek için BLAST in ayarlar ekranını açmanız yeterli</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening BLASTX's configuration screen.</source>
-        <translation>Şaşırtma başarıyla Yüksek e ayarlandı. (%1 ve 8 turlar) Bunu istediğiniz zaman değiştirmek için BLASTX in ayarlar ekranını açmanız yeterli</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening BLAST's configuration screen.</source>
+        <translation>Şaşırtma başarıyla Yüksek e ayarlandı. (%1 ve 8 turlar) Bunu istediğiniz zaman değiştirmek için BLAST in ayarlar ekranını açmanız yeterli</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening BLASTX's configuration screen.</source>
-        <translation>Şaşırtma başarıyla maksimuma ayarlandı. (%1 ve 16 turlar) Bunu istediğiniz zaman değiştirmek için BLASTX in ayarlar ekranını açmanız yeterli</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening BLAST's configuration screen.</source>
+        <translation>Şaşırtma başarıyla maksimuma ayarlandı. (%1 ve 16 turlar) Bunu istediğiniz zaman değiştirmek için BLAST in ayarlar ekranını açmanız yeterli</translation>
     </message>
 </context>
 <context>
@@ -1845,8 +1845,8 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>Doğrulanmamış değişikliğin harcamasını devre dışı bırakırsanız, bir işlemdeki değişiklik&lt;br/&gt;Bu işlem en az bir onay alıncaya kadar kullanılamaz.&lt;br/&gt;Bu aynı zamanda bakiyenizin nasıl hesaplandığını etkiler.</translation>
     </message>
     <message>
-        <source>Automatically open the BLASTX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticideki BLASTX istemci bağlantı noktasını otomatik olarak açın. Bu, yalnızca yönlendiriciniz UPnP'yi destekliyorsa ve etkinleştirilmişse çalışır.</translation>
+        <source>Automatically open the BLAST client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticideki BLAST istemci bağlantı noktasını otomatik olarak açın. Bu, yalnızca yönlendiriciniz UPnP'yi destekliyorsa ve etkinleştirilmişse çalışır.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1865,12 +1865,12 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>Uzman</translation>
     </message>
     <message>
-        <source>Automatically start BLASTX after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra otomatik olarak BLASTX'i başlatın.</translation>
+        <source>Automatically start BLAST after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra otomatik olarak BLAST'i başlatın.</translation>
     </message>
     <message>
-        <source>&amp;Start BLASTX on system login</source>
-        <translation>&amp; Sistem oturum açma işleminde BLASTX'i başlat</translation>
+        <source>&amp;Start BLAST on system login</source>
+        <translation>&amp; Sistem oturum açma işleminde BLAST'i başlat</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1897,42 +1897,42 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>&amp;ağ</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting BLASTX.</source>
-        <translation>Kullanıcı arabirimi dili burada ayarlanabilir. Bu ayar, BLASTX yeniden başlatıldıktan sonra geçerli olur.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BLAST.</source>
+        <translation>Kullanıcı arabirimi dili burada ayarlanabilir. Bu ayar, BLAST yeniden başlatıldıktan sonra geçerli olur.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Blast-project/Blast-project-translations</source>
+https://www.transifex.com/blast-project/blast-project-translations</source>
         <translation>Dil eksik veya çeviri tamamlanmamış mı? Katkıda bulunan çevirilere yardımcı olun:
-https://www.transifex.com/Blast-project/Blast-project-translations</translation>
+https://www.transifex.com/blast-project/blast-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Map port using &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable zBLASTX Automint</source>
-        <translation>zBLASTX Otomatik basımı etkinleştir</translation>
+        <source>Enable zBLAST Automint</source>
+        <translation>zBLAST Otomatik basımı etkinleştir</translation>
     </message>
     <message>
-        <source>Percentage of incoming BLASTX which get automatically converted to zBLASTX via Zerocoin Protocol (min: 10%)</source>
-        <translation>Zerocoin Protokolü üzerinden otomatik olarak zBLASTX'ye dönüştürülen gelen BLASTX yüzdesi (dakika: 10%)</translation>
+        <source>Percentage of incoming BLAST which get automatically converted to zBLAST via Zerocoin Protocol (min: 10%)</source>
+        <translation>Zerocoin Protokolü üzerinden otomatik olarak zBLAST'ye dönüştürülen gelen BLAST yüzdesi (dakika: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zBLASTX</source>
-        <translation>Otomatikleştirilmiş zBLASTX yüzdesi</translation>
+        <source>Percentage of autominted zBLAST</source>
+        <translation>Otomatikleştirilmiş zBLAST yüzdesi</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough BLASTX for this denomination is available</source>
-        <translation>Bu mezhebi için yeterli BLASTX bulunana kadar Zerocoin'e otomatik dönüşümle birlikte bekleyin</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough BLAST for this denomination is available</source>
+        <translation>Bu mezhebi için yeterli BLAST bulunana kadar Zerocoin'e otomatik dönüşümle birlikte bekleyin</translation>
     </message>
     <message>
-        <source>Preferred Automint zBLASTX Denomination</source>
-        <translation>Tercih edilen Automint zBLASTX Nominal değeri</translation>
+        <source>Preferred Automint zBLAST Denomination</source>
+        <translation>Tercih edilen Automint zBLAST Nominal değeri</translation>
     </message>
     <message>
-        <source>Connect to the BLASTX network through a SOCKS5 proxy.</source>
-        <translation>Bir SOCKS5 proxy vasıtasıyla BLASTX ağına bağlanın.</translation>
+        <source>Connect to the BLAST network through a SOCKS5 proxy.</source>
+        <translation>Bir SOCKS5 proxy vasıtasıyla BLAST ağına bağlanın.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2078,8 +2078,8 @@ https://www.transifex.com/Blast-project/Blast-project-translations</translation>
         <translation>Toplam Bakiye, mevcut olmayan tüm paralar dahil.</translation>
     </message>
     <message>
-        <source>BLASTX Balance</source>
-        <translation>BLASTX Bakiyesi</translation>
+        <source>BLAST Balance</source>
+        <translation>BLAST Bakiyesi</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2098,16 +2098,16 @@ https://www.transifex.com/Blast-project/Blast-project-translations</translation>
         <translation>Staklanmış veya masternod ödülleri henüz olgunlaşmamış</translation>
     </message>
     <message>
-        <source>Your current BLASTX balance, unconfirmed and immature transactions included</source>
-        <translation>Güncel BLASTX bakiyeniz, onaylanmamış ve olgunlaşmamış işlemler dahil</translation>
+        <source>Your current BLAST balance, unconfirmed and immature transactions included</source>
+        <translation>Güncel BLAST bakiyeniz, onaylanmamış ve olgunlaşmamış işlemler dahil</translation>
     </message>
     <message>
-        <source>zBLASTX Balance</source>
-        <translation>zBLASTX Bakiyesi</translation>
+        <source>zBLAST Balance</source>
+        <translation>zBLAST Bakiyesi</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLASTX network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilgiler güncelliğini yitirmiş olabilir. Bir bağlantı kurulduktan sonra M-cüzdanınız otomatik olarak BLASTX şebekesiyle senkronize edilir, ancak bu işlem henüz tamamlanmadı.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLAST network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilgiler güncelliğini yitirmiş olabilir. Bir bağlantı kurulduktan sonra M-cüzdanınız otomatik olarak BLAST şebekesiyle senkronize edilir, ancak bu işlem henüz tamamlanmadı.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2150,8 +2150,8 @@ https://www.transifex.com/Blast-project/Blast-project-translations</translation>
         <translation>Harcanabilir:</translation>
     </message>
     <message>
-        <source>Locked BLASTX or Masternode collaterals. These are excluded from zBLASTX minting.</source>
-        <translation>Kilitli BLASTX veya Masternode teminatları. Bunlar zBLASTX matlaştırmadan çıkarılır.</translation>
+        <source>Locked BLAST or Masternode collaterals. These are excluded from zBLAST minting.</source>
+        <translation>Kilitli BLAST veya Masternode teminatları. Bunlar zBLAST matlaştırmadan çıkarılır.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2162,8 +2162,8 @@ https://www.transifex.com/Blast-project/Blast-project-translations</translation>
         <translation>onaylanmamış:</translation>
     </message>
     <message>
-        <source>Your current zBLASTX balance, unconfirmed and immature zBLASTX included.</source>
-        <translation>Güncel zBLASTX bakiyeniz, onaylanmamış ve olgunlaşmamış zBLASTX'ler dahil.</translation>
+        <source>Your current zBLAST balance, unconfirmed and immature zBLAST included.</source>
+        <translation>Güncel zBLAST bakiyeniz, onaylanmamış ve olgunlaşmamış zBLAST'ler dahil.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2174,10 +2174,10 @@ https://www.transifex.com/Blast-project/Blast-project-translations</translation>
         <translation>senkronizasyon dışı</translation>
     </message>
     <message>
-        <source>Current percentage of zBLASTX.
+        <source>Current percentage of zBLAST.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Mevcut zBLASTX yüzdesi.
+        <translation>Mevcut zBLAST yüzdesi.
 AutoMint etkinleştirilirse, bu yüzde, yapılandırılmış AutoMint yüzdesi etrafında düzelir (varsayılan = 10%).
 </translation>
     </message>
@@ -2186,14 +2186,14 @@ AutoMint etkinleştirilirse, bu yüzde, yapılandırılmış AutoMint yüzdesi e
         <translation>AutoMint şu anda etkinleştirilmiş ve</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</source>
-        <translation>AutoMint kapatmak için ekle  'enablezeromint=0'  Blast.conf. dosyasına</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in blast.conf.</source>
+        <translation>AutoMint kapatmak için ekle  'enablezeromint=0'  blast.conf. dosyasına</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in blast.conf</source>
         <translation>AutoMint şu anda aktif değil.
- AutoMint aktive etmek için  değiştir 'enablezeromint=0' yazan kısmı 'enablezeromint=1' şeklinde Blast.conf dosyasında</translation>
+ AutoMint aktive etmek için  değiştir 'enablezeromint=0' yazan kısmı 'enablezeromint=1' şeklinde blast.conf dosyasında</translation>
     </message>
 </context>
 <context>
@@ -2219,12 +2219,12 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf
         <translation>Geçersiz ödeme adresi %1</translation>
     </message>
     <message>
-        <source>Cannot start Blast: click-to-pay handler</source>
-        <translation>BLASTX başlatılamıyor: tıkla ve ödeme işleyicisi</translation>
+        <source>Cannot start blast: click-to-pay handler</source>
+        <translation>BLAST başlatılamıyor: tıkla ve ödeme işleyicisi</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid BLASTX address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamaz! Bunun nedeni, geçersiz bir BLASTX adresi veya hatalı biçimlendirilmiş URI parametrelerinden kaynaklanabilir.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid BLAST address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamaz! Bunun nedeni, geçersiz bir BLAST adresi veya hatalı biçimlendirilmiş URI parametrelerinden kaynaklanabilir.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2309,8 +2309,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf
         <translation>Zerocoin Actions:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLASTX network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilgiler güncelliğini yitirmiş olabilir. Bir bağlantı kurulduktan sonra M-cüzdanınız otomatik olarak BLASTX şebekesiyle senkronize edilir, ancak bu işlem henüz tamamlanmadı.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLAST network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilgiler güncelliğini yitirmiş olabilir. Bir bağlantı kurulduktan sonra M-cüzdanınız otomatik olarak BLAST şebekesiyle senkronize edilir, ancak bu işlem henüz tamamlanmadı.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2321,8 +2321,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf
         <translation>0</translation>
     </message>
     <message>
-        <source>zBLASTX</source>
-        <translation>zBLASTX</translation>
+        <source>zBLAST</source>
+        <translation>zBLAST</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2333,8 +2333,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf
         <translation>Mintinge hazır</translation>
     </message>
     <message>
-        <source>0.000 000 00 BLASTX</source>
-        <translation>0.000 000 00 BLASTX</translation>
+        <source>0.000 000 00 BLAST</source>
+        <translation>0.000 000 00 BLAST</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2385,24 +2385,24 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf
         <translation>Harca Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBLASTX for spending</source>
-        <translation>Mevcut (olgun ve harcanabilir) harcama için zBLASTX</translation>
+        <source>Available (mature and spendable) zBLAST for spending</source>
+        <translation>Mevcut (olgun ve harcanabilir) harcama için zBLAST</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Kullanılabilir Bakiye:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBLASTX for spending
+        <source>Available (mature and spendable) zBLAST for spending
 
-zBLASTX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Mevcut (olgun ve harcanabilir) harcama için zBLASTX
+zBLAST are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Mevcut (olgun ve harcanabilir) harcama için zBLAST
 
-zBLASTX, 20'den fazla teyit bulunduğunda olgunlaşır ve bundan sonra aynı mezhepten 2 kat fazla darphane çekilir.</translation>
+zBLAST, 20'den fazla teyit bulunduğunda olgunlaşır ve bundan sonra aynı mezhepten 2 kat fazla darphane çekilir.</translation>
     </message>
     <message>
-        <source>0 zBLASTX</source>
-        <translation>0 zBLASTX</translation>
+        <source>0 zBLAST</source>
+        <translation>0 zBLAST</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2421,8 +2421,8 @@ zBLASTX, 20'den fazla teyit bulunduğunda olgunlaşır ve bundan sonra aynı mez
         <translation>şuna öde:</translation>
     </message>
     <message>
-        <source>The BLASTX address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Ödemeyi göndermek için BLASTX adresi. Boş olduğunda kendinize yerel ödeme oluşturur.</translation>
+        <source>The BLAST address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Ödemeyi göndermek için BLAST adresi. Boş olduğunda kendinize yerel ödeme oluşturur.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2473,8 +2473,8 @@ zBLASTX, 20'den fazla teyit bulunduğunda olgunlaşır ve bundan sonra aynı mez
         <translation>Zerocoin durumu:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zBLASTX</source>
-        <translation>Doğrulanmamış ve olgunlaşmamış zBLASTX dahil toplam bakiye</translation>
+        <source>Total Balance including unconfirmed and immature zBLAST</source>
+        <translation>Doğrulanmamış ve olgunlaşmamış zBLAST dahil toplam bakiye</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2649,12 +2649,12 @@ Maximum allowed: </source>
 Maksimum bırakılan: </translation>
     </message>
     <message>
-        <source>zBLASTX is currently disabled due to maintenance.</source>
-        <translation>zBLASTX bakım nedeniyle şu an kullanıma kapalı.</translation>
+        <source>zBLAST is currently disabled due to maintenance.</source>
+        <translation>zBLAST bakım nedeniyle şu an kullanıma kapalı.</translation>
     </message>
     <message>
-        <source>zBLASTX is currently undergoing maintenance.</source>
-        <translation>zBLASTX halen bakım alıyor.</translation>
+        <source>zBLAST is currently undergoing maintenance.</source>
+        <translation>zBLAST halen bakım alıyor.</translation>
     </message>
     <message>
         <source>AutoMint Status:</source>
@@ -2677,8 +2677,8 @@ Maksimum bırakılan: </translation>
         <translation>Başarılı şekilde mint edildi</translation>
     </message>
     <message>
-        <source> zBLASTX in </source>
-        <translation> zBLASTX in </translation>
+        <source> zBLAST in </source>
+        <translation> zBLAST in </translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2705,8 +2705,8 @@ Maksimum bırakılan: </translation>
         <translation>Sağlanan 'Ödeme Yapmak İçin' adresi yok, yerel ödeme oluşturun</translation>
     </message>
     <message>
-        <source>Invalid BLASTX Address</source>
-        <translation>Geçersiz BLASTX Adresi</translation>
+        <source>Invalid BLAST Address</source>
+        <translation>Geçersiz BLAST Adresi</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2790,8 +2790,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Miktar</translation>
     </message>
     <message>
-        <source>Enter a BLASTX address (e.g. %1)</source>
-        <translation>Gir bir BLASTX addres (e.g. %1)</translation>
+        <source>Enter a BLAST address (e.g. %1)</source>
+        <translation>Gir bir BLAST addres (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2928,8 +2928,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Block chain</translation>
     </message>
     <message>
-        <source>Open the BLASTX debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Geçerli veri dizininden BLASTX hata ayıklama günlük dosyasını açın. Bu, büyük günlük dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the BLAST debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Geçerli veri dizininden BLAST hata ayıklama günlük dosyasını açın. Bu, büyük günlük dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3040,7 +3040,7 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Senkronize Edilmiş Bloklar</translation>
     </message>
     <message>
-        <source>BlastX wallet</source>
+        <source>Blastx wallet</source>
         <translation>Kurtarma cüzdanı</translation>
     </message>
     <message>
@@ -3112,8 +3112,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Dışa:</translation>
     </message>
     <message>
-        <source>Welcome to the BLASTX RPC console.</source>
-        <translation>BLASTX RPC konsola hoşgeldiniz</translation>
+        <source>Welcome to the BLAST RPC console.</source>
+        <translation>BLAST RPC konsola hoşgeldiniz</translation>
     </message>
     <message>
         <source>This will delete your local blockchain folders and the wallet will synchronize the complete Blockchain from scratch.&lt;br /&gt;&lt;br /&gt;</source>
@@ -3199,12 +3199,12 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Yeni alma adresi ile ilişkilendirilebilecek isteğe bağlı bir etiket.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BLASTX network.</source>
-        <translation>Talep açıldığında görüntülenecek ödeme isteğine eklemek için isteğe bağlı bir mesaj. Not: Mesaj, ödemenin BLASTX şebekesi üzerinden gönderilmeyecektir.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BLAST network.</source>
+        <translation>Talep açıldığında görüntülenecek ödeme isteğine eklemek için isteğe bağlı bir mesaj. Not: Mesaj, ödemenin BLAST şebekesi üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BLASTX network.</source>
-        <translation>Talep açıldığında görüntülenecek, ödeme isteğine eklemek için isteğe bağlı bir mesaj.&lt;br&gt;Not: Mesaj, ödemenin BLASTX şebekesi üzerinden gönderilmeyecektir.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BLAST network.</source>
+        <translation>Talep açıldığında görüntülenecek, ödeme isteğine eklemek için isteğe bağlı bir mesaj.&lt;br&gt;Not: Mesaj, ödemenin BLAST şebekesi üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3428,8 +3428,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>UTXO Boyutu:</translation>
     </message>
     <message>
-        <source>0 BLASTX</source>
-        <translation>0 BLASTX</translation>
+        <source>0 BLAST</source>
+        <translation>0 BLAST</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3484,16 +3484,16 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Koinler otomatik seçildi</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBLASTXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBLASTXs in fee,&lt;br /&gt;while "at least" pays 1000 uBLASTXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Özel ücret 1000 uBLASTX olarak ayarlanmış ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 uBLASTX öder,&lt;br /&gt;"en az" ise 1000 uBLASTX öder. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
+        <source>If the custom fee is set to 1000 uBLASTs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBLASTs in fee,&lt;br /&gt;while "at least" pays 1000 uBLASTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Özel ücret 1000 uBLAST olarak ayarlanmış ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 uBLAST öder,&lt;br /&gt;"en az" ise 1000 uBLAST öder. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBLASTXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBLASTXs in fee,&lt;br /&gt;while "total at least" pays 1000 uBLASTXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Özel ücret 1000 uBLASTX olarak ayarlanırsa ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 uBLASTX ücreti verilir,&lt;br /&gt;"toplam en az" ise 1000 uBLASTX ödüyor. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
+        <source>If the custom fee is set to 1000 uBLASTs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBLASTs in fee,&lt;br /&gt;while "total at least" pays 1000 uBLASTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Özel ücret 1000 uBLAST olarak ayarlanırsa ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 uBLAST ücreti verilir,&lt;br /&gt;"toplam en az" ise 1000 uBLAST ödüyor. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BLASTX transactions than the network can process.</source>
-        <translation>Yalnızca minimum ücreti ödemek, işlem hacmi bloklardaki alana göre daha az olduğu sürece iyidir.&lt;br /&gt;Ancak, bunun, BLASTX işlemleri için ağın işleyebileceğinden daha fazla talep olması durumunda, onaylama işleminde asla sonuçlanamayacağına dikkat edin.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BLAST transactions than the network can process.</source>
+        <translation>Yalnızca minimum ücreti ödemek, işlem hacmi bloklardaki alana göre daha az olduğu sürece iyidir.&lt;br /&gt;Ancak, bunun, BLAST işlemleri için ağın işleyebileceğinden daha fazla talep olması durumunda, onaylama işleminde asla sonuçlanamayacağına dikkat edin.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3540,8 +3540,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Alıcı ekle</translation>
     </message>
     <message>
-        <source>Anonymized BLASTX</source>
-        <translation>anonim edilmiş BLASTX</translation>
+        <source>Anonymized BLAST</source>
+        <translation>anonim edilmiş BLAST</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3588,8 +3588,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Bloğu böl aygıtı multipl adresle çalışmaz Tekrar deneyin</translation>
     </message>
     <message>
-        <source>Warning: Invalid BLASTX address</source>
-        <translation>Uyarı: Geçersiz BLASTX adresi</translation>
+        <source>Warning: Invalid BLAST address</source>
+        <translation>Uyarı: Geçersiz BLAST adresi</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -3683,8 +3683,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>şuna öde:</translation>
     </message>
     <message>
-        <source>The BLASTX address to send the payment to</source>
-        <translation>Ödemeyi göndermek için BLASTX adresi</translation>
+        <source>The BLAST address to send the payment to</source>
+        <translation>Ödemeyi göndermek için BLAST adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3723,8 +3723,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Mesaj:</translation>
     </message>
     <message>
-        <source>A message that was attached to the BLASTX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BLASTX network.</source>
-        <translation>BLASTX e eklenmiş olan bir mesaj: İşleminizle beraber saklanacak olan URI hatırlamanız için. Not: Bu mesaj BLASTX ağında yayınlanmayacak.</translation>
+        <source>A message that was attached to the BLAST: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BLAST network.</source>
+        <translation>BLAST e eklenmiş olan bir mesaj: İşleminizle beraber saklanacak olan URI hatırlamanız için. Not: Bu mesaj BLAST ağında yayınlanmayacak.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3750,8 +3750,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>BLASTX Core is shutting down...</source>
-        <translation>BLASTX Core kapanıyor ...</translation>
+        <source>BLAST Core is shutting down...</source>
+        <translation>BLAST Core kapanıyor ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3773,8 +3773,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Sahip olduğunuzu kanıtlamak için adreslerinizle mesaj imzalayabilirsiniz. Kimlik avı saldırıları sizi kimliğini onlara yazmaya kandırmaya çalışabilir, çünkü belirsiz bir şey imzalamamaya dikkat edin. Kabul ettiğiniz tamamen ayrıntılı ifadeleri yalnızca imzalayın.</translation>
     </message>
     <message>
-        <source>The BLASTX address to sign the message with</source>
-        <translation>Ile mesaj imzalamak için BLASTX adresi</translation>
+        <source>The BLAST address to sign the message with</source>
+        <translation>Ile mesaj imzalamak için BLAST adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3805,16 +3805,16 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Geçerli imzayı sistem panosuna kopyala</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this BLASTX address</source>
-        <translation>Bu BLASTX adresinin sahibi olduğunuzu kanıtlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this BLAST address</source>
+        <translation>Bu BLAST adresinin sahibi olduğunuzu kanıtlamak için mesajı imzala</translation>
     </message>
     <message>
-        <source>The BLASTX address the message was signed with</source>
-        <translation>Mesajın imzalandığı BLASTX adresi</translation>
+        <source>The BLAST address the message was signed with</source>
+        <translation>Mesajın imzalandığı BLAST adresi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified BLASTX address</source>
-        <translation>Belirtilen BLASTX adresi ile imzalanmış olduğundan emin olmak için iletiyi doğrulayın</translation>
+        <source>Verify the message to ensure it was signed with the specified BLAST address</source>
+        <translation>Belirtilen BLAST adresi ile imzalanmış olduğundan emin olmak için iletiyi doğrulayın</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3900,8 +3900,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX CORE</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST CORE</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3916,8 +3916,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>The Dash Core developers</translation>
     </message>
     <message>
-        <source>The BLASTX Core developers</source>
-        <translation>The BLASTX Core developers</translation>
+        <source>The BLAST Core developers</source>
+        <translation>The BLAST Core developers</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4436,8 +4436,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Koinleri göder</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 BLASTX.</source>
-        <translation>SwiftX yüksek değerler göndermeyi desteklemiyor. İşlemler şu anda %1 BLASTX ile sınırlıdır.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 BLAST.</source>
+        <translation>SwiftX yüksek değerler göndermeyi desteklemiyor. İşlemler şu anda %1 BLAST ile sınırlıdır.</translation>
     </message>
 </context>
 <context>
@@ -4474,8 +4474,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>0</translation>
     </message>
     <message>
-        <source>zBLASTX</source>
-        <translation>zBLASTX</translation>
+        <source>zBLAST</source>
+        <translation>zBLAST</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4487,7 +4487,7 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
     </message>
 </context>
 <context>
-    <name>Blast-core</name>
+    <name>blast-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = tx meta verileri, örneğin hesap sahibi ve ödeme talebi bilgileri, 2 = tx meta verileri bırak)</translation>
@@ -4513,8 +4513,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Hesaplanan akümülatör kontrol noktası, blok indeksiyle kaydedilen kontrol noktası değildir.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. BLASTX Core is probably already running.</source>
-        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. BLASTX Core muhtemelen zaten çalışıyor.</translation>
+        <source>Cannot obtain a lock on data directory %s. BLAST Core is probably already running.</source>
+        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. BLAST Core muhtemelen zaten çalışıyor.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4565,12 +4565,12 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>En iyi blok değiştirildiğinde komutu yürütün (cmd'deki %s yerine blok karması verilir)</translation>
     </message>
     <message>
-        <source>Fees (in BLASTX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Bundan daha küçük ücretler (BLASTX / Kb cinsinden), aktarma için sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
+        <source>Fees (in BLAST/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Bundan daha küçük ücretler (BLAST / Kb cinsinden), aktarma için sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BLASTX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Bundan daha küçük ücretler (BLASTX / Kb cinsinden), işlem yaratmada sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
+        <source>Fees (in BLAST/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Bundan daha küçük ücretler (BLAST / Kb cinsinden), işlem yaratmada sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>

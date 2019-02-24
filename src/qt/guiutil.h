@@ -30,7 +30,7 @@ class QUrl;
 class QWidget;
 QT_END_NAMESPACE
 
-/** Utility functions used by the BlastX Qt UI.
+/** Utility functions used by the Blastx Qt UI.
  */
 namespace GUIUtil
 {
@@ -38,7 +38,7 @@ namespace GUIUtil
 QString dateTimeStr(const QDateTime& datetime);
 QString dateTimeStr(qint64 nTime);
 
-// Render BLASTX addresses in monospace font
+// Render BLAST addresses in monospace font
 QFont bitcoinAddressFont();
 
 // Set up widgets for address and amounts

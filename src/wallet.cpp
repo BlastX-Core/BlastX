@@ -1,8 +1,7 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2019 The PIVX developers
-//Copyright (c) 2019 The BlastX developers
+// Copyright (c) 2015-2017 The PIVX developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -44,7 +43,7 @@ bool fSendFreeTransactions = false;
 bool fPayAtLeastCustomFee = true;
 
 /**
- * Fees smaller than this (in uBlast) are considered zero fee (for transaction creation)
+ * Fees smaller than this (in ublast) are considered zero fee (for transaction creation)
  * We are ~100 times smaller then bitcoin now (2015-06-23), set minTxFee 10 times higher
  * so it's still 10 times lower comparing to bitcoin.
  * Override with -mintxfee
@@ -1731,7 +1730,7 @@ bool CWallet::CreateTransaction(const vector<pair<CScript, CAmount> >& vecSend,
                     if (coin_type == ALL_COINS) {
                         strFailReason = _("Insufficient funds.");
                     } else if (coin_type == ONLY_NOT10000IFMN) {
-                        strFailReason = _("Unable to locate enough funds for this transaction that are not equal 10000 BLASTX.");
+                        strFailReason = _("Unable to locate enough funds for this transaction that are not equal 10000 BLAST.");
                     }
 
                     if (useIX) {
@@ -1759,7 +1758,7 @@ bool CWallet::CreateTransaction(const vector<pair<CScript, CAmount> >& vecSend,
                 if (nChange > 0) {
                     // Fill a vout to ourself
                     // TODO: pass in scriptChange instead of reservekey so
-                    // change transaction isn't always pay-to-Blast-address
+                    // change transaction isn't always pay-to-blast-address
                     CScript scriptChange;
 
                     // coin control: send change to custom address

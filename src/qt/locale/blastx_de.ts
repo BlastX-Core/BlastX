@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Wählen Sie die Adresse aus, an die Sie BLASTX überweisen möchten</translation>
+        <translation>Wählen Sie die Adresse aus, an die Sie BLAST überweisen möchten</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Wählen Sie die Adresse aus, über die Sie BLASTX empfangen wollen</translation>
+        <translation>Wählen Sie die Adresse aus, über die Sie BLAST empfangen wollen</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -62,12 +62,12 @@
         <translation>Empfangsadressen</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dies sind ihre BLASTX-Adressen zum Tätigen von Überweisungen. Bitte prüfen Sie den Betrag und die Empfangsadresse, bevor Sie BLASTX überweisen.</translation>
+        <source>These are your BLAST addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dies sind ihre BLAST-Adressen zum Tätigen von Überweisungen. Bitte prüfen Sie den Betrag und die Empfangsadresse, bevor Sie BLAST überweisen.</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dies sind ihre BLASTX-Adressen zum Empfangen von Zahlungen. Es wird empfohlen für jede Transaktion eine neue Empfangsadresse zu verwenden.</translation>
+        <source>These are your BLAST addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dies sind ihre BLAST-Adressen zum Empfangen von Zahlungen. Es wird empfohlen für jede Transaktion eine neue Empfangsadresse zu verwenden.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Verschlüsselung der Wallet bestätigen</translation>
     </message>
     <message>
-        <source>BLASTX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTXs from being stolen by malware infecting your computer.</source>
-        <translation>Die Anwendung wird nun geschlossen um die Verschlüsselung abzuschließen. Bitte bedenken Sie, dass auch die Verschlüsselung nicht sicher vor Diebstahl ihrer BLASTXs durch Schadsoftware schützt, die ihren Computer befällt.</translation>
+        <source>BLAST will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTs from being stolen by malware infecting your computer.</source>
+        <translation>Die Anwendung wird nun geschlossen um die Verschlüsselung abzuschließen. Bitte bedenken Sie, dass auch die Verschlüsselung nicht sicher vor Diebstahl ihrer BLASTs durch Schadsoftware schützt, die ihren Computer befällt.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLASTX&lt;/b&gt;!</source>
-        <translation>Warnung: Wenn Sie Ihre Wallet verschlüsseln und Ihre Passphrase verlieren, &lt;b&gt;verlieren Sie alle ihre BLASTXs&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLAST&lt;/b&gt;!</source>
+        <translation>Warnung: Wenn Sie Ihre Wallet verschlüsseln und Ihre Passphrase verlieren, &lt;b&gt;verlieren Sie alle ihre BLASTs&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adresse:</translation>
     </message>
     <message>
-        <source>Enter a BLASTX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Bitte die BLASTX-Adresse eingeben, welche mittels BIP 38 verschlüsselt werden soll. Bitte ein Passwort in die mittlere Box eintragen. Klicken Sie auf "Verschlüsslen" um den privaten Schlüssel zu generieren.</translation>
+        <source>Enter a BLAST Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Bitte die BLAST-Adresse eingeben, welche mittels BIP 38 verschlüsselt werden soll. Bitte ein Passwort in die mittlere Box eintragen. Klicken Sie auf "Verschlüsslen" um den privaten Schlüssel zu generieren.</translation>
     </message>
     <message>
-        <source>The BLASTX address to encrypt</source>
-        <translation>Die zu verschlüsselnde BLASTX-Adresse</translation>
+        <source>The BLAST address to encrypt</source>
+        <translation>Die zu verschlüsselnde BLAST-Adresse</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopiert die aktuelle Signatur in die Zwischenablage</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this BLASTX address</source>
-        <translation>Den privaten Schlüssel für diese BLASTX-Adresse verschlüsseln</translation>
+        <source>Encrypt the private key for this BLAST address</source>
+        <translation>Den privaten Schlüssel für diese BLAST-Adresse verschlüsseln</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>Transaktionsverlauf durchsuchen</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBLASTX</source>
-        <translation>Datenschutzmaßnahmen für zBLASTX</translation>
+        <source>Privacy Actions for zBLAST</source>
+        <translation>Datenschutzmaßnahmen für zBLAST</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,16 +645,16 @@
         <translation>Registerkartenleiste</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
-        <source>Send coins to a BLASTX address</source>
-        <translation>An eine BLASTX-Adresse überweisen</translation>
+        <source>Send coins to a BLAST address</source>
+        <translation>An eine BLAST-Adresse überweisen</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Blast: URIs)</source>
-        <translation>Zahlung anfordern (QR-Code Generierung und Blast: URIs)</translation>
+        <source>Request payments (generates QR codes and blast: URIs)</source>
+        <translation>Zahlung anfordern (QR-Code Generierung und blast: URIs)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Masternodes durchsuchen</translation>
     </message>
     <message>
-        <source>&amp;About BLASTX Core</source>
-        <translation>Über BLASTX Core</translation>
+        <source>&amp;About BLAST Core</source>
+        <translation>Über BLAST Core</translation>
     </message>
     <message>
-        <source>Show information about BLASTX Core</source>
-        <translation>Zeigt Informationen über BLASTX Core</translation>
+        <source>Show information about BLAST Core</source>
+        <translation>Zeigt Informationen über BLAST Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for BLASTX</source>
-        <translation>Konfiguration von BLASTX verändern</translation>
+        <source>Modify configuration options for BLAST</source>
+        <translation>Konfiguration von BLAST verändern</translation>
     </message>
     <message>
-        <source>Sign messages with your BLASTX addresses to prove you own them</source>
-        <translation>Unterschreibt eine Nachricht mit Ihrer BLASTX-Adresse und beweist, dass sie Ihnen gehört</translation>
+        <source>Sign messages with your BLAST addresses to prove you own them</source>
+        <translation>Unterschreibt eine Nachricht mit Ihrer BLAST-Adresse und beweist, dass sie Ihnen gehört</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified BLASTX addresses</source>
-        <translation>Überprüft eine Nachricht um zu prüfen ob diese mit einer bestimmten BLASTX-Adresse signiert wurde</translation>
+        <source>Verify messages to ensure they were signed with specified BLAST addresses</source>
+        <translation>Überprüft eine Nachricht um zu prüfen ob diese mit einer bestimmten BLAST-Adresse signiert wurde</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -713,8 +713,8 @@
         <translation>Öffne Masternode Einstellungsdatei</translation>
     </message>
     <message>
-        <source>Open a BLASTX: URI or payment request</source>
-        <translation>Öffne eine BLASTX: URI oder Zahlungsanfrage</translation>
+        <source>Open a BLAST: URI or payment request</source>
+        <translation>Öffne eine BLAST: URI oder Zahlungsanfrage</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -725,16 +725,16 @@
         <translation>Blockchain Betrachter Fenster</translation>
     </message>
     <message>
-        <source>Show the BLASTX Core help message to get a list with possible BLASTX command-line options</source>
-        <translation>Zeige die BLASTX-Core Hilfe, um mögliche BLASTX Kommando-Zeilen-Optionen anzuzeigen</translation>
+        <source>Show the BLAST Core help message to get a list with possible BLAST command-line options</source>
+        <translation>Zeige die BLAST-Core Hilfe, um mögliche BLAST Kommando-Zeilen-Optionen anzuzeigen</translation>
     </message>
     <message>
-        <source>BLASTX Core client</source>
-        <translation>BLASTX Core Client</translation>
+        <source>BLAST Core client</source>
+        <translation>BLAST Core Client</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to BLASTX network</source>
-        <translation><numerusform>%n aktive Verbindung(en) zum BLASTX Netzwerk</numerusform><numerusform>%n aktive Verbindung(en) zum BLASTX Netzwerk</numerusform></translation>
+        <source>%n active connection(s) to BLAST network</source>
+        <translation><numerusform>%n aktive Verbindung(en) zum BLAST Netzwerk</numerusform><numerusform>%n aktive Verbindung(en) zum BLAST Netzwerk</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -887,8 +887,8 @@ Adresse: %4</translation>
         <translation>TextEtikett</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
-        <translation>Nicht alle Transaktionen können anzezeigt werden. Um alle Transaktionen zu sehen, müssen sie die Option  "txindex=1" in der "Blast.conf" Konfigurationsdatei hinzufügen.</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (blast.conf).</source>
+        <translation>Nicht alle Transaktionen können anzezeigt werden. Um alle Transaktionen zu sehen, müssen sie die Option  "txindex=1" in der "blast.conf" Konfigurationsdatei hinzufügen.</translation>
     </message>
 </context>
 <context>
@@ -1125,8 +1125,8 @@ Adresse: %4</translation>
         <translation>Diese Bezeichnung wird rot, wenn ein Empfänger einen Betrag erhält, der kleiner ist als %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uBlast per input.</source>
-        <translation>Kann um +/- %1 uBlast pro Eingang variieren.</translation>
+        <source>Can vary +/- %1 ublast per input.</source>
+        <translation>Kann um +/- %1 ublast pro Eingang variieren.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1180,8 +1180,8 @@ Adresse: %4</translation>
         <translation>Zahlungsadresse bearbeiten</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid BLASTX address.</source>
-        <translation>Die eingegebene Adresse "%1" ist keine gültige BLASTX-Adresse.</translation>
+        <source>The entered address "%1" is not a valid BLAST address.</source>
+        <translation>Die eingegebene Adresse "%1" ist keine gültige BLAST-Adresse.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1226,16 +1226,16 @@ Adresse: %4</translation>
         <translation>Version</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-Bit)</translation>
     </message>
     <message>
-        <source>About BLASTX Core</source>
-        <translation>Über BLASTX Core</translation>
+        <source>About BLAST Core</source>
+        <translation>Über BLAST Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1281,16 +1281,16 @@ Adresse: %4</translation>
         <translation>Willkommen</translation>
     </message>
     <message>
-        <source>Welcome to BLASTX Core.</source>
-        <translation>Willkommen zu BLASTX Core.</translation>
+        <source>Welcome to BLAST Core.</source>
+        <translation>Willkommen zu BLAST Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where BLASTX Core will store its data.</source>
-        <translation>Da dies das erste Mal ist, dass Sie BLASTX Core starten, legen Sie jetzt bitte fest, an welchem Ort die Daten gespeichert werden sollen.</translation>
+        <source>As this is the first time the program is launched, you can choose where BLAST Core will store its data.</source>
+        <translation>Da dies das erste Mal ist, dass Sie BLAST Core starten, legen Sie jetzt bitte fest, an welchem Ort die Daten gespeichert werden sollen.</translation>
     </message>
     <message>
-        <source>BLASTX Core will download and store a copy of the BLASTX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>BLASTX Core wird die Blockchain laden und lokal speichern. Dafür sind mindestens %1GB freier Speicherplatz erforderlich. Der Speicherbedarf wird mit der Zeit anwachsen. Die Wallet wird ebenfalls in diesem Verzeichnis gespeichert.</translation>
+        <source>BLAST Core will download and store a copy of the BLAST block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>BLAST Core wird die Blockchain laden und lokal speichern. Dafür sind mindestens %1GB freier Speicherplatz erforderlich. Der Speicherbedarf wird mit der Zeit anwachsen. Die Wallet wird ebenfalls in diesem Verzeichnis gespeichert.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1301,8 +1301,8 @@ Adresse: %4</translation>
         <translation>Ein benutzerdefiniertes Datenverzeichnis verwenden:</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1439,12 +1439,12 @@ Adresse: %4</translation>
         <translation>Zieladresse eingeben</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other BLASTX addresses after it matures.
-To Add: enter percentage to give and BLASTX address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other BLAST addresses after it matures.
+To Add: enter percentage to give and BLAST address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend ermöglicht es automatisch bis zu 100% Ihrer Stake- oder Masternode-Belohnung zu einer Liste von anderen BLASTX-Adressen zu senden.
-Zum hinzufügen: Gebe den Prozentsätze ein, um die BLASTX-Adressen des MultiSend-Vektor hinzuzufügen.
+        <translation>MultiSend ermöglicht es automatisch bis zu 100% Ihrer Stake- oder Masternode-Belohnung zu einer Liste von anderen BLAST-Adressen zu senden.
+Zum hinzufügen: Gebe den Prozentsätze ein, um die BLAST-Adressen des MultiSend-Vektor hinzuzufügen.
 Zum entfernen: Gebe die zu löschende Adresse ein und drücke löschen.
 MultiSend wird nicht aktiviert bis Sie auf Aktivieren geklickt haben.</translation>
     </message>
@@ -1672,8 +1672,8 @@ Bitte haben Sie etwas Geduld, nachdem Sie auf Importieren geklickt haben.</trans
         <translation>Adresse / Menge:</translation>
     </message>
     <message>
-        <source>Add destinations to send BLASTX to</source>
-        <translation>Füge Transaktionsziele für BLASTX-Überweisung hinzu</translation>
+        <source>Add destinations to send BLAST to</source>
+        <translation>Füge Transaktionsziele für BLAST-Überweisung hinzu</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1771,48 +1771,48 @@ Bitte haben Sie etwas Geduld, nachdem Sie auf Importieren geklickt haben.</trans
         <translation>Bitte den gewünschten Privatsphäre Level auswählen.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 BLASTX</source>
-        <translation>2 separate Masternodes verwenden um bis zu 10000 BLASTX zu mixen</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 BLAST</source>
+        <translation>2 separate Masternodes verwenden um bis zu 10000 BLAST zu mixen</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 BLASTX</source>
-        <translation>8 separate Masternodes verwenden um bis zu 10000 BLASTX zu mixen</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 BLAST</source>
+        <translation>8 separate Masternodes verwenden um bis zu 10000 BLAST zu mixen</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>16 separate Masternodes verwenden</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Diese Option ist die schnellst und kostet ungefähr ~0.025 BLASTX um 10000 BLASTX zu anonymisieren </translation>
+        <source>This option is the quickest and will cost about ~0.025 BLAST to anonymize 10000 BLAST</source>
+        <translation>Diese Option ist die schnellst und kostet ungefähr ~0.025 BLAST um 10000 BLAST zu anonymisieren </translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Diese Option ist angemessen schnell und kostet ungefähr  0.05 BLASTX um 10000 BLASTX zu anonymisieren</translation>
+        <source>This option is moderately fast and will cost about 0.05 BLAST to anonymize 10000 BLAST</source>
+        <translation>Diese Option ist angemessen schnell und kostet ungefähr  0.05 BLAST um 10000 BLAST zu anonymisieren</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Diese Option ist die langsamste und sicherste Option. Die Verwendung maximaler Anonymisierung kostet</translation>
     </message>
     <message>
-        <source>0.1 BLASTX per 10000 BLASTX you anonymize.</source>
-        <translation>0.1 BLASTX per 10000 BLASTX die anonymisiert werden.</translation>
+        <source>0.1 BLAST per 10000 BLAST you anonymize.</source>
+        <translation>0.1 BLAST per 10000 BLAST die anonymisiert werden.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Verschleierungskonfiguration</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening BLASTX's configuration screen.</source>
-        <translation>Verschleierung erfolgreich auf normal gesetzt (%1 und 2 Runden). Sie können dies jederzeit in den BLASTXs Konfigurationen ändern.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening BLAST's configuration screen.</source>
+        <translation>Verschleierung erfolgreich auf normal gesetzt (%1 und 2 Runden). Sie können dies jederzeit in den BLASTs Konfigurationen ändern.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening BLASTX's configuration screen.</source>
-        <translation>Verschleierung erfolgreich auf hohen gesetzt (%1 und 8 Runden). Sie können dies jederzeit in den BLASTXs Konfigurationen ändern.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening BLAST's configuration screen.</source>
+        <translation>Verschleierung erfolgreich auf hohen gesetzt (%1 und 8 Runden). Sie können dies jederzeit in den BLASTs Konfigurationen ändern.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening BLASTX's configuration screen.</source>
-        <translation>Verschleierung erfolgreich auf maximal gesetzt (%1 und 16 Runden). Sie können dies jederzeit in den BLASTXs Konfigurationen ändern.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening BLAST's configuration screen.</source>
+        <translation>Verschleierung erfolgreich auf maximal gesetzt (%1 und 16 Runden). Sie können dies jederzeit in den BLASTs Konfigurationen ändern.</translation>
     </message>
 </context>
 <context>
@@ -1873,8 +1873,8 @@ Bitte haben Sie etwas Geduld, nachdem Sie auf Importieren geklickt haben.</trans
         <translation>Wenn Sie das Ausgeben von unbestätigten Wechselgeld deaktivieren, so kann das Wechselgeld von einer Transaktion &lt;br/&gt;nicht verwendet werden, bis mindestens eine Bestätigung vorliegt.&lt;br/&gt;Dies hat auch Auswirkungen auf ihre Bilanzberechnung.</translation>
     </message>
     <message>
-        <source>Automatically open the BLASTX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisches öffnen des BLASTX-Client-Port im Router. Dies funktioniert nur, wenn ihr Router UPnP unterstützt und es eingeschaltet ist.</translation>
+        <source>Automatically open the BLAST client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisches öffnen des BLAST-Client-Port im Router. Dies funktioniert nur, wenn ihr Router UPnP unterstützt und es eingeschaltet ist.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1893,12 +1893,12 @@ Bitte haben Sie etwas Geduld, nachdem Sie auf Importieren geklickt haben.</trans
         <translation>Experte</translation>
     </message>
     <message>
-        <source>Automatically start BLASTX after logging in to the system.</source>
-        <translation>BLASTX automatisch nach dem Login starten.</translation>
+        <source>Automatically start BLAST after logging in to the system.</source>
+        <translation>BLAST automatisch nach dem Login starten.</translation>
     </message>
     <message>
-        <source>&amp;Start BLASTX on system login</source>
-        <translation>BLASTX automatisch beim System Login &amp;starten.</translation>
+        <source>&amp;Start BLAST on system login</source>
+        <translation>BLAST automatisch beim System Login &amp;starten.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1925,50 +1925,50 @@ Bitte haben Sie etwas Geduld, nachdem Sie auf Importieren geklickt haben.</trans
         <translation>&amp;Netzwerk</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting BLASTX.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting BLAST.</source>
         <translation>Die Sprache der Benutzeroberfläche kann hier festgelegt werden. Diese Einstellung wird nach einem Neustart realisiert.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Blast-project/Blast-project-translations</source>
+https://www.transifex.com/blast-project/blast-project-translations</source>
         <translation>Sprache fehlt oder ist unvollständig? Helfe mit und trage zur Übersetzung bei unter:
-https://www.transifex.com/Blast-project/Blast-project-translations</translation>
+https://www.transifex.com/blast-project/blast-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Port mit &amp;UPnP mappen</translation>
     </message>
     <message>
-        <source>Enable automatic minting of BLASTX units to zBLASTX</source>
-        <translation>Aktivieren Sie die automatische Prägung von BLASTX-Einheiten zu zBLASTX</translation>
+        <source>Enable automatic minting of BLAST units to zBLAST</source>
+        <translation>Aktivieren Sie die automatische Prägung von BLAST-Einheiten zu zBLAST</translation>
     </message>
     <message>
-        <source>Enable zBLASTX Automint</source>
-        <translation>Aktivieren Sie zBLASTX Automint</translation>
+        <source>Enable zBLAST Automint</source>
+        <translation>Aktivieren Sie zBLAST Automint</translation>
     </message>
     <message>
-        <source>Percentage of incoming BLASTX which get automatically converted to zBLASTX via Zerocoin Protocol (min: 10%)</source>
-        <translation>Anteil des eingehenden BLASTX, welcher automatisch zu zBLASTX via Zerocoin Protokoll konvertiert wird (min: 10%)</translation>
+        <source>Percentage of incoming BLAST which get automatically converted to zBLAST via Zerocoin Protocol (min: 10%)</source>
+        <translation>Anteil des eingehenden BLAST, welcher automatisch zu zBLAST via Zerocoin Protokoll konvertiert wird (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zBLASTX</source>
-        <translation>Prozentsatz der automatisierten zBLASTX</translation>
+        <source>Percentage of autominted zBLAST</source>
+        <translation>Prozentsatz der automatisierten zBLAST</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough BLASTX for this denomination is available</source>
-        <translation>Warte mit automatischer Konvertierung zu Zerocoin, bis genügend BLASTX für diese Stückelung verfügbar ist</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough BLAST for this denomination is available</source>
+        <translation>Warte mit automatischer Konvertierung zu Zerocoin, bis genügend BLAST für diese Stückelung verfügbar ist</translation>
     </message>
     <message>
-        <source>Preferred Automint zBLASTX Denomination</source>
-        <translation>Bevorzugte automatisierte zBLASTX Stückelung </translation>
+        <source>Preferred Automint zBLAST Denomination</source>
+        <translation>Bevorzugte automatisierte zBLAST Stückelung </translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
         <translation>Staff Split-Schwelle:</translation>
     </message>
     <message>
-        <source>Connect to the BLASTX network through a SOCKS5 proxy.</source>
-        <translation>Durch einen SOCKS5 Proxy mit dem BLASTX Netzwerk verbinden.</translation>
+        <source>Connect to the BLAST network through a SOCKS5 proxy.</source>
+        <translation>Durch einen SOCKS5 Proxy mit dem BLAST Netzwerk verbinden.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2122,8 +2122,8 @@ https://www.transifex.com/Blast-project/Blast-project-translations</translation>
         <translation>Gesamtsaldo, einschließlich aller nicht verfügbaren Münzen.</translation>
     </message>
     <message>
-        <source>BLASTX Balance</source>
-        <translation>BLASTX Bilanzen</translation>
+        <source>BLAST Balance</source>
+        <translation>BLAST Bilanzen</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2146,18 +2146,18 @@ https://www.transifex.com/Blast-project/Blast-project-translations</translation>
         <translation>Der aktuelle gesperrte Kontostand in Nur-Uhr-Adressen</translation>
     </message>
     <message>
-        <source>Your current BLASTX balance, unconfirmed and immature transactions included</source>
-        <translation>Ihr aktueller BLASTX-Saldo, unbestätigte und unreife Transaktionen sind enthalten</translation>
+        <source>Your current BLAST balance, unconfirmed and immature transactions included</source>
+        <translation>Ihr aktueller BLAST-Saldo, unbestätigte und unreife Transaktionen sind enthalten</translation>
     </message>
     <message>
-        <source>zBLASTX Balance</source>
-        <translation>zBLASTX Bilanzen</translation>
+        <source>zBLAST Balance</source>
+        <translation>zBLAST Bilanzen</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBLASTX are spendable.</source>
+These zBLAST are spendable.</source>
         <translation>Ausgereift: Mehr als 20 Bestätigungen und mehr als 1 Prägungen der selben Stückelung nach erfolgter Prägung.
-Diese zBLASTX sind Verwendbar.</translation>
+Diese zBLAST sind Verwendbar.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2166,8 +2166,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Unreif: Bestätigt, aber keine Prägung in der selben Stückelung seit erfolgter Prägung</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLASTX network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigte Information ist möglicherweise nicht mehr aktuell. Ihre Wallet synchronisiert sich automatisch mit dem BLASTX-Netzwerk, nachdem eine Verbindung hergestellt wurde. Aber dieser Vorgang ist noch nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLAST network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigte Information ist möglicherweise nicht mehr aktuell. Ihre Wallet synchronisiert sich automatisch mit dem BLAST-Netzwerk, nachdem eine Verbindung hergestellt wurde. Aber dieser Vorgang ist noch nicht abgeschlossen.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2210,8 +2210,8 @@ Unreif: Bestätigt, aber keine Prägung in der selben Stückelung seit erfolgter
         <translation>Verfügbar:</translation>
     </message>
     <message>
-        <source>Locked BLASTX or Masternode collaterals. These are excluded from zBLASTX minting.</source>
-        <translation>Gesperrte BLASTX oder Masternode Pfand. Diese sind vom zBLASTX Prägen ausgeschlossen.</translation>
+        <source>Locked BLAST or Masternode collaterals. These are excluded from zBLAST minting.</source>
+        <translation>Gesperrte BLAST oder Masternode Pfand. Diese sind vom zBLAST Prägen ausgeschlossen.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2222,8 +2222,8 @@ Unreif: Bestätigt, aber keine Prägung in der selben Stückelung seit erfolgter
         <translation>Unbestätigt:</translation>
     </message>
     <message>
-        <source>Your current zBLASTX balance, unconfirmed and immature zBLASTX included.</source>
-        <translation>Ihre aktuelle zBLASTX-Bilanz, unbestätigte und unreife zBLASTX enthalten.</translation>
+        <source>Your current zBLAST balance, unconfirmed and immature zBLAST included.</source>
+        <translation>Ihre aktuelle zBLAST-Bilanz, unbestätigte und unreife zBLAST enthalten.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2234,10 +2234,10 @@ Unreif: Bestätigt, aber keine Prägung in der selben Stückelung seit erfolgter
         <translation>nicht synchron</translation>
     </message>
     <message>
-        <source>Current percentage of zBLASTX.
+        <source>Current percentage of zBLAST.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Aktueller Prozentsatz an zBLASTX.
+        <translation>Aktueller Prozentsatz an zBLAST.
 Falls das automatische Prägen aktiviert ist, wird sich dieser Prozentsatz um den eingestellten Prozentsatz fürs automatisierte Prägen einpendeln (Standard = 10%).
 </translation>
     </message>
@@ -2246,14 +2246,14 @@ Falls das automatische Prägen aktiviert ist, wird sich dieser Prozentsatz um de
         <translation>Automatisches Prägen ist aktiv und eingestellt auf</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</source>
-        <translation>Um das automatische Prägen zu deaktivieren, füge 'enablezeromint=0' in Blast.conf ein.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in blast.conf.</source>
+        <translation>Um das automatische Prägen zu deaktivieren, füge 'enablezeromint=0' in blast.conf ein.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in blast.conf</source>
         <translation>Das automatische Prägen ist deaktiviert.
-Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablezeromint=1' in Blast.conf</translation>
+Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablezeromint=1' in blast.conf</translation>
     </message>
 </context>
 <context>
@@ -2279,12 +2279,12 @@ Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablez
         <translation>Ungültige Zahlungsaufforderungsadresse %1</translation>
     </message>
     <message>
-        <source>Cannot start Blast: click-to-pay handler</source>
-        <translation>Kann BLASTX nicht starten: click-to-pay Handler</translation>
+        <source>Cannot start blast: click-to-pay handler</source>
+        <translation>Kann BLAST nicht starten: click-to-pay Handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid BLASTX address or malformed URI parameters.</source>
-        <translation>URI kann nicht analysiert werden! Dies kann durch eine ungültige BLASTX-Adresse oder fehlerhafte URI-Parameter verursacht worden sein.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid BLAST address or malformed URI parameters.</source>
+        <translation>URI kann nicht analysiert werden! Dies kann durch eine ungültige BLAST-Adresse oder fehlerhafte URI-Parameter verursacht worden sein.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2369,8 +2369,8 @@ Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablez
         <translation>Zerocoin Aktionen:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLASTX network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigte Information ist möglicherweise nicht mehr aktuell. Ihre Wallet synchronisiert sich automatisch mit dem BLASTX-Netzwerk, nachdem eine Verbindung hergestellt wurde. Aber dieser Vorgang ist noch nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLAST network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigte Information ist möglicherweise nicht mehr aktuell. Ihre Wallet synchronisiert sich automatisch mit dem BLAST-Netzwerk, nachdem eine Verbindung hergestellt wurde. Aber dieser Vorgang ist noch nicht abgeschlossen.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2381,8 +2381,8 @@ Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablez
         <translation>0</translation>
     </message>
     <message>
-        <source>zBLASTX</source>
-        <translation>zBLASTX</translation>
+        <source>zBLAST</source>
+        <translation>zBLAST</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2393,8 +2393,8 @@ Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablez
         <translation>Verfügbar für Prägung:</translation>
     </message>
     <message>
-        <source>0.000 000 00 BLASTX</source>
-        <translation>0.000 000 00 BLASTX</translation>
+        <source>0.000 000 00 BLAST</source>
+        <translation>0.000 000 00 BLAST</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2433,16 +2433,16 @@ Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablez
         <translation>PRIVATSPHÄRE</translation>
     </message>
     <message>
-        <source>Enter an amount of Blast to convert to zBLASTX</source>
-        <translation>Geben Sie den Betrag ein, den sie von BLASTX in zBLASTX umwandeln möchten</translation>
+        <source>Enter an amount of Blast to convert to zBLAST</source>
+        <translation>Geben Sie den Betrag ein, den sie von BLAST in zBLAST umwandeln möchten</translation>
     </message>
     <message>
-        <source>zBLASTX Control</source>
-        <translation>zBLASTX Control</translation>
+        <source>zBLAST Control</source>
+        <translation>zBLAST Control</translation>
     </message>
     <message>
-        <source>zBLASTX Selected:</source>
-        <translation>zBLASTX ausgewählt:</translation>
+        <source>zBLAST Selected:</source>
+        <translation>zBLAST ausgewählt:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2457,24 +2457,24 @@ Um das automatische Prägen zu aktivieren ändere 'enablezeromint=0' zu 'enablez
         <translation>Überweise Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBLASTX for spending</source>
-        <translation>Verfügbare (ausgereifte und aufwendbare) zBLASTX zum Überweisen</translation>
+        <source>Available (mature and spendable) zBLAST for spending</source>
+        <translation>Verfügbare (ausgereifte und aufwendbare) zBLAST zum Überweisen</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Verfügbare Bilanz:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBLASTX for spending
+        <source>Available (mature and spendable) zBLAST for spending
 
-zBLASTX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Verfügbare (ausgereifte und aufwendbare) zBLASTX zum Überweisen
+zBLAST are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Verfügbare (ausgereifte und aufwendbare) zBLAST zum Überweisen
 
-zBLASTX sind ausgereift wenn sie mehr als 20 Bestätigungen und mehr als 2 Prägungen in der selben Stückelung nach erfolgter Prägung halten.</translation>
+zBLAST sind ausgereift wenn sie mehr als 20 Bestätigungen und mehr als 2 Prägungen in der selben Stückelung nach erfolgter Prägung halten.</translation>
     </message>
     <message>
-        <source>0 zBLASTX</source>
-        <translation>0 zBLASTX</translation>
+        <source>0 zBLAST</source>
+        <translation>0 zBLAST</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2493,8 +2493,8 @@ zBLASTX sind ausgereift wenn sie mehr als 20 Bestätigungen und mehr als 2 Präg
         <translation>E&amp;mpfänger:</translation>
     </message>
     <message>
-        <source>The BLASTX address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Die BLASTX-Adresse, an die die Zahlung gesendet wird. Erstellt eine lokale Zahlung an Sie selbst, wenn die Zeile leer ist.</translation>
+        <source>The BLAST address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Die BLAST-Adresse, an die die Zahlung gesendet wird. Erstellt eine lokale Zahlung an Sie selbst, wenn die Zeile leer ist.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2545,8 +2545,8 @@ zBLASTX sind ausgereift wenn sie mehr als 20 Bestätigungen und mehr als 2 Präg
         <translation>Zerocoin Statistiken:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zBLASTX</source>
-        <translation>Totales Guthaben, einschließlich unbestätigter und unreifer zBLASTX</translation>
+        <source>Total Balance including unconfirmed and immature zBLAST</source>
+        <translation>Totales Guthaben, einschließlich unbestätigter und unreifer zBLAST</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2567,24 +2567,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Unreif: Bestätigt, aber keine Prägung in der selben Stückelung seit erfolgter Prägung</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zBLASTX minting.
+        <source>Show the current status of automatic zBLAST minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to Blast.conf
-- disable: add 'enablezeromint=0' to Blast.conf
+- enable: add 'enablezeromint=1' to blast.conf
+- disable: add 'enablezeromint=0' to blast.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zBLASTX
+- menu Settings-&gt;Options-&gt;Percentage of autominted zBLAST
 
 </source>
-        <translation>Zeigt den aktuellen Status der automatischen zBLASTX-Prägung an
+        <translation>Zeigt den aktuellen Status der automatischen zBLAST-Prägung an
 
 Um den Status zu ändern (Neustart erforderlich): 
-- enable: füge 'enablezeromint = 1' zu Blast.conf hinzu
-- disable: füge 'enablezeromint = 0' zu Blast.conf hinzu
+- enable: füge 'enablezeromint = 1' zu blast.conf hinzu
+- disable: füge 'enablezeromint = 0' zu blast.conf hinzu
 
 Um den Prozentsatz zu ändern (kein Neustart erforderlich): 
-- Menü Einstellungen-&gt; Optionen-&gt; Prozentsatz der autom. zBLASTX
+- Menü Einstellungen-&gt; Optionen-&gt; Prozentsatz der autom. zBLAST
 </translation>
     </message>
     <message>
@@ -2780,12 +2780,12 @@ Maximum allowed: </source>
 Maximal erlaubt:</translation>
     </message>
     <message>
-        <source>zBLASTX Spend #: </source>
-        <translation>zBLASTX Ausgeben #:</translation>
+        <source>zBLAST Spend #: </source>
+        <translation>zBLAST Ausgeben #:</translation>
     </message>
     <message>
-        <source>zBLASTX Mint</source>
-        <translation>zBLASTX Prägen</translation>
+        <source>zBLAST Mint</source>
+        <translation>zBLAST Prägen</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2800,12 +2800,12 @@ Maximal erlaubt:</translation>
         <translation>Konfigurierter Zielprozentsatz: &lt;b&gt;</translation>
     </message>
     <message>
-        <source>zBLASTX is currently disabled due to maintenance.</source>
-        <translation>zBLASTX ist aktuell deaktiviert aufgrund von Wartungsarbeiten.</translation>
+        <source>zBLAST is currently disabled due to maintenance.</source>
+        <translation>zBLAST ist aktuell deaktiviert aufgrund von Wartungsarbeiten.</translation>
     </message>
     <message>
-        <source>zBLASTX is currently undergoing maintenance.</source>
-        <translation>zBLASTX unterliegt momentan Wartungsarbeiten.</translation>
+        <source>zBLAST is currently undergoing maintenance.</source>
+        <translation>zBLAST unterliegt momentan Wartungsarbeiten.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2892,8 +2892,8 @@ Maximal erlaubt:</translation>
         <translation>Erfolgreich geprägt</translation>
     </message>
     <message>
-        <source> zBLASTX in </source>
-        <translation> zBLASTX in </translation>
+        <source> zBLAST in </source>
+        <translation> zBLAST in </translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2920,8 +2920,8 @@ Maximal erlaubt:</translation>
         <translation>Keine "Pay To"-Adresse zur Verfügung. Erstelle lokale Zahlung</translation>
     </message>
     <message>
-        <source>Invalid BLASTX Address</source>
-        <translation>Ungültige BLASTX-Adresse </translation>
+        <source>Invalid BLAST Address</source>
+        <translation>Ungültige BLAST-Adresse </translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2952,12 +2952,12 @@ Maximal erlaubt:</translation>
         <translation>Sende Coins bestätigen</translation>
     </message>
     <message>
-        <source>Version 1 zBLASTX require a security level of 100 to successfully spend.</source>
-        <translation>Version 1 zBLASTX benötigen eine Sicherheitsstufe von 100 um erfolgreich ausgegeben werden zu können.</translation>
+        <source>Version 1 zBLAST require a security level of 100 to successfully spend.</source>
+        <translation>Version 1 zBLAST benötigen eine Sicherheitsstufe von 100 um erfolgreich ausgegeben werden zu können.</translation>
     </message>
     <message>
-        <source>Failed to spend zBLASTX</source>
-        <translation>zBLASTX Überweisung fehlgeschlagen</translation>
+        <source>Failed to spend zBLAST</source>
+        <translation>zBLAST Überweisung fehlgeschlagen</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2979,7 +2979,7 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of BLASTX to convert to zBLASTX</comment>
+        <comment>Enter an amount of BLAST to convert to zBLAST</comment>
         <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3022,8 +3022,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Betrag</translation>
     </message>
     <message>
-        <source>Enter a BLASTX address (e.g. %1)</source>
-        <translation>BLASTX-Adresse eingeben (z.B. %1)</translation>
+        <source>Enter a BLAST address (e.g. %1)</source>
+        <translation>BLAST-Adresse eingeben (z.B. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3160,8 +3160,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Blockchain</translation>
     </message>
     <message>
-        <source>Open the BLASTX debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öffne BLASTX-Debug-Protokolldatei aus dem aktuellen Datenverzeichnis. Dies kann bei großen Protokolldateien einige Sekunden dauern.</translation>
+        <source>Open the BLAST debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öffne BLAST-Debug-Protokolldatei aus dem aktuellen Datenverzeichnis. Dies kann bei großen Protokolldateien einige Sekunden dauern.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3296,15 +3296,15 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Benutzerdefinierter Sicherungspfad:</translation>
     </message>
     <message>
-        <source>Custom zBLASTX Backup Path:</source>
-        <translation>Benutzerdefinierter zBLASTX Sicherungspfad:</translation>
+        <source>Custom zBLAST Backup Path:</source>
+        <translation>Benutzerdefinierter zBLAST Sicherungspfad:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
         <translation>Benutzerdefinierter Sicherungs-Schwellwert:</translation>
     </message>
     <message>
-        <source>BlastX wallet</source>
+        <source>Blastx wallet</source>
         <translation>Wallet Rettung</translation>
     </message>
     <message>
@@ -3376,8 +3376,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Out:</translation>
     </message>
     <message>
-        <source>Welcome to the BLASTX RPC console.</source>
-        <translation>Willkommen in der BLASTX RPC-Konsole.</translation>
+        <source>Welcome to the BLAST RPC console.</source>
+        <translation>Willkommen in der BLAST RPC-Konsole.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3503,16 +3503,16 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Ein optionales Etikett, das mit der neuen Empfangsadresse verknüpft werden soll.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BLASTX network.</source>
-        <translation>Eine optionale Nachricht an die Zahlungsaufforderung anhängen, die bei der Eröffnung der Anforderung angezeigt wird. Hinweis: Die Nachricht wird nicht mit der Zahlung über das BLASTX-Netzwerk gesendet.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BLAST network.</source>
+        <translation>Eine optionale Nachricht an die Zahlungsaufforderung anhängen, die bei der Eröffnung der Anforderung angezeigt wird. Hinweis: Die Nachricht wird nicht mit der Zahlung über das BLAST-Netzwerk gesendet.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>EMPFANGEN</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BLASTX network.</source>
-        <translation>Eine optionale Nachricht an die Zahlungsaufforderung anhängen, die bei der Eröffnung der Anforderung angezeigt wird.&lt;br&gt;Hinweis: Die Nachricht wird nicht mit der Zahlung über das BLASTX-Netzwerk gesendet.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BLAST network.</source>
+        <translation>Eine optionale Nachricht an die Zahlungsaufforderung anhängen, die bei der Eröffnung der Anforderung angezeigt wird.&lt;br&gt;Hinweis: Die Nachricht wird nicht mit der Zahlung über das BLAST-Netzwerk gesendet.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3665,7 +3665,7 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>BLASTXs überweisen</translation>
+        <translation>BLASTs überweisen</translation>
     </message>
     <message>
         <source>SEND</source>
@@ -3740,8 +3740,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>UTXO Größe:</translation>
     </message>
     <message>
-        <source>0 BLASTX</source>
-        <translation>0 BLASTX</translation>
+        <source>0 BLAST</source>
+        <translation>0 BLAST</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3796,16 +3796,16 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Coins automatisch ausgewählt</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBLASTXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBLASTXs in fee,&lt;br /&gt;while "at least" pays 1000 uBLASTXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Wenn die kundenspezifische Gebühr auf 1000 uBLASTXs eingestellt ist und die Transaktion nur 250 Bytes beträgt, dann zahlt man "pro Kilobyte" nur 250 uBLASTXs an Gebühren,&lt;br /&gt;während man "mindestens" 1000 uBLASTXs bezahlt. Für Transaktionen, die größer sind als ein Kilobyte, bezahlen sie per Kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBLASTs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBLASTs in fee,&lt;br /&gt;while "at least" pays 1000 uBLASTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Wenn die kundenspezifische Gebühr auf 1000 uBLASTs eingestellt ist und die Transaktion nur 250 Bytes beträgt, dann zahlt man "pro Kilobyte" nur 250 uBLASTs an Gebühren,&lt;br /&gt;während man "mindestens" 1000 uBLASTs bezahlt. Für Transaktionen, die größer sind als ein Kilobyte, bezahlen sie per Kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBLASTXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBLASTXs in fee,&lt;br /&gt;while "total at least" pays 1000 uBLASTXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Wenn die kundenspezifische Gebühr auf 1000 uBLASTXs eingestellt ist und die Transaktion nur 250 Bytes beträgt, dann zahlt man "pro Kilobyte" nur 250 uBLASTXs an Gebühren,&lt;br /&gt;während man "insgesamt mindestens" 1000 uBLASTXs bezahlt. Für Transaktionen, die größer sind als ein Kilobyte, bezahlen sie per Kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBLASTs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBLASTs in fee,&lt;br /&gt;while "total at least" pays 1000 uBLASTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Wenn die kundenspezifische Gebühr auf 1000 uBLASTs eingestellt ist und die Transaktion nur 250 Bytes beträgt, dann zahlt man "pro Kilobyte" nur 250 uBLASTs an Gebühren,&lt;br /&gt;während man "insgesamt mindestens" 1000 uBLASTs bezahlt. Für Transaktionen, die größer sind als ein Kilobyte, bezahlen sie per Kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BLASTX transactions than the network can process.</source>
-        <translation>Nur die minimale Gebühr zu zahlen ist nur gut, solange es weniger Transaktionsvolumen als Platz in den Blocken gibt.&lt;br /&gt;Aber seien Sie sich bewusst, dass dies in einer niemals bestätigende Transaktion enden kann, sobald die Nachfrage nach BLASTX-Transaktionen höher ist, als was das Netzwerk verarbeiten kann.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BLAST transactions than the network can process.</source>
+        <translation>Nur die minimale Gebühr zu zahlen ist nur gut, solange es weniger Transaktionsvolumen als Platz in den Blocken gibt.&lt;br /&gt;Aber seien Sie sich bewusst, dass dies in einer niemals bestätigende Transaktion enden kann, sobald die Nachfrage nach BLAST-Transaktionen höher ist, als was das Netzwerk verarbeiten kann.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3852,8 +3852,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Empfänge&amp;r hinzufügen</translation>
     </message>
     <message>
-        <source>Anonymized BLASTX</source>
-        <translation>Anonymisierte BLASTX</translation>
+        <source>Anonymized BLAST</source>
+        <translation>Anonymisierte BLAST</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3900,8 +3900,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Das Split-Block-Tool funktioniert nicht mit mehreren Adressen. Versuchen Sie es erneut.</translation>
     </message>
     <message>
-        <source>Warning: Invalid BLASTX address</source>
-        <translation>Warnung: Ungültige BLASTX-Adresse</translation>
+        <source>Warning: Invalid BLAST address</source>
+        <translation>Warnung: Ungültige BLAST-Adresse</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4003,8 +4003,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>E&amp;mpfänger:</translation>
     </message>
     <message>
-        <source>The BLASTX address to send the payment to</source>
-        <translation>BLASTX-Adresse, an die überwiesen werden soll</translation>
+        <source>The BLAST address to send the payment to</source>
+        <translation>BLAST-Adresse, an die überwiesen werden soll</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4043,8 +4043,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Nachricht:</translation>
     </message>
     <message>
-        <source>A message that was attached to the BLASTX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BLASTX network.</source>
-        <translation>Eine an die BLASTX-URI angefügte Nachricht, die zusammen mit der Transaktion gespeichert wird. Hinweis: Diese Nachricht wird nicht über das BLASTX-Netzwerk gesendet.</translation>
+        <source>A message that was attached to the BLAST: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BLAST network.</source>
+        <translation>Eine an die BLAST-URI angefügte Nachricht, die zusammen mit der Transaktion gespeichert wird. Hinweis: Diese Nachricht wird nicht über das BLAST-Netzwerk gesendet.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4070,8 +4070,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>BLASTX Core is shutting down...</source>
-        <translation>BLASTX Core wird beendet...</translation>
+        <source>BLAST Core is shutting down...</source>
+        <translation>BLAST Core wird beendet...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4093,8 +4093,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Sie können Nachrichten mit Ihren Adressen signieren, um zu beweisen, dass Sie diese besitzen. Seien Sie vorsichtig nichts fragwürdiges zu unterschreiben, da Phishing-Angriffe versuchen können, Sie dazu zu bringen, Ihre Identität zu überschreiben. Unterschreiben Sie nur ganz detaillierte Aussagen, denen Sie zustimmen.</translation>
     </message>
     <message>
-        <source>The BLASTX address to sign the message with</source>
-        <translation>BLASTX Adresse mit welcher die Nachricht signiert werden soll</translation>
+        <source>The BLAST address to sign the message with</source>
+        <translation>BLAST Adresse mit welcher die Nachricht signiert werden soll</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4125,16 +4125,16 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Kopiert die aktuelle Signatur in die Zwischenablage</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this BLASTX address</source>
-        <translation>Signiere die Nachricht um zu Beweisen, dass du diese BLASTX Adresse besitzt</translation>
+        <source>Sign the message to prove you own this BLAST address</source>
+        <translation>Signiere die Nachricht um zu Beweisen, dass du diese BLAST Adresse besitzt</translation>
     </message>
     <message>
-        <source>The BLASTX address the message was signed with</source>
-        <translation>Die BLASTX Adresse mit welcher die Nachricht signiert wurde.</translation>
+        <source>The BLAST address the message was signed with</source>
+        <translation>Die BLAST Adresse mit welcher die Nachricht signiert wurde.</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified BLASTX address</source>
-        <translation>Überprüfen Sie die Nachricht, um sicherzustellen, dass sie mit der angegebenen BLASTX-Adresse signiert wurde.</translation>
+        <source>Verify the message to ensure it was signed with the specified BLAST address</source>
+        <translation>Überprüfen Sie die Nachricht, um sicherzustellen, dass sie mit der angegebenen BLAST-Adresse signiert wurde.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4220,8 +4220,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4236,8 +4236,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Die Dash Core Entwickler</translation>
     </message>
     <message>
-        <source>The BLASTX Core developers</source>
-        <translation>Die BLASTX Core Entwickler</translation>
+        <source>The BLAST Core developers</source>
+        <translation>Die BLAST Core Entwickler</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4411,7 +4411,7 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Erzeugte BLASTXs müssen %1 Blöcke lang reifen, bevor sie ausgegeben werden können. Als Sie diesen Block erzeugten, wurde er an das Netzwerk übertragen, um ihn der Blockkette hinzuzufügen. Falls dies fehlschlägt wird der Status in "nicht angenommen" geändert und Sie werden keine BLASTXs gutgeschrieben bekommen. Das kann gelegentlich passieren, wenn ein anderer Knoten einen Block fast zeitgleich erzeugt.</translation>
+        <translation>Erzeugte BLASTs müssen %1 Blöcke lang reifen, bevor sie ausgegeben werden können. Als Sie diesen Block erzeugten, wurde er an das Netzwerk übertragen, um ihn der Blockkette hinzuzufügen. Falls dies fehlschlägt wird der Status in "nicht angenommen" geändert und Sie werden keine BLASTs gutgeschrieben bekommen. Das kann gelegentlich passieren, wenn ein anderer Knoten einen Block fast zeitgleich erzeugt.</translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -4516,12 +4516,12 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>über/durch Verschleierung empfangen</translation>
     </message>
     <message>
-        <source>BLASTX Stake</source>
-        <translation>BLASTX Stake</translation>
+        <source>BLAST Stake</source>
+        <translation>BLAST Stake</translation>
     </message>
     <message>
-        <source>zBLASTX Stake</source>
-        <translation>zBLASTX Stake</translation>
+        <source>zBLAST Stake</source>
+        <translation>zBLAST Stake</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4540,32 +4540,32 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Verschleierung Erzeugung der Stückelung</translation>
     </message>
     <message>
-        <source>Converted BLASTX to zBLASTX</source>
-        <translation>Umgewandeltes BLASTX zu zBLASTX</translation>
+        <source>Converted BLAST to zBLAST</source>
+        <translation>Umgewandeltes BLAST zu zBLAST</translation>
     </message>
     <message>
-        <source>Spent zBLASTX</source>
-        <translation>Ausgegebene zBLASTX</translation>
+        <source>Spent zBLAST</source>
+        <translation>Ausgegebene zBLAST</translation>
     </message>
     <message>
-        <source>Received BLASTX from zBLASTX</source>
-        <translation>Empfangene BLASTX von zBLASTX</translation>
+        <source>Received BLAST from zBLAST</source>
+        <translation>Empfangene BLAST von zBLAST</translation>
     </message>
     <message>
-        <source>Minted Change as zBLASTX from zBLASTX Spend</source>
-        <translation>Geprägtes zBLASTX Wechselgeld aus zBLASTX Überweisung</translation>
+        <source>Minted Change as zBLAST from zBLAST Spend</source>
+        <translation>Geprägtes zBLAST Wechselgeld aus zBLAST Überweisung</translation>
     </message>
     <message>
-        <source>Converted zBLASTX to BLASTX</source>
-        <translation>Umgewandeltes zBLASTX zu BLASTX</translation>
+        <source>Converted zBLAST to BLAST</source>
+        <translation>Umgewandeltes zBLAST zu BLAST</translation>
     </message>
     <message>
-        <source>Anonymous (zBLASTX Transaction)</source>
-        <translation>Anonym (zBLASTX Transaktion)</translation>
+        <source>Anonymous (zBLAST Transaction)</source>
+        <translation>Anonym (zBLAST Transaktion)</translation>
     </message>
     <message>
-        <source>Anonymous (zBLASTX Stake)</source>
-        <translation>Anonym (zBLASTX Stake)</translation>
+        <source>Anonymous (zBLAST Stake)</source>
+        <translation>Anonym (zBLAST Stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4775,12 +4775,12 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Exportieren erfolgreich</translation>
     </message>
     <message>
-        <source>Received BLASTX from zBLASTX</source>
-        <translation>Empfangene BLASTX von zBLASTX</translation>
+        <source>Received BLAST from zBLAST</source>
+        <translation>Empfangene BLAST von zBLAST</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zBLASTX</source>
-        <translation>Zerocoin Überweisung, Wechselgeld in zBLASTX</translation>
+        <source>Zerocoin Spend, Change in zBLAST</source>
+        <translation>Zerocoin Überweisung, Wechselgeld in zBLAST</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4813,11 +4813,11 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>BLASTXs überweisen</translation>
+        <translation>BLASTs überweisen</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 BLASTX.</source>
-        <translation>Swift Transaktionen unterstützen das senden solch hoher Beträge noch nicht. Transaktionen sind momentan auf %1 BLASTX begrenzt.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 BLAST.</source>
+        <translation>Swift Transaktionen unterstützen das senden solch hoher Beträge noch nicht. Transaktionen sind momentan auf %1 BLAST begrenzt.</translation>
     </message>
 </context>
 <context>
@@ -4850,8 +4850,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
 <context>
     <name>ZBlastControlDialog</name>
     <message>
-        <source>Select zBLASTX to Spend</source>
-        <translation>Wählen Sie die zBLASTX aus, die Sie ausgeben möchten</translation>
+        <source>Select zBLAST to Spend</source>
+        <translation>Wählen Sie die zBLAST aus, die Sie ausgeben möchten</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4862,8 +4862,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>0</translation>
     </message>
     <message>
-        <source>zBLASTX</source>
-        <translation>zBLASTX</translation>
+        <source>zBLAST</source>
+        <translation>zBLAST</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4875,7 +4875,7 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
     </message>
 </context>
 <context>
-    <name>Blast-core</name>
+    <name>blast-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = behalte Tx-Meta-Daten z.B. Betrag, Besitzer und Zahlungsanforderungsinformationen, 2 = verwerfe Tx-Meta-Daten)</translation>
@@ -4901,8 +4901,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Der berechnete Akkumulator-Checkpoint stimmt nicht mit dem vom Blockindex aufgezeichneten überein</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. BLASTX Core is probably already running.</source>
-        <translation>Kann keine Sperre für das Datenverzeichnis %s erhalten. BLASTX Core läuft wahrscheinlich bereits.</translation>
+        <source>Cannot obtain a lock on data directory %s. BLAST Core is probably already running.</source>
+        <translation>Kann keine Sperre für das Datenverzeichnis %s erhalten. BLAST Core läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4929,16 +4929,16 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Veröffentlicht unter der MIT-Software-Lizenz, siehe die beigelegte Datei COPYING oder &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zBLASTX minting (0-1, default: %u)</source>
-        <translation>Aktiviere nach jeder zBLASTX-Prägung ausgelöste automatische Wallet-Backups (0-1, Standard: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zBLAST minting (0-1, default: %u)</source>
+        <translation>Aktiviere nach jeder zBLAST-Prägung ausgelöste automatische Wallet-Backups (0-1, Standard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for BLASTX inputs (0-1, default: %u)</source>
-        <translation>Aktiviere oder deaktiviere Staking-Funktionalität für BLASTX Eingänge (0-1, default: %u)</translation>
+        <source>Enable or disable staking functionality for BLAST inputs (0-1, default: %u)</source>
+        <translation>Aktiviere oder deaktiviere Staking-Funktionalität für BLAST Eingänge (0-1, default: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zBLASTX inputs (0-1, default: %u)</source>
-        <translation>Aktiviere oder deaktiviere Staking-Funktionalität für zBLASTX Eingänge (0-1, default: %u)</translation>
+        <source>Enable or disable staking functionality for zBLAST inputs (0-1, default: %u)</source>
+        <translation>Aktiviere oder deaktiviere Staking-Funktionalität für zBLAST Eingänge (0-1, default: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -4973,12 +4973,12 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Befehl ausführen, wenn sich der beste Block ändert (%s in cmd wird durch Blockhash ersetzt)</translation>
     </message>
     <message>
-        <source>Fees (in BLASTX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Gebühren (in BLASTX/kB) kleiner als diese gelten für die Weiterleitung als Null-Gebühr  (default: %s)</translation>
+        <source>Fees (in BLAST/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Gebühren (in BLAST/kB) kleiner als diese gelten für die Weiterleitung als Null-Gebühr  (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BLASTX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Gebühren (in BLASTX/kB) kleiner als diese werden als Null-Gebühr für die Transaktionserstellung betrachtet (default: %s)</translation>
+        <source>Fees (in BLAST/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Gebühren (in BLAST/kB) kleiner als diese werden als Null-Gebühr für die Transaktionserstellung betrachtet (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5077,20 +5077,20 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Dieses Produkt beinhaltet Software, die vom OpenSSL Projekt für die Nutzung im OpenSSL Toolkit &lt;https://www.openssl.org/&gt; entwickelt wurde. Desweiteren kryptografische Software , die von Eric Young, und UPnP Software, die von Thomas Bernard, geschrieben wurde.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. BLASTX Core is probably already running.</source>
-        <translation>Fehler: Port %s ist bereits belegt! Läuft bereits eine andere BLASTX Core Wallet ?</translation>
+        <source>Unable to bind to %s on this computer. BLAST Core is probably already running.</source>
+        <translation>Fehler: Port %s ist bereits belegt! Läuft bereits eine andere BLAST Core Wallet ?</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Nicht genügend gestückeltes, verschleiertes Guthaben für diese Transaktion gefunden.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 BLASTX.</source>
-        <translation>Nicht genügend verschleiertes, nicht gestückeltes Guthaben für diese Transaktion gefunden, die nicht gleich 10000 BLASTX entsprechen.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 BLAST.</source>
+        <translation>Nicht genügend verschleiertes, nicht gestückeltes Guthaben für diese Transaktion gefunden, die nicht gleich 10000 BLAST entsprechen.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 BLASTX.</source>
-        <translation>Nicht genügend Guthaben für diese Transaktion gefunden, die nicht gleich 10000 BLASTX entsprechen.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 BLAST.</source>
+        <translation>Nicht genügend Guthaben für diese Transaktion gefunden, die nicht gleich 10000 BLAST entsprechen.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5105,8 +5105,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Warnung: -paytxfee ist sehr hoch eingestellt! Diese Transaktionsgebühr werden Ihnen abgebucht, falls Sie die Transaktion überweisen.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong BLASTX Core will not work properly.</source>
-        <translation>Warnung: Bitte stellen Sie sicher, das vom Computer verwendete Zeit und Datumangaben korrekt sind! Wenn ihr System falsche Zeitangaben nutzt, wird BLASTX Core nicht korrekt funktionieren.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong BLAST Core will not work properly.</source>
+        <translation>Warnung: Bitte stellen Sie sicher, das vom Computer verwendete Zeit und Datumangaben korrekt sind! Wenn ihr System falsche Zeitangaben nutzt, wird BLAST Core nicht korrekt funktionieren.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5257,8 +5257,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The BLASTX Core Developers</source>
-        <translation>Copyright (C) 2015-%i The BLASTX Core Developers</translation>
+        <source>Copyright (C) 2015-%i The BLAST Core Developers</source>
+        <translation>Copyright (C) 2015-%i The BLAST Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5345,8 +5345,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Fehler beim Laden von wallet.dat : Wallet beschädigt</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of BLASTX Core</source>
-        <translation>Fehler beim Laden der wallet.dat: Neuere BLASTX Core Version benötigt</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BLAST Core</source>
+        <translation>Fehler beim Laden der wallet.dat: Neuere BLAST Core Version benötigt</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5401,8 +5401,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Block konnte nicht gelesen werden</translation>
     </message>
     <message>
-        <source>Fee (in BLASTX/kB) to add to transactions you send (default: %s)</source>
-        <translation>Gebühr (in BLASTX/kB) die den Transaktionen, die Sie überweisen, hinzugefügt wird (Standard: %s)</translation>
+        <source>Fee (in BLAST/kB) to add to transactions you send (default: %s)</source>
+        <translation>Gebühr (in BLAST/kB) die den Transaktionen, die Sie überweisen, hinzugefügt wird (Standard: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5461,8 +5461,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Hinweis</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. BLASTX Core is shutting down.</source>
-        <translation>Initialisierung Sanity-Check fehlgeschlagen. BLASTX Core schaltet ab.</translation>
+        <source>Initialization sanity check failed. BLAST Core is shutting down.</source>
+        <translation>Initialisierung Sanity-Check fehlgeschlagen. BLAST Core schaltet ab.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5533,8 +5533,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Prozent automatisch geprägter Zerocoins (1-100, Standard: %u)</translation>
     </message>
     <message>
-        <source>Reindex the BLASTX and zBLASTX money supply statistics</source>
-        <translation>Die Geldmengenstatistik BLASTX und zBLASTX neu indizieren</translation>
+        <source>Reindex the BLAST and zBLAST money supply statistics</source>
+        <translation>Die Geldmengenstatistik BLAST und zBLAST neu indizieren</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5573,8 +5573,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
 </translation>
     </message>
     <message>
-        <source>Disable all BLASTX specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Deaktivieren Sie alle BLASTX-spezifischen Funktionen (Masternodes, Zerocoin, SwiftX, Budgetierung) (0-1, Standard: %u)</translation>
+        <source>Disable all BLAST specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Deaktivieren Sie alle BLAST-spezifischen Funktionen (Masternodes, Zerocoin, SwiftX, Budgetierung) (0-1, Standard: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -5609,8 +5609,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Bervorzugte Stückelung für automatisch geprägte Zerocoins (1/5/10/50/100/500/1000/5000), 0 falls keine bestimmte Stückelung präferiert wird. Standard: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zBLASTX backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Benutzerdefinierten Sicherungspfad festlegen, in den Kopien von allen automatischen zBLASTX-Sicherungen abgelegt werden. Wenn ein Verzeichnis ausgewählt ist, wird jede Sicherung als Datei mit Zeitstempel erstellt. Wenn eine Datei ausgewählt ist, wird diese Datei bei jeder Sicherung überschrieben. Wenn der Sicherungspfad auch festgelegt ist, werden 4 Sicherungen erstellt.</translation>
+        <source>Specify custom backup path to add a copy of any automatic zBLAST backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Benutzerdefinierten Sicherungspfad festlegen, in den Kopien von allen automatischen zBLAST-Sicherungen abgelegt werden. Wenn ein Verzeichnis ausgewählt ist, wird jede Sicherung als Datei mit Zeitstempel erstellt. Wenn eine Datei ausgewählt ist, wird diese Datei bei jeder Sicherung überschrieben. Wenn der Sicherungspfad auch festgelegt ist, werden 4 Sicherungen erstellt.</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6109,8 +6109,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Synchronisiere Sporks....</translation>
     </message>
     <message>
-        <source>Syncing zBLASTX wallet...</source>
-        <translation>Synchronisiere zBLASTX Wallet... </translation>
+        <source>Syncing zBLAST wallet...</source>
+        <translation>Synchronisiere zBLAST Wallet... </translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6257,8 +6257,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Benutzername für JSON-RPC-Verbindungen</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zBLASTX</source>
-        <translation>Der Betrag ist unterhalb des kleinsten Wertes (=1) an zBLASTX</translation>
+        <source>Value is below the smallest available denomination (= 1) of zBLAST</source>
+        <translation>Der Betrag ist unterhalb des kleinsten Wertes (=1) an zBLAST</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6273,8 +6273,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Verifiziere Wallet...</translation>
     </message>
     <message>
-        <source>Version 1 zBLASTX require a security level of 100 to successfully spend.</source>
-        <translation>Version 1 zBLASTX benötigen eine Sicherheitsstufe von 100 um erfolgreich ausgegeben werden zu können.</translation>
+        <source>Version 1 zBLAST require a security level of 100 to successfully spend.</source>
+        <translation>Version 1 zBLAST benötigen eine Sicherheitsstufe von 100 um erfolgreich ausgegeben werden zu können.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
@@ -6285,8 +6285,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Wallet gesperrt.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart BLASTX Core to complete</source>
-        <translation>Wallet musste neu geschrieben werden: Bitte BLASTX Core neu starten</translation>
+        <source>Wallet needed to be rewritten: restart BLAST Core to complete</source>
+        <translation>Wallet musste neu geschrieben werden: Bitte BLAST Core neu starten</translation>
     </message>
     <message>
         <source>Wallet options:</source>

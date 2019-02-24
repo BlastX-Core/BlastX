@@ -1,9 +1,9 @@
 Gitian building
 ================
 
-*Setup instructions for a gitian build of BlastX using a Debian VM or physical system.*
+*Setup instructions for a gitian build of Blastx using a Debian VM or physical system.*
 
-Gitian is the deterministic build process that is used to build the BlastX
+Gitian is the deterministic build process that is used to build the Blastx
 Core executables. It provides a way to be reasonably sure that the
 executables are really built from source on GitHub. It also makes sure that
 the same, tested dependencies are used and statically built into the executable.
@@ -26,7 +26,7 @@ Table of Contents
 - [Installing gitian](#installing-gitian)
 - [Setting up gitian images](#setting-up-gitian-images)
 - [Getting and building the inputs](#getting-and-building-the-inputs)
-- [Building BlastX](#building-blastx)
+- [Building Blastx](#building-blastx)
 - [Building an alternative repository](#building-an-alternative-repository)
 - [Signing externally](#signing-externally)
 - [Uploading signatures](#uploading-signatures)
@@ -326,10 +326,10 @@ under 'Fetch and build inputs' to install sources which require manual intervent
 the next step: 'Seed the Gitian sources cache', which will fetch all necessary source files allowing
 for gitian to work offline.
 
-Building BlastX
+Building Blastx
 ----------------------
 
-To build BlastX (for Linux, OSX and Windows) just follow the steps under 'perform
+To build Blastx (for Linux, OSX and Windows) just follow the steps under 'perform
 gitian builds' in [doc/release-process.md](release-process.md) in the blastx repository.
 
 This may take a long time as it also builds the dependencies needed for each descriptor.
@@ -408,6 +408,6 @@ Uploading signatures (not yet implemented)
 ---------------------
 
 In the future it will be possible to push your signatures (both the `.assert` and `.assert.sig` files) to the
-[blastx/gitian.sigs](https://github.com/BlastXBLASTX/gitian.sigs/) repository, or if that's not possible to create a pull
+[blastx/gitian.sigs](https://github.com/BlastX-Core/gitian.sigs/) repository, or if that's not possible to create a pull
 request.
 There will be an official announcement when this repository is online.

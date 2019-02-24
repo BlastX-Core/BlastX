@@ -74,7 +74,7 @@ public slots:
     void clear();
 
     /** Wallet repair options */
-    void walletBlastX();
+    void walletBlastx();
     void walletRescan();
     void walletZaptxes1();
     void walletZaptxes2();

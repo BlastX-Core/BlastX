@@ -10,7 +10,7 @@
 
 /**
  * CBaseChainParams defines the base parameters (shared between blastx-cli and blastxd)
- * of a given instance of the BlastX system.
+ * of a given instance of the Blastx system.
  */
 class CBaseChainParams
 {

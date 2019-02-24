@@ -1,8 +1,8 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2019 The PIVX developers
-//Copyright (c) 2019 The BlastX Developers// Distributed under the MIT/X11 software license, see the accompanying
+// Copyright (c) 2015-2017 The PIVX developers
+// Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #include "walletdb.h"
@@ -941,7 +941,7 @@ bool CWalletDB::Recover(CDBEnv& dbenv, std::string filename, bool fOnlyKeys)
 {
     // Recovery procedure:
     // move wallet.dat to wallet.timestamp.bak
-    // Call BlastX with fAggressive=true to
+    // Call Blastx with fAggressive=true to
     // get as much data as possible.
     // Rewrite blastxd data to wallet.dat
     // Set -rescan so any missing transactions will be
@@ -959,12 +959,12 @@ bool CWalletDB::Recover(CDBEnv& dbenv, std::string filename, bool fOnlyKeys)
     }
 
     std::vector<CDBEnv::KeyValPair> blastxdData;
-    bool allOK = dbenv.BlastX(newFilename, true, blastxdData);
+    bool allOK = dbenv.Blastx(newFilename, true, blastxdData);
     if (blastxdData.empty()) {
-        LogPrintf("BlastX(aggressive) found no records in %s.\n", newFilename);
+        LogPrintf("Blastx(aggressive) found no records in %s.\n", newFilename);
         return false;
     }
-    LogPrintf("BlastX(aggressive) found %u records\n", blastxdData.size());
+    LogPrintf("Blastx(aggressive) found %u records\n", blastxdData.size());
 
     bool fSuccess = allOK;
     boost::scoped_ptr<Db> pdbCopy(new Db(&dbenv.dbenv, 0));

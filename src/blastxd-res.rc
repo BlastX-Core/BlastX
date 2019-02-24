@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "BlastX"
-            VALUE "FileDescription",    "blastxd (OSS daemon/client for BlastX)"
+            VALUE "CompanyName",        "Blastx"
+            VALUE "FileDescription",    "blastxd (OSS daemon/client for Blastx)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "blastxd"
             VALUE "LegalCopyright",     COPYRIGHT_STR

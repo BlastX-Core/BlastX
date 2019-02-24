@@ -272,6 +272,6 @@
     <name>ZBlastControlDialog</name>
     </context>
 <context>
-    <name>Blast-core</name>
+    <name>blast-core</name>
     </context>
 </TS>

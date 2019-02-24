@@ -58,12 +58,12 @@
         <translation>Địa chỉ gửi </translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Đây là địa chỉ ví BLASTX của bạn để gửi đi. Luôn luôn kiểm tra số lượng và địa chỉ ví nhận trước khi gửi.</translation>
+        <source>These are your BLAST addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Đây là địa chỉ ví BLAST của bạn để gửi đi. Luôn luôn kiểm tra số lượng và địa chỉ ví nhận trước khi gửi.</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Đây là địa chỉ ví BLASTX của bạn để nhận. Bạn nên sử dụng địa chỉ ví nhận mới cho mỗi giao dịch</translation>
+        <source>These are your BLAST addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Đây là địa chỉ ví BLAST của bạn để nhận. Bạn nên sử dụng địa chỉ ví nhận mới cho mỗi giao dịch</translation>
     </message>
     </context>
 <context>
@@ -212,6 +212,6 @@
     <name>ZBlastControlDialog</name>
     </context>
 <context>
-    <name>Blast-core</name>
+    <name>blast-core</name>
     </context>
 </TS>

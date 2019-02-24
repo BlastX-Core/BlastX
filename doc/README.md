@@ -1,13 +1,13 @@
-BlastX Core
+Blastx Core
 =====================
 
 Setup
 ---------------------
-[BlastX Core](https://www.blastexchange.com) is the original BlastX client and it builds the backbone of the network. However, it downloads and stores the entire history of BlastX transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[Blastx Core](https://www.blastx.com) is the original Blastx client and it builds the backbone of the network. However, it downloads and stores the entire history of Blastx transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
-The following are some helpful notes on how to run BlastX on your native platform.
+The following are some helpful notes on how to run Blastx on your native platform.
 
 ### Unix
 
@@ -22,7 +22,7 @@ Unpack the files into a directory, and then run blastx-qt.exe.
 
 ### OSX
 
-Drag BlastX-Qt to your applications folder, and then run BlastX-Qt.
+Drag Blastx-Qt to your applications folder, and then run Blastx-Qt.
 
 ### Need Help?
 
@@ -30,7 +30,7 @@ Drag BlastX-Qt to your applications folder, and then run BlastX-Qt.
 
 Building
 ---------------------
-The following are developer notes on how to build BlastX on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build Blastx on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [OSX Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
@@ -38,7 +38,7 @@ The following are developer notes on how to build BlastX on your native platform
 
 Development
 ---------------------
-The BlastX repo's [root README](https://github.com/BlastX-Core/BlastX/blob/master/README.md) contains relevant information on the development process and automated testing.
+The Blastx repo's [root README](https://github.com/BlastX-Core/BlastX/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)

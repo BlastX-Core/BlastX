@@ -1,12 +1,12 @@
 dnl require autoconf 2.60 (AS_ECHO/AS_ECHO_N)
 AC_PREREQ([2.60])
-define(_CLIENT_VERSION_MAJOR, 4)
+define(_CLIENT_VERSION_MAJOR, 1)
 define(_CLIENT_VERSION_MINOR, 0)
-define(_CLIENT_VERSION_REVISION, 3)
+define(_CLIENT_VERSION_REVISION, 0)
 define(_CLIENT_VERSION_BUILD, 0)
 define(_CLIENT_VERSION_IS_RELEASE, true)
 define(_COPYRIGHT_YEAR, 2019)
-AC_INIT([BlastX Core],[_CLIENT_VERSION_MAJOR._CLIENT_VERSION_MINOR._CLIENT_VERSION_REVISION],[www.blastexchange.com],[blastx])
+AC_INIT([Blastx Core],[_CLIENT_VERSION_MAJOR._CLIENT_VERSION_MINOR._CLIENT_VERSION_REVISION],[www.blastx.com],[blastx])
 AC_CONFIG_SRCDIR([src/main.cpp])
 AC_CONFIG_HEADERS([src/config/blastx-config.h])
 AC_CONFIG_AUX_DIR([build-aux])
@@ -19,9 +19,9 @@ BITCOIN_TX_NAME=blastx-tx
 
 AC_CANONICAL_HOST
 
-AH_TOP([#ifndef BLASTX_CONFIG_H])
-AH_TOP([#define BLASTX_CONFIG_H])
-AH_BOTTOM([#endif //BLASTX_CONFIG_H])
+AH_TOP([#ifndef BLAST_CONFIG_H])
+AH_TOP([#define BLAST_CONFIG_H])
+AH_BOTTOM([#endif //BLAST_CONFIG_H])
 
 dnl faketime breaks configure and is only needed for make. Disable it here.
 unset FAKETIME

@@ -144,8 +144,8 @@
         <translation>Czy na pewno chcesz zakodować portfel?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLASTX&lt;/b&gt;!</source>
-        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE BLASTX!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLAST&lt;/b&gt;!</source>
+        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE BLAST!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -509,16 +509,16 @@
         <translation>&amp;Pomoc</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>&amp;Rdzeń BLASTX</translation>
+        <source>BLAST Core</source>
+        <translation>&amp;Rdzeń BLAST</translation>
     </message>
     <message>
-        <source>Send coins to a BLASTX address</source>
-        <translation>Wyślij monety do adresu BLASTX</translation>
+        <source>Send coins to a BLAST address</source>
+        <translation>Wyślij monety do adresu BLAST</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Blast: URIs)</source>
-        <translation>Zarządaj płatności (generuje kod QR i Blast:URI)</translation>
+        <source>Request payments (generates QR codes and blast: URIs)</source>
+        <translation>Zarządaj płatności (generuje kod QR i blast:URI)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -529,24 +529,24 @@
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About BLASTX Core</source>
+        <source>&amp;About BLAST Core</source>
         <translation>&amp;O rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Show information about BLASTX Core</source>
+        <source>Show information about BLAST Core</source>
         <translation>Pokaż informacje o rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Modify configuration options for BLASTX</source>
-        <translation>Modyfikuj opcje konfiguracji BLASTX</translation>
+        <source>Modify configuration options for BLAST</source>
+        <translation>Modyfikuj opcje konfiguracji BLAST</translation>
     </message>
     <message>
-        <source>Sign messages with your BLASTX addresses to prove you own them</source>
-        <translation>Zatwierdź wiadomość z twoimi adresami BLASTX, by udowodnić, że jesteś w ich posiadaniu</translation>
+        <source>Sign messages with your BLAST addresses to prove you own them</source>
+        <translation>Zatwierdź wiadomość z twoimi adresami BLAST, by udowodnić, że jesteś w ich posiadaniu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified BLASTX addresses</source>
-        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu BLASTX</translation>
+        <source>Verify messages to ensure they were signed with specified BLAST addresses</source>
+        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu BLAST</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -573,8 +573,8 @@
         <translation>Otwórz &amp;Plik konfiguracji Masternode</translation>
     </message>
     <message>
-        <source>Open a BLASTX: URI or payment request</source>
-        <translation>Otwórz BLASTX: URI i żądanie zapłaty</translation>
+        <source>Open a BLAST: URI or payment request</source>
+        <translation>Otwórz BLAST: URI i żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -585,12 +585,12 @@
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the BLASTX Core help message to get a list with possible BLASTX command-line options</source>
-        <translation>Pokaż wiadomość pomocy rdzenia BLASTX, aby dostać listę możliwych opcji BLASTX command-line</translation>
+        <source>Show the BLAST Core help message to get a list with possible BLAST command-line options</source>
+        <translation>Pokaż wiadomość pomocy rdzenia BLAST, aby dostać listę możliwych opcji BLAST command-line</translation>
     </message>
     <message>
-        <source>BLASTX Core client</source>
-        <translation>Rdzeń BLASTX klient</translation>
+        <source>BLAST Core client</source>
+        <translation>Rdzeń BLAST klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -899,8 +899,8 @@ MultiWysyłlka: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>&amp;Rdzeń BLASTX</translation>
+        <source>BLAST Core</source>
+        <translation>&amp;Rdzeń BLAST</translation>
     </message>
     </context>
 <context>
@@ -914,8 +914,8 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>&amp;Rdzeń BLASTX</translation>
+        <source>BLAST Core</source>
+        <translation>&amp;Rdzeń BLAST</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1190,12 +1190,12 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Zezwól na przychodzące połączenia</translation>
     </message>
     <message>
-        <source>Automatically start BLASTX after logging in to the system.</source>
-        <translation>Automatycznie uruchom BLASTX po zalogowaniu do systemu</translation>
+        <source>Automatically start BLAST after logging in to the system.</source>
+        <translation>Automatycznie uruchom BLAST po zalogowaniu do systemu</translation>
     </message>
     <message>
-        <source>&amp;Start BLASTX on system login</source>
-        <translation>&amp;Uruchom BLASTX podczas logowania do systemu</translation>
+        <source>&amp;Start BLAST on system login</source>
+        <translation>&amp;Uruchom BLAST podczas logowania do systemu</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1214,18 +1214,18 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>&amp;Sieć</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting BLASTX.</source>
-        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie BLASTX</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BLAST.</source>
+        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie BLAST</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Blast-project/Blast-project-translations</source>
+https://www.transifex.com/blast-project/blast-project-translations</source>
         <translation>Brakuje języka bądź nieukończona pełnego tłumaczenia? Pomóż w tłumaczeniu tutaj:
-https://www.transifex.com/Blast-project/Blast-project-translations </translation>
+https://www.transifex.com/blast-project/blast-project-translations </translation>
     </message>
     <message>
-        <source>Connect to the BLASTX network through a SOCKS5 proxy.</source>
-        <translation>Połącz z siecią BLASTX poprzez SOCKS5 proxy.</translation>
+        <source>Connect to the BLAST network through a SOCKS5 proxy.</source>
+        <translation>Połącz z siecią BLAST poprzez SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1463,8 +1463,8 @@ https://www.transifex.com/Blast-project/Blast-project-translations </translation
         <translation>Liczba</translation>
     </message>
     <message>
-        <source>Enter a BLASTX address (e.g. %1)</source>
-        <translation>Wprowadź adres BLASTX (np. %1)</translation>
+        <source>Enter a BLAST address (e.g. %1)</source>
+        <translation>Wprowadź adres BLAST (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1677,7 +1677,7 @@ https://www.transifex.com/Blast-project/Blast-project-translations </translation
         <translation>&amp;Napraw portfel</translation>
     </message>
     <message>
-        <source>BlastX wallet</source>
+        <source>Blastx wallet</source>
         <translation>Odzyskaj portfel</translation>
     </message>
     <message>
@@ -1894,8 +1894,8 @@ https://www.transifex.com/Blast-project/Blast-project-translations </translation
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this BLASTX address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres BLASTX jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this BLAST address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres BLAST jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -1929,8 +1929,8 @@ https://www.transifex.com/Blast-project/Blast-project-translations </translation
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>&amp;Rdzeń BLASTX</translation>
+        <source>BLAST Core</source>
+        <translation>&amp;Rdzeń BLAST</translation>
     </message>
     </context>
 <context>
@@ -2028,7 +2028,7 @@ https://www.transifex.com/Blast-project/Blast-project-translations </translation
     </message>
     </context>
 <context>
-    <name>Blast-core</name>
+    <name>blast-core</name>
     <message>
         <source>Error</source>
         <translation>Błąd</translation>

@@ -62,11 +62,11 @@
         <translation>Modtageradresse</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your BLAST addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Dine adresser til at sende betalinger med. Kontroller altid både beløb og modtageradresse før afsendelse.</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your BLAST addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Dette er dine modtager adresser. Det anbefales at anvende en ny adresse til hver transaktion</translation>
     </message>
     <message>
@@ -176,16 +176,16 @@
         <translation>Bekræft, og tegnebogen krypteres.</translation>
     </message>
     <message>
-        <source>BLASTX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTXs from being stolen by malware infecting your computer.</source>
-        <translation>BLASTX vil lukke ned for at færdiggøre kryptograferingsprocesserne. Husk at kryptering alene ikke sikrer mod tyveri af mønterne fra malware eller virus på computeren.</translation>
+        <source>BLAST will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTs from being stolen by malware infecting your computer.</source>
+        <translation>BLAST vil lukke ned for at færdiggøre kryptograferingsprocesserne. Husk at kryptering alene ikke sikrer mod tyveri af mønterne fra malware eller virus på computeren.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Er du sikker på, at du vil kryptere din tegnebog?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLASTX&lt;/b&gt;!</source>
-        <translation>Advarsel! Hvis du krypterer din tegnebog og mister dit password vil du &lt;b&gt;MISTE ALLE DINE BLASTX&lt;/b&gt;. Passworded kan ikke genskabes.</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLAST&lt;/b&gt;!</source>
+        <translation>Advarsel! Hvis du krypterer din tegnebog og mister dit password vil du &lt;b&gt;MISTE ALLE DINE BLAST&lt;/b&gt;. Passworded kan ikke genskabes.</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adresse</translation>
     </message>
     <message>
-        <source>Enter a BLASTX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Indtast en BLASTX-adresse, som du gerne vil kryptere ved hjælp af BIP 38. Indtast en adgangskode i mellemkassen. Tryk på krypteringen for at beregne den krypterede private nøgle.</translation>
+        <source>Enter a BLAST Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Indtast en BLAST-adresse, som du gerne vil kryptere ved hjælp af BIP 38. Indtast en adgangskode i mellemkassen. Tryk på krypteringen for at beregne den krypterede private nøgle.</translation>
     </message>
     <message>
-        <source>The BLASTX address to encrypt</source>
-        <translation>BLASTX-adressen for at kryptere</translation>
+        <source>The BLAST address to encrypt</source>
+        <translation>BLAST-adressen for at kryptere</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopier den aktuelle underskrift til udklipsholderen.</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this BLASTX address</source>
-        <translation>Krypter den private nøgle for denne BLASTX-adresse</translation>
+        <source>Encrypt the private key for this BLAST address</source>
+        <translation>Krypter den private nøgle for denne BLAST-adresse</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>Vis transaktionshistorik</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBLASTX</source>
-        <translation>Beskyttelse af personlige oplysninger for zBLASTX</translation>
+        <source>Privacy Actions for zBLAST</source>
+        <translation>Beskyttelse af personlige oplysninger for zBLAST</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,16 +645,16 @@
         <translation>Værktøjslinier</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX kerne</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST kerne</translation>
     </message>
     <message>
-        <source>Send coins to a BLASTX address</source>
-        <translation>Send mønter til en BLASTX adresse</translation>
+        <source>Send coins to a BLAST address</source>
+        <translation>Send mønter til en BLAST adresse</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Blast: URIs)</source>
-        <translation>Anmod om betaling (genrerer QR kode og BLASTX URL)</translation>
+        <source>Request payments (generates QR codes and blast: URIs)</source>
+        <translation>Anmod om betaling (genrerer QR kode og BLAST URL)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Vis masternoder</translation>
     </message>
     <message>
-        <source>&amp;About BLASTX Core</source>
-        <translation>&amp;Om BLASTX kerne</translation>
+        <source>&amp;About BLAST Core</source>
+        <translation>&amp;Om BLAST kerne</translation>
     </message>
     <message>
-        <source>Show information about BLASTX Core</source>
-        <translation>Vis information om BLASTX kerne</translation>
+        <source>Show information about BLAST Core</source>
+        <translation>Vis information om BLAST kerne</translation>
     </message>
     <message>
-        <source>Modify configuration options for BLASTX</source>
-        <translation>Ret konfigurationsindstillinger for BLASTX</translation>
+        <source>Modify configuration options for BLAST</source>
+        <translation>Ret konfigurationsindstillinger for BLAST</translation>
     </message>
     <message>
-        <source>Sign messages with your BLASTX addresses to prove you own them</source>
-        <translation>Underskriv beskeder med Deres BLASTX adresser for at bekræfte at De ejer dem.</translation>
+        <source>Sign messages with your BLAST addresses to prove you own them</source>
+        <translation>Underskriv beskeder med Deres BLAST adresser for at bekræfte at De ejer dem.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified BLASTX addresses</source>
-        <translation>Verificer besked for at sikre, at den er underskrevet med den opgivne BLASTX adresse</translation>
+        <source>Verify messages to ensure they were signed with specified BLAST addresses</source>
+        <translation>Verificer besked for at sikre, at den er underskrevet med den opgivne BLAST adresse</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>ÅbnMasternode konfigurationsfil</translation>
     </message>
     <message>
-        <source>Open a BLASTX: URI or payment request</source>
-        <translation>Åbn en BLASTX URl eller betalingsanmodning</translation>
+        <source>Open a BLAST: URI or payment request</source>
+        <translation>Åbn en BLAST URl eller betalingsanmodning</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Blockexplorer vindue</translation>
     </message>
     <message>
-        <source>Show the BLASTX Core help message to get a list with possible BLASTX command-line options</source>
-        <translation>Vis hjelpetekster fra BLASTX kernen for at få en liste med mulige BLASTX kommandolinie-startparametre</translation>
+        <source>Show the BLAST Core help message to get a list with possible BLAST command-line options</source>
+        <translation>Vis hjelpetekster fra BLAST kernen for at få en liste med mulige BLAST kommandolinie-startparametre</translation>
     </message>
     <message>
-        <source>BLASTX Core client</source>
-        <translation>BLASTX kerneklient</translation>
+        <source>BLAST Core client</source>
+        <translation>BLAST kerneklient</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to BLASTX network</source>
-        <translation><numerusform>%n aktiv forbindelse til BLASTX-netværk</numerusform><numerusform>%n aktiv forbindelse(s) til BLASTX netværk</numerusform></translation>
+        <source>%n active connection(s) to BLAST network</source>
+        <translation><numerusform>%n aktiv forbindelse til BLAST-netværk</numerusform><numerusform>%n aktiv forbindelse(s) til BLAST netværk</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -831,7 +831,7 @@ Adresse: %4
     <message>
         <source>Staking is active
  MultiSend: %1</source>
-        <translation>"IndsBlastning af saldo" aktiveret
+        <translation>"Indsblastning af saldo" aktiveret
 "Multisend": %1</translation>
     </message>
     <message>
@@ -845,7 +845,7 @@ Adresse: %4
     <message>
         <source>Staking is not active
  MultiSend: %1</source>
-        <translation>"IndsBlastning af saldo" ikke aktiveret
+        <translation>"Indsblastning af saldo" ikke aktiveret
 "Multisend": %1</translation>
     </message>
     <message>
@@ -892,8 +892,8 @@ Adresse: %4
         <translation>Tekstmærke</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
-        <translation>Ikke alle transaktioner vil blive vist. For at vise alle transaktioner må De sætte "txindex=1" i konfigurationsfilen (Blast.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (blast.conf).</source>
+        <translation>Ikke alle transaktioner vil blive vist. For at vise alle transaktioner må De sætte "txindex=1" i konfigurationsfilen (blast.conf).</translation>
     </message>
 </context>
 <context>
@@ -1130,8 +1130,8 @@ Adresse: %4
         <translation>Denne tekstmarkør bliver rød, hvis en modtageradresse modtager et beløb mindre end %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uBlast per input.</source>
-        <translation>Kan variere +/- %1 oBlast pr input.</translation>
+        <source>Can vary +/- %1 ublast per input.</source>
+        <translation>Kan variere +/- %1 oblast pr input.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1185,8 +1185,8 @@ Adresse: %4
         <translation>Ret afsenderadresse</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid BLASTX address.</source>
-        <translation>Den indtastede adresse %1 er ikke en gyldig BLASTX adresse</translation>
+        <source>The entered address "%1" is not a valid BLAST address.</source>
+        <translation>Den indtastede adresse %1 er ikke en gyldig BLAST adresse</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ Adresse: %4
         <translation>version</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX kerne</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST kerne</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About BLASTX Core</source>
-        <translation>om BLASTX kerne</translation>
+        <source>About BLAST Core</source>
+        <translation>om BLAST kerne</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ Adresse: %4
         <translation>Velkommen</translation>
     </message>
     <message>
-        <source>Welcome to BLASTX Core.</source>
-        <translation>Velkommen til BLASTX kerne</translation>
+        <source>Welcome to BLAST Core.</source>
+        <translation>Velkommen til BLAST kerne</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where BLASTX Core will store its data.</source>
-        <translation>Da det er første gang programmet startes, kan De vælge hvor BLASTX kernen skal lagre sine data</translation>
+        <source>As this is the first time the program is launched, you can choose where BLAST Core will store its data.</source>
+        <translation>Da det er første gang programmet startes, kan De vælge hvor BLAST kernen skal lagre sine data</translation>
     </message>
     <message>
-        <source>BLASTX Core will download and store a copy of the BLASTX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>BLASTX kernen vil nu hente og gemme en kopi af BLASTX blockchain. Der skal være mindst %1GB ledigt på lagermediet, og behovet vil stige efterhånden som tiden går. Selve tegnebogen vil også blive gemt her.</translation>
+        <source>BLAST Core will download and store a copy of the BLAST block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>BLAST kernen vil nu hente og gemme en kopi af BLAST blockchain. Der skal være mindst %1GB ledigt på lagermediet, og behovet vil stige efterhånden som tiden går. Selve tegnebogen vil også blive gemt her.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ Adresse: %4
         <translation>Anvend en mappe valgt af brugeren</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX kerne</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST kerne</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ Adresse: %4
         <translation>Indtast modtageradresse</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other BLASTX addresses after it matures.
-To Add: enter percentage to give and BLASTX address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other BLAST addresses after it matures.
+To Add: enter percentage to give and BLAST address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>Multisend tillader at De automatisk kan sende op til 100% af Deres belønninger fra såvel indskud som masternodebelønninger til en liste over andre BLASTX adressater når den er tilstrækkelig stor. 
-For at tilføje: Indtast procentsatsen De ønsker at overføre samt den BLASTX adresse som skal modtage via Multisendsystemet. 
+        <translation>Multisend tillader at De automatisk kan sende op til 100% af Deres belønninger fra såvel indskud som masternodebelønninger til en liste over andre BLAST adressater når den er tilstrækkelig stor. 
+For at tilføje: Indtast procentsatsen De ønsker at overføre samt den BLAST adresse som skal modtage via Multisendsystemet. 
 For at fjerne: Indtast adressen som skal slettes og klik på slet. 
 Multisend vil ikke fungere med mindre systemet er aktiveret.</translation>
     </message>
@@ -1681,8 +1681,8 @@ Vær tålmodig efter at du har klikket på import.</translation>
         <translation>Adresse / Beløb:</translation>
     </message>
     <message>
-        <source>Add destinations to send BLASTX to</source>
-        <translation>Tilføj destinationer for at sende BLASTX til</translation>
+        <source>Add destinations to send BLAST to</source>
+        <translation>Tilføj destinationer for at sende BLAST til</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1780,48 +1780,48 @@ Vær tålmodig efter at du har klikket på import.</translation>
         <translation>Vælg tilsløringsniveau</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 BLASTX</source>
-        <translation>Brug 2 separate masternoder for at tilsløre beløb op til 10000 BLASTX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 BLAST</source>
+        <translation>Brug 2 separate masternoder for at tilsløre beløb op til 10000 BLAST</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 BLASTX</source>
-        <translation>Brug 8 separate masternoder for at tilsløre op til 10000 BLASTX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 BLAST</source>
+        <translation>Brug 8 separate masternoder for at tilsløre op til 10000 BLAST</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Brug 16 separate masternoder</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Dette valg er det hurtigste og vil koste i omegnen af 0.025 BLASTX for at anonymiser 10000 BLASTX</translation>
+        <source>This option is the quickest and will cost about ~0.025 BLAST to anonymize 10000 BLAST</source>
+        <translation>Dette valg er det hurtigste og vil koste i omegnen af 0.025 BLAST for at anonymiser 10000 BLAST</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Dette valg er relativt hurtigt og vil koste i omegnen af 0.05 BLASTX for at anonymiser 10000 BLASTX</translation>
+        <source>This option is moderately fast and will cost about 0.05 BLAST to anonymize 10000 BLAST</source>
+        <translation>Dette valg er relativt hurtigt og vil koste i omegnen af 0.05 BLAST for at anonymiser 10000 BLAST</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Denne mulighed er den langsomste og det mest sikre valg. Valg af maksimal tilsløring vil koste</translation>
     </message>
     <message>
-        <source>0.1 BLASTX per 10000 BLASTX you anonymize.</source>
-        <translation>0.1 pr 10000 BLASTX for at tilsløre.</translation>
+        <source>0.1 BLAST per 10000 BLAST you anonymize.</source>
+        <translation>0.1 pr 10000 BLAST for at tilsløre.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Tilsløringskonfiguration</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening BLASTX's configuration screen.</source>
-        <translation>Tilsløring blev sat til grundlæggende (%1 og 2 gennemløb) De kan ændre dette hvornår De vil ved at åbne BLASTX konfigurationsbillede.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening BLAST's configuration screen.</source>
+        <translation>Tilsløring blev sat til grundlæggende (%1 og 2 gennemløb) De kan ændre dette hvornår De vil ved at åbne BLAST konfigurationsbillede.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening BLASTX's configuration screen.</source>
-        <translation>Tilsløring blev sat til høj (%1 og 8 gennemløb) De kan ændre dette hvornår De vil ved at åbne BLASTX konfigurationsbillede.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening BLAST's configuration screen.</source>
+        <translation>Tilsløring blev sat til høj (%1 og 8 gennemløb) De kan ændre dette hvornår De vil ved at åbne BLAST konfigurationsbillede.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening BLASTX's configuration screen.</source>
-        <translation>Tilsløring blev sat til maksimum (%1 og 16 gennemløb) De kan ændre dette hvornår De vil ved at åbne BLASTX konfigurationsbillede.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening BLAST's configuration screen.</source>
+        <translation>Tilsløring blev sat til maksimum (%1 og 16 gennemløb) De kan ændre dette hvornår De vil ved at åbne BLAST konfigurationsbillede.</translation>
     </message>
 </context>
 <context>
@@ -1882,8 +1882,8 @@ Vær tålmodig efter at du har klikket på import.</translation>
         <translation>Hvis De slår "brug af ubekræftede penge tilbage" vil penge tilbage &lt;br/&gt; ikke kunne benyttes før transaktionen er bekræftet mindst en gang. &lt;br/&gt;Dette har også indflydelse på opgørelsen af saldoen.</translation>
     </message>
     <message>
-        <source>Automatically open the BLASTX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åbn BLASTX klientporten på ruteren automatisk. Virker kun hvis UPnP er slået til i ruteren. </translation>
+        <source>Automatically open the BLAST client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Åbn BLAST klientporten på ruteren automatisk. Virker kun hvis UPnP er slået til i ruteren. </translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1902,12 +1902,12 @@ Vær tålmodig efter at du har klikket på import.</translation>
         <translation>Ekspert</translation>
     </message>
     <message>
-        <source>Automatically start BLASTX after logging in to the system.</source>
-        <translation>Start BLASTX automatisk, når der logges på systemet</translation>
+        <source>Automatically start BLAST after logging in to the system.</source>
+        <translation>Start BLAST automatisk, når der logges på systemet</translation>
     </message>
     <message>
-        <source>&amp;Start BLASTX on system login</source>
-        <translation>&amp;start BLASTX når der logges på systemet</translation>
+        <source>&amp;Start BLAST on system login</source>
+        <translation>&amp;start BLAST når der logges på systemet</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1934,50 +1934,50 @@ Vær tålmodig efter at du har klikket på import.</translation>
         <translation>&amp;netværk</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting BLASTX.</source>
-        <translation>Vælg sprog her. Ændringerne træder i kraft næste gang BLASTX klienten startes</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BLAST.</source>
+        <translation>Vælg sprog her. Ændringerne træder i kraft næste gang BLAST klienten startes</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Blast-project/Blast-project-translations</source>
+https://www.transifex.com/blast-project/blast-project-translations</source>
         <translation>Det valgte sprog mangler, eller oversættelsen er mangelfuld. Hjælp ved at bidrage med oversættelser her:
-https://www.transifex.com/Blast-project/Blast-project-translations</translation>
+https://www.transifex.com/blast-project/blast-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>MAP port ved hjælp af UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of BLASTX units to zBLASTX</source>
-        <translation>Aktivér automatisk mintning af BLASTX-enheder til zBLASTX</translation>
+        <source>Enable automatic minting of BLAST units to zBLAST</source>
+        <translation>Aktivér automatisk mintning af BLAST-enheder til zBLAST</translation>
     </message>
     <message>
-        <source>Enable zBLASTX Automint</source>
-        <translation>Aktivér zBLASTX Automint</translation>
+        <source>Enable zBLAST Automint</source>
+        <translation>Aktivér zBLAST Automint</translation>
     </message>
     <message>
-        <source>Percentage of incoming BLASTX which get automatically converted to zBLASTX via Zerocoin Protocol (min: 10%)</source>
-        <translation>Procentdelen af indkommende BLASTX, som automatisk konverteres til zBLASTX via Zerocoin Protocol (min: 10%)</translation>
+        <source>Percentage of incoming BLAST which get automatically converted to zBLAST via Zerocoin Protocol (min: 10%)</source>
+        <translation>Procentdelen af indkommende BLAST, som automatisk konverteres til zBLAST via Zerocoin Protocol (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zBLASTX</source>
-        <translation>Procentdel af automatiseret zBLASTX</translation>
+        <source>Percentage of autominted zBLAST</source>
+        <translation>Procentdel af automatiseret zBLAST</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough BLASTX for this denomination is available</source>
-        <translation>Vent med automatisk konvertering til Zerocoin, indtil nok BLASTX til denne betegnelse er tilgængelig</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough BLAST for this denomination is available</source>
+        <translation>Vent med automatisk konvertering til Zerocoin, indtil nok BLAST til denne betegnelse er tilgængelig</translation>
     </message>
     <message>
-        <source>Preferred Automint zBLASTX Denomination</source>
-        <translation>Foretrukket Automint zBLASTX Denomination</translation>
+        <source>Preferred Automint zBLAST Denomination</source>
+        <translation>Foretrukket Automint zBLAST Denomination</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
         <translation>Indtastningsgrænse for indsats:</translation>
     </message>
     <message>
-        <source>Connect to the BLASTX network through a SOCKS5 proxy.</source>
-        <translation>Tilslut BLASTX netværket gennem en SOCKS5 PROXY</translation>
+        <source>Connect to the BLAST network through a SOCKS5 proxy.</source>
+        <translation>Tilslut BLAST netværket gennem en SOCKS5 PROXY</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2131,8 +2131,8 @@ https://www.transifex.com/Blast-project/Blast-project-translations</translation>
         <translation>Samlet saldo, inklusive alle utilgængelige mønter.</translation>
     </message>
     <message>
-        <source>BLASTX Balance</source>
-        <translation>BLASTX Balance</translation>
+        <source>BLAST Balance</source>
+        <translation>BLAST Balance</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2148,25 +2148,25 @@ https://www.transifex.com/Blast-project/Blast-project-translations</translation>
     </message>
     <message>
         <source>Staked or masternode rewards that has not yet matured</source>
-        <translation>IndsBlaster- eller masternodebelønning er stadig under behandling</translation>
+        <translation>Indsblaster- eller masternodebelønning er stadig under behandling</translation>
     </message>
     <message>
         <source>Current locked balance in watch-only addresses</source>
         <translation>Nuværende låst balance i kun-adresser</translation>
     </message>
     <message>
-        <source>Your current BLASTX balance, unconfirmed and immature transactions included</source>
-        <translation>Din nuværende BLASTX-saldo, ubekræftede og umodne transaktioner inkluderet</translation>
+        <source>Your current BLAST balance, unconfirmed and immature transactions included</source>
+        <translation>Din nuværende BLAST-saldo, ubekræftede og umodne transaktioner inkluderet</translation>
     </message>
     <message>
-        <source>zBLASTX Balance</source>
-        <translation>zBLASTX-saldo</translation>
+        <source>zBLAST Balance</source>
+        <translation>zBLAST-saldo</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBLASTX are spendable.</source>
+These zBLAST are spendable.</source>
         <translation>Ældre: mere end 20 bekræftelser og mere end 1 minutter med samme betegnelse, efter at den blev minted
-Disse zBLASTX kan bruges.</translation>
+Disse zBLAST kan bruges.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2175,8 +2175,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Uplettet: bekræftet, men mindre end 1 minutter med samme betegnelse, efter at den blev mønnet</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLASTX network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste informationer kan være uddaterede. Deres tegnebog synkronisere automatism med BLASTX netværket så snart en forbindelse er etalbleret, men denne proces er ikke færdiggjort endnu. </translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLAST network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste informationer kan være uddaterede. Deres tegnebog synkronisere automatism med BLAST netværket så snart en forbindelse er etalbleret, men denne proces er ikke færdiggjort endnu. </translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2196,7 +2196,7 @@ Uplettet: bekræftet, men mindre end 1 minutter med samme betegnelse, efter at d
     </message>
     <message>
         <source>Staked or masternode rewards in watch-only addresses that has not yet matured</source>
-        <translation>IndsBlaster- eller masternodebelønning for "vis kun" adresser er stadig under behandling</translation>
+        <translation>Indsblaster- eller masternodebelønning for "vis kun" adresser er stadig under behandling</translation>
     </message>
     <message>
         <source>Total:</source>
@@ -2219,8 +2219,8 @@ Uplettet: bekræftet, men mindre end 1 minutter med samme betegnelse, efter at d
         <translation>Brugbare:</translation>
     </message>
     <message>
-        <source>Locked BLASTX or Masternode collaterals. These are excluded from zBLASTX minting.</source>
-        <translation>Låste BLASTX eller Masternode collaterals. Disse er udelukket fra zBLASTX-mintning.</translation>
+        <source>Locked BLAST or Masternode collaterals. These are excluded from zBLAST minting.</source>
+        <translation>Låste BLAST eller Masternode collaterals. Disse er udelukket fra zBLAST-mintning.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2231,8 +2231,8 @@ Uplettet: bekræftet, men mindre end 1 minutter med samme betegnelse, efter at d
         <translation>Ubekræftet:</translation>
     </message>
     <message>
-        <source>Your current zBLASTX balance, unconfirmed and immature zBLASTX included.</source>
-        <translation>Din nuværende zBLASTX-saldo, ubekræftede og umodne zBLASTX inkluderet.</translation>
+        <source>Your current zBLAST balance, unconfirmed and immature zBLAST included.</source>
+        <translation>Din nuværende zBLAST-saldo, ubekræftede og umodne zBLAST inkluderet.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2243,10 +2243,10 @@ Uplettet: bekræftet, men mindre end 1 minutter med samme betegnelse, efter at d
         <translation>Ude af synk</translation>
     </message>
     <message>
-        <source>Current percentage of zBLASTX.
+        <source>Current percentage of zBLAST.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Nuværende procentdel af zBLASTX
+        <translation>Nuværende procentdel af zBLAST
 Hvis AutoMint er aktiveret, vil denne procentdel sætte sig omkring den konfigurerede AutoMint-procent (default = 10%)</translation>
     </message>
     <message>
@@ -2254,14 +2254,14 @@ Hvis AutoMint er aktiveret, vil denne procentdel sætte sig omkring den konfigur
         <translation>AutoMint er i øjeblikket aktiveret og indstillet til</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</source>
-        <translation>To disable AutoMint add 'enablezeromint=0' in Blast.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in blast.conf.</source>
+        <translation>To disable AutoMint add 'enablezeromint=0' in blast.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in Blast.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in blast.conf</source>
         <translation>AutoMint er for øjeblikket deaktiveret
-For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' i Blast.conf</translation>
+For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' i blast.conf</translation>
     </message>
 </context>
 <context>
@@ -2287,11 +2287,11 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>Ugyldig betalingsadresse: %1</translation>
     </message>
     <message>
-        <source>Cannot start Blast: click-to-pay handler</source>
-        <translation>Kan ikke starte BLASTX "klik for at betale" systemet</translation>
+        <source>Cannot start blast: click-to-pay handler</source>
+        <translation>Kan ikke starte BLAST "klik for at betale" systemet</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid BLASTX address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid BLAST address or malformed URI parameters.</source>
         <translation>URl kan ikke fortolkes! Det kan skyldes en ugyldig adresse, eller forkerte URl parametre.</translation>
     </message>
     <message>
@@ -2377,8 +2377,8 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>Zerocoin Aktioner:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLASTX network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste informationer kan være uddaterede. Deres tegnebog synkronisere automatism med BLASTX netværket så snart en forbindelse er etalbleret, men denne proces er ikke færdiggjort endnu. </translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLAST network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste informationer kan være uddaterede. Deres tegnebog synkronisere automatism med BLAST netværket så snart en forbindelse er etalbleret, men denne proces er ikke færdiggjort endnu. </translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2389,8 +2389,8 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>0</translation>
     </message>
     <message>
-        <source>zBLASTX</source>
-        <translation>zBLASTX</translation>
+        <source>zBLAST</source>
+        <translation>zBLAST</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2401,8 +2401,8 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>Til rådighed til Minting:</translation>
     </message>
     <message>
-        <source>0.000 000 00 BLASTX</source>
-        <translation>0.000 000 00 BLASTX</translation>
+        <source>0.000 000 00 BLAST</source>
+        <translation>0.000 000 00 BLAST</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2441,16 +2441,16 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>PRIVATLIV</translation>
     </message>
     <message>
-        <source>Enter an amount of Blast to convert to zBLASTX</source>
+        <source>Enter an amount of Blast to convert to zBLAST</source>
         <translation>Indtast en mængde Blast for at konvertere til zBlast</translation>
     </message>
     <message>
-        <source>zBLASTX Control</source>
-        <translation>zBLASTX Control</translation>
+        <source>zBLAST Control</source>
+        <translation>zBLAST Control</translation>
     </message>
     <message>
-        <source>zBLASTX Selected:</source>
-        <translation>zBLASTX Selected:</translation>
+        <source>zBLAST Selected:</source>
+        <translation>zBLAST Selected:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2465,24 +2465,24 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>Tilbring Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBLASTX for spending</source>
-        <translation>Tilgængelig (moden og brugt) zBLASTX for udgifter</translation>
+        <source>Available (mature and spendable) zBLAST for spending</source>
+        <translation>Tilgængelig (moden og brugt) zBLAST for udgifter</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Disponibel saldo:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBLASTX for spending
+        <source>Available (mature and spendable) zBLAST for spending
 
-zBLASTX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Tilgængelig (moden og brugt) zBLASTX for spending
+zBLAST are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Tilgængelig (moden og brugt) zBLAST for spending
 
-zBLASTX er modne, når de har mere end 20 bekræftelser OG mere end 2 minutter med samme betegnelse, efter at de blev præsenteret</translation>
+zBLAST er modne, når de har mere end 20 bekræftelser OG mere end 2 minutter med samme betegnelse, efter at de blev præsenteret</translation>
     </message>
     <message>
-        <source>0 zBLASTX</source>
-        <translation>0 zBLASTX</translation>
+        <source>0 zBLAST</source>
+        <translation>0 zBLAST</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2501,8 +2501,8 @@ zBLASTX er modne, når de har mere end 20 bekræftelser OG mere end 2 minutter m
         <translation>Betal &amp;Til</translation>
     </message>
     <message>
-        <source>The BLASTX address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>BLASTX-adressen for at sende betalingen til. Opretter lokal betaling til dig selv, når du er tom.</translation>
+        <source>The BLAST address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>BLAST-adressen for at sende betalingen til. Opretter lokal betaling til dig selv, når du er tom.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2553,8 +2553,8 @@ zBLASTX er modne, når de har mere end 20 bekræftelser OG mere end 2 minutter m
         <translation>Zerocoin Stats:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zBLASTX</source>
-        <translation>Samlet saldo inklusive ubekræftede og umodne zBLASTX</translation>
+        <source>Total Balance including unconfirmed and immature zBLAST</source>
+        <translation>Samlet saldo inklusive ubekræftede og umodne zBLAST</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2575,24 +2575,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Uplettet: bekræftet, men mindre end 1 minutter med samme betegnelse, efter at den blev mønnet</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zBLASTX minting.
+        <source>Show the current status of automatic zBLAST minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to Blast.conf
-- disable: add 'enablezeromint=0' to Blast.conf
+- enable: add 'enablezeromint=1' to blast.conf
+- disable: add 'enablezeromint=0' to blast.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zBLASTX
+- menu Settings-&gt;Options-&gt;Percentage of autominted zBLAST
 
 </source>
-        <translation>Vis den aktuelle status for automatisk zBLASTX minting.øj
+        <translation>Vis den aktuelle status for automatisk zBLAST minting.øj
 
 For at ændre status (genstart kræves):.
-- aktiver: tilføj 'enablezeromint = 1' til Blast.conf
-- deaktiver: tilføj 'enablezeromint = 0' til Blast.conf
+- aktiver: tilføj 'enablezeromint = 1' til blast.conf
+- deaktiver: tilføj 'enablezeromint = 0' til blast.conf
 
 For at ændre procentdelen (ingen genstart kræves):.
-- menu Indstillinger-&gt; Indstillinger-&gt; Procentdel af automatiseret zBLASTX
+- menu Indstillinger-&gt; Indstillinger-&gt; Procentdel af automatiseret zBLAST
 </translation>
     </message>
     <message>
@@ -2737,7 +2737,7 @@ For at ændre procentdelen (ingen genstart kræves):.
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>Hvis denne er aktiveret, men tilbagebetalingsadressen er tom, eller ugyldig, oversBlastende beløb vil blive fremsendt til en nyoprettet adresse</translation>
+        <translation>Hvis denne er aktiveret, men tilbagebetalingsadressen er tom, eller ugyldig, oversblastende beløb vil blive fremsendt til en nyoprettet adresse</translation>
     </message>
     <message>
         <source>Custom change address</source>
@@ -2788,12 +2788,12 @@ Maximum allowed: </source>
 Maksimum tilladt:</translation>
     </message>
     <message>
-        <source>zBLASTX Spend #: </source>
-        <translation>zBLASTX Spend #: </translation>
+        <source>zBLAST Spend #: </source>
+        <translation>zBLAST Spend #: </translation>
     </message>
     <message>
-        <source>zBLASTX Mint</source>
-        <translation>zBLASTX Mint</translation>
+        <source>zBLAST Mint</source>
+        <translation>zBLAST Mint</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2808,12 +2808,12 @@ Maksimum tilladt:</translation>
         <translation>Konfigureret målprocent:&lt;b&gt;</translation>
     </message>
     <message>
-        <source>zBLASTX is currently disabled due to maintenance.</source>
-        <translation>zBLASTX er i øjeblikket deaktiveret på grund af vedligeholdelse.</translation>
+        <source>zBLAST is currently disabled due to maintenance.</source>
+        <translation>zBLAST er i øjeblikket deaktiveret på grund af vedligeholdelse.</translation>
     </message>
     <message>
-        <source>zBLASTX is currently undergoing maintenance.</source>
-        <translation>zBLASTX er i øjeblikket under opretholdelse.</translation>
+        <source>zBLAST is currently undergoing maintenance.</source>
+        <translation>zBLAST er i øjeblikket under opretholdelse.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2900,8 +2900,8 @@ Maksimum tilladt:</translation>
         <translation>Mynt succesfuldt</translation>
     </message>
     <message>
-        <source> zBLASTX in </source>
-        <translation> zBLASTX i</translation>
+        <source> zBLAST in </source>
+        <translation> zBLAST i</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2928,8 +2928,8 @@ Maksimum tilladt:</translation>
         <translation>Ingen 'Betal til' adresse, der er oprettet, skaber lokal betaling</translation>
     </message>
     <message>
-        <source>Invalid BLASTX Address</source>
-        <translation> Ugyldig BLASTX adresse</translation>
+        <source>Invalid BLAST Address</source>
+        <translation> Ugyldig BLAST adresse</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2960,12 +2960,12 @@ Maksimum tilladt:</translation>
         <translation>Bekræft at De vil sende mønter</translation>
     </message>
     <message>
-        <source>Version 1 zBLASTX require a security level of 100 to successfully spend.</source>
-        <translation>Version 1 zBLASTX kræver et sikkerhedsniveau på 100 til succes.</translation>
+        <source>Version 1 zBLAST require a security level of 100 to successfully spend.</source>
+        <translation>Version 1 zBLAST kræver et sikkerhedsniveau på 100 til succes.</translation>
     </message>
     <message>
-        <source>Failed to spend zBLASTX</source>
-        <translation>Kunne ikke bruge zBLASTX</translation>
+        <source>Failed to spend zBLAST</source>
+        <translation>Kunne ikke bruge zBLAST</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2987,7 +2987,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of BLASTX to convert to zBLASTX</comment>
+        <comment>Enter an amount of BLAST to convert to zBLAST</comment>
         <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3030,8 +3030,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Beløb</translation>
     </message>
     <message>
-        <source>Enter a BLASTX address (e.g. %1)</source>
-        <translation>Indtast en BLASTX adresse (F.eks. %1)</translation>
+        <source>Enter a BLAST address (e.g. %1)</source>
+        <translation>Indtast en BLAST adresse (F.eks. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3168,8 +3168,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Block chain</translation>
     </message>
     <message>
-        <source>Open the BLASTX debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn BLASTX debug logfilen fra den aktuelle datamappe. Det kan godt tage lidt tid hvis filen er meget stor.</translation>
+        <source>Open the BLAST debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn BLAST debug logfilen fra den aktuelle datamappe. Det kan godt tage lidt tid hvis filen er meget stor.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3297,22 +3297,22 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>Time Offset</source>
-        <translation>TidsforsBlastning</translation>
+        <translation>Tidsforsblastning</translation>
     </message>
     <message>
         <source>Custom Backup Path:</source>
         <translation>Brugerdefineret Backup-sti:</translation>
     </message>
     <message>
-        <source>Custom zBLASTX Backup Path:</source>
-        <translation>Brugerdefineret zBLASTX Backup-sti:</translation>
+        <source>Custom zBLAST Backup Path:</source>
+        <translation>Brugerdefineret zBLAST Backup-sti:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
         <translation>Brugerdefineret sikkerhedskopieringstærskel:</translation>
     </message>
     <message>
-        <source>BlastX wallet</source>
+        <source>Blastx wallet</source>
         <translation>Opsumer tegnebog</translation>
     </message>
     <message>
@@ -3384,8 +3384,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Ud:</translation>
     </message>
     <message>
-        <source>Welcome to the BLASTX RPC console.</source>
-        <translation>Velkommen til BLASTX RPC konsollet</translation>
+        <source>Welcome to the BLAST RPC console.</source>
+        <translation>Velkommen til BLAST RPC konsollet</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3511,16 +3511,16 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Valgfri opmærkning som tilknyttes den nye modtageradresse.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BLASTX network.</source>
-        <translation>Valgfri besked som vedhæftes betalingsanmodnigen, og som bliver vist når anmodningen åbnes. Note: Beskeden fremsendes ikke sammen med betalingen, når denne sendes ud på BLASTX netværket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BLAST network.</source>
+        <translation>Valgfri besked som vedhæftes betalingsanmodnigen, og som bliver vist når anmodningen åbnes. Note: Beskeden fremsendes ikke sammen med betalingen, når denne sendes ud på BLAST netværket.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>MODTAGE</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BLASTX network.</source>
-        <translation>Valgfri besked som vedhæftes betalingsanmodnigen, og som bliver vist når anmodningen åbnes. &lt;br&gt;Note: Beskeden fremsendes ikke sammen med betalingen, når denne sendes ud på BLASTX netværket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BLAST network.</source>
+        <translation>Valgfri besked som vedhæftes betalingsanmodnigen, og som bliver vist når anmodningen åbnes. &lt;br&gt;Note: Beskeden fremsendes ikke sammen med betalingen, når denne sendes ud på BLAST netværket.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3729,7 +3729,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>Hvis denne er aktiveret, men tilbagebetalingsadressen er tom, eller ugyldig, oversBlastende beløb vil blive fremsendt til en nyoprettet adresse</translation>
+        <translation>Hvis denne er aktiveret, men tilbagebetalingsadressen er tom, eller ugyldig, oversblastende beløb vil blive fremsendt til en nyoprettet adresse</translation>
     </message>
     <message>
         <source>Custom change address</source>
@@ -3748,8 +3748,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>UTXO størrelse:</translation>
     </message>
     <message>
-        <source>0 BLASTX</source>
-        <translation>0 BLASTX</translation>
+        <source>0 BLAST</source>
+        <translation>0 BLAST</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3804,15 +3804,15 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Mønter vælges automatisk</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBLASTXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBLASTXs in fee,&lt;br /&gt;while "at least" pays 1000 uBLASTXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uBLASTXs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBLASTX i gebyr, &lt;br /&gt; mens "mindst" udbetaler 1000 uBLASTXs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
+        <source>If the custom fee is set to 1000 uBLASTs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBLASTs in fee,&lt;br /&gt;while "at least" pays 1000 uBLASTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uBLASTs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBLAST i gebyr, &lt;br /&gt; mens "mindst" udbetaler 1000 uBLASTs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBLASTXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBLASTXs in fee,&lt;br /&gt;while "total at least" pays 1000 uBLASTXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uBLASTXs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBLASTX i gebyr, &lt;br /&gt; mens "Total-mindst" udbetaler 1000 uBLASTXs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
+        <source>If the custom fee is set to 1000 uBLASTs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBLASTs in fee,&lt;br /&gt;while "total at least" pays 1000 uBLASTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uBLASTs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBLAST i gebyr, &lt;br /&gt; mens "Total-mindst" udbetaler 1000 uBLASTs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BLASTX transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BLAST transactions than the network can process.</source>
         <translation>Betaling af mindste transaktionsgebyr vil være fint så længe der er færre transaktioner end der er plads til i blokkene. &lt;br /&gt; Men opmærksomheden henledes på, at det kan resultere i en transaktion der aldrig bliver bekræftet i det øjeblik der er større behov for transaktioner end netværket har plads til. </translation>
     </message>
     <message>
@@ -3860,8 +3860,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Tilføj &amp;Modtager</translation>
     </message>
     <message>
-        <source>Anonymized BLASTX</source>
-        <translation>Tilsløret BLASTX</translation>
+        <source>Anonymized BLAST</source>
+        <translation>Tilsløret BLAST</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3908,8 +3908,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Split blok værktøjet virker ikke med flere adresser. Prøv igen</translation>
     </message>
     <message>
-        <source>Warning: Invalid BLASTX address</source>
-        <translation>Advarsel! Ugyldig BLASTX adresse</translation>
+        <source>Warning: Invalid BLAST address</source>
+        <translation>Advarsel! Ugyldig BLAST adresse</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4011,8 +4011,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Betal &amp;Til</translation>
     </message>
     <message>
-        <source>The BLASTX address to send the payment to</source>
-        <translation>BLASTX adressen, som betalingen skal sendes til</translation>
+        <source>The BLAST address to send the payment to</source>
+        <translation>BLAST adressen, som betalingen skal sendes til</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4051,8 +4051,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Besked</translation>
     </message>
     <message>
-        <source>A message that was attached to the BLASTX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BLASTX network.</source>
-        <translation>En besked, der var vedhæftet til BLASTX: URl wil blive gemt sammen med transaktionen som reference. Note: Beskeden bliver medsendt transaktionen over netværket.</translation>
+        <source>A message that was attached to the BLAST: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BLAST network.</source>
+        <translation>En besked, der var vedhæftet til BLAST: URl wil blive gemt sammen med transaktionen som reference. Note: Beskeden bliver medsendt transaktionen over netværket.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4078,8 +4078,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>BLASTX Core is shutting down...</source>
-        <translation>BLASTX kernen lukker ned</translation>
+        <source>BLAST Core is shutting down...</source>
+        <translation>BLAST kernen lukker ned</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4101,8 +4101,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>De kan underskrive beskeder med Deres adresser or at bevise ejerskab. Vær forsigtig med at underskrive noget De er usikker på såsom forsøg op at narre Dem til at oplyse Deres identitet. Skriv kun under på noget De kan stå inde for, og som De er enig i. </translation>
     </message>
     <message>
-        <source>The BLASTX address to sign the message with</source>
-        <translation>Den BLASTX adresse, der skal bruges til at underskrive beskeden med.</translation>
+        <source>The BLAST address to sign the message with</source>
+        <translation>Den BLAST adresse, der skal bruges til at underskrive beskeden med.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4133,16 +4133,16 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Kopier den aktuelle underskrift til udklipsholderen.</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this BLASTX address</source>
-        <translation>Underskriv beskeden for at bevise, at De ejer denne BLASTX adresse.</translation>
+        <source>Sign the message to prove you own this BLAST address</source>
+        <translation>Underskriv beskeden for at bevise, at De ejer denne BLAST adresse.</translation>
     </message>
     <message>
-        <source>The BLASTX address the message was signed with</source>
-        <translation>Beskeden er underskrevet med denne BLASTX adresse</translation>
+        <source>The BLAST address the message was signed with</source>
+        <translation>Beskeden er underskrevet med denne BLAST adresse</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified BLASTX address</source>
-        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige BLASTX adresse.</translation>
+        <source>Verify the message to ensure it was signed with the specified BLAST address</source>
+        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige BLAST adresse.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4228,8 +4228,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX kerne</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST kerne</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4244,8 +4244,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>DASH "core" udviklerne</translation>
     </message>
     <message>
-        <source>The BLASTX Core developers</source>
-        <translation>BLASTX "core" udviklerne</translation>
+        <source>The BLAST Core developers</source>
+        <translation>BLAST "core" udviklerne</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4524,12 +4524,12 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Modtaget via tilsløring</translation>
     </message>
     <message>
-        <source>BLASTX Stake</source>
-        <translation>BLASTX Stake</translation>
+        <source>BLAST Stake</source>
+        <translation>BLAST Stake</translation>
     </message>
     <message>
-        <source>zBLASTX Stake</source>
-        <translation>zBLASTX Stake</translation>
+        <source>zBLAST Stake</source>
+        <translation>zBLAST Stake</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4548,32 +4548,32 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Opret tilsløret designering</translation>
     </message>
     <message>
-        <source>Converted BLASTX to zBLASTX</source>
-        <translation>Konverteret BLASTX til zBLASTX</translation>
+        <source>Converted BLAST to zBLAST</source>
+        <translation>Konverteret BLAST til zBLAST</translation>
     </message>
     <message>
-        <source>Spent zBLASTX</source>
+        <source>Spent zBLAST</source>
         <translation>Brugt zBlast</translation>
     </message>
     <message>
-        <source>Received BLASTX from zBLASTX</source>
+        <source>Received BLAST from zBLAST</source>
         <translation>Modtaget Blast fra zBlast</translation>
     </message>
     <message>
-        <source>Minted Change as zBLASTX from zBLASTX Spend</source>
-        <translation>Minted Change som zBLASTX fra zBLASTX Spend</translation>
+        <source>Minted Change as zBLAST from zBLAST Spend</source>
+        <translation>Minted Change som zBLAST fra zBLAST Spend</translation>
     </message>
     <message>
-        <source>Converted zBLASTX to BLASTX</source>
-        <translation>Konverteret BLASTX til zBLASTX</translation>
+        <source>Converted zBLAST to BLAST</source>
+        <translation>Konverteret BLAST til zBLAST</translation>
     </message>
     <message>
-        <source>Anonymous (zBLASTX Transaction)</source>
-        <translation>Anonym (zBLASTX Transaction)</translation>
+        <source>Anonymous (zBLAST Transaction)</source>
+        <translation>Anonym (zBLAST Transaction)</translation>
     </message>
     <message>
-        <source>Anonymous (zBLASTX Stake)</source>
-        <translation>Anonym (zBLASTX Stake)</translation>
+        <source>Anonymous (zBLAST Stake)</source>
+        <translation>Anonym (zBLAST Stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4783,12 +4783,12 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Eksporteret!</translation>
     </message>
     <message>
-        <source>Received BLASTX from zBLASTX</source>
+        <source>Received BLAST from zBLAST</source>
         <translation>Modtaget Blast fra zBlast</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zBLASTX</source>
-        <translation>Zerocoin Spend, Ændring i zBLASTX</translation>
+        <source>Zerocoin Spend, Change in zBLAST</source>
+        <translation>Zerocoin Spend, Ændring i zBLAST</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4824,8 +4824,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Send mønter</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 BLASTX.</source>
-        <translation>SwiftTx understøtter ikke afsendelse af så store beløb endnu. Transaktioner er for tiden begrænsede til %1BLASTX.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 BLAST.</source>
+        <translation>SwiftTx understøtter ikke afsendelse af så store beløb endnu. Transaktioner er for tiden begrænsede til %1BLAST.</translation>
     </message>
 </context>
 <context>
@@ -4858,8 +4858,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
 <context>
     <name>ZBlastControlDialog</name>
     <message>
-        <source>Select zBLASTX to Spend</source>
-        <translation>Vælg zBLASTX for at bruge</translation>
+        <source>Select zBLAST to Spend</source>
+        <translation>Vælg zBLAST for at bruge</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4870,8 +4870,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>0</translation>
     </message>
     <message>
-        <source>zBLASTX</source>
-        <translation>zBLASTX</translation>
+        <source>zBLAST</source>
+        <translation>zBLAST</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4883,7 +4883,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
 </context>
 <context>
-    <name>Blast-core</name>
+    <name>blast-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = beholdtx metadata. For eksempel information om kontoejer og betalngsanmodninger, 2 = drop TX metadata)</translation>
@@ -4909,8 +4909,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Beregnet akkumulator kontrolpunkt er ikke det, der er registreret af blok indeks</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. BLASTX Core is probably already running.</source>
-        <translation>Kan ikke låse datamappen %s. BLASTX core kører sandsynligvis allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s. BLAST Core is probably already running.</source>
+        <translation>Kan ikke låse datamappen %s. BLAST core kører sandsynligvis allerede.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4938,16 +4938,16 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
 &lt;http://www.opensource.org/licenses/mit-license.php&gt;. </translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zBLASTX minting (0-1, default: %u)</source>
+        <source>Enable automatic wallet backups triggered after each zBLAST minting (0-1, default: %u)</source>
         <translation>Aktivér automatiske wallet-sikkerhedskopier udløst efter hver zBlast-mintning (0-1, standard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for BLASTX inputs (0-1, default: %u)</source>
-        <translation>Aktiver eller deaktiver staking-funktionalitet for BLASTX-indgange (0-1, standard: %u)</translation>
+        <source>Enable or disable staking functionality for BLAST inputs (0-1, default: %u)</source>
+        <translation>Aktiver eller deaktiver staking-funktionalitet for BLAST-indgange (0-1, standard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zBLASTX inputs (0-1, default: %u)</source>
-        <translation>Aktiver eller deaktiver staking-funktionalitet for zBLASTX-indgange (0-1, standard: %u)</translation>
+        <source>Enable or disable staking functionality for zBLAST inputs (0-1, default: %u)</source>
+        <translation>Aktiver eller deaktiver staking-funktionalitet for zBLAST-indgange (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -4982,12 +4982,12 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Udfør en kommando når den bedste blok ændres (%s in cmd erstattes med blok hashen)</translation>
     </message>
     <message>
-        <source>Fees (in BLASTX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Gebyrer (in BLASTX/kb) lavere end dette betragtes som et nul-gebyr for at videresende (default: %s)</translation>
+        <source>Fees (in BLAST/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Gebyrer (in BLAST/kb) lavere end dette betragtes som et nul-gebyr for at videresende (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BLASTX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Gebyrer (in BLASTX/kb) lavere end dette betragtes som et nul-gebyr for at oprette en transaktion (default: %s)</translation>
+        <source>Fees (in BLAST/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Gebyrer (in BLAST/kb) lavere end dette betragtes som et nul-gebyr for at oprette en transaktion (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5039,7 +5039,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>Obfuscation uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
-        <translation>Tilsløring bruger hele det tilslørede designerede beløb til at sende betalinger. De kan blot tilsløre yderligere BLASTX</translation>
+        <translation>Tilsløring bruger hele det tilslørede designerede beløb til at sende betalinger. De kan blot tilsløre yderligere BLAST</translation>
     </message>
     <message>
         <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
@@ -5086,20 +5086,20 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Dette produkt anvender software udviklet i OpenSSL projektet til brug i OpenSSL værktøjssættet &lt;https://www.openssl.org/&gt; og kryptosoftware skrevet afEric Young og UPnP software skrevet af Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. BLASTX Core is probably already running.</source>
-        <translation>Det var ikke muligt at forbinde %s på denne computer. BLASTX kører sandsynligvis allerede.</translation>
+        <source>Unable to bind to %s on this computer. BLAST Core is probably already running.</source>
+        <translation>Det var ikke muligt at forbinde %s på denne computer. BLAST kører sandsynligvis allerede.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Det er ikke muligt at allokere tilstrækkeligt med tilsløret designeret indestående for at gennemføre denne transaktion.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 BLASTX.</source>
-        <translation>Det er ikke muligt at allokere tilstrækkeligt med tilsløret  ikke-designeret indestående for at gennemføre denne transaktion, der ikke ækvivalerer 10000 BLASTX.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 BLAST.</source>
+        <translation>Det er ikke muligt at allokere tilstrækkeligt med tilsløret  ikke-designeret indestående for at gennemføre denne transaktion, der ikke ækvivalerer 10000 BLAST.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 BLASTX.</source>
-        <translation>Det var ikke muligt at allokere tilstrækkelige midler til denne transaktion som er forskellig fra 10000 BLASTX.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 BLAST.</source>
+        <translation>Det var ikke muligt at allokere tilstrækkelige midler til denne transaktion som er forskellig fra 10000 BLAST.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5114,8 +5114,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Advarsel! -paytxfee er sat meget højt. Det er dette gebyr De kommer til at betale for transaktionen, hvis De gennemfører. </translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong BLASTX Core will not work properly.</source>
-        <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil BLASTX core ikke fungere ordentligt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong BLAST Core will not work properly.</source>
+        <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil BLAST core ikke fungere ordentligt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5266,8 +5266,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Copyright (C) 2014-%i The Dash Core Developers </translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The BLASTX Core Developers</source>
-        <translation>Copyright (C) 2015-%i The BLASTX Core Developers</translation>
+        <source>Copyright (C) 2015-%i The BLAST Core Developers</source>
+        <translation>Copyright (C) 2015-%i The BLAST Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5354,8 +5354,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen er beskadiget</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of BLASTX Core</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af BLASTX core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BLAST Core</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af BLAST core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5410,8 +5410,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Læsning af blokken mislykkedes</translation>
     </message>
     <message>
-        <source>Fee (in BLASTX/kB) to add to transactions you send (default: %s)</source>
-        <translation>Gebyr (i BLASTX/kB) som skal tilføjes transaktionen der sendes (default: %s)</translation>
+        <source>Fee (in BLAST/kB) to add to transactions you send (default: %s)</source>
+        <translation>Gebyr (i BLAST/kB) som skal tilføjes transaktionen der sendes (default: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5470,8 +5470,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Info:</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. BLASTX Core is shutting down.</source>
-        <translation>Initiering af sanitetskontrollen fejlede. BLASTX core lukker ned. </translation>
+        <source>Initialization sanity check failed. BLAST Core is shutting down.</source>
+        <translation>Initiering af sanitetskontrollen fejlede. BLAST core lukker ned. </translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5542,8 +5542,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Procentdel af automatisk mintede Zerocoin (10-100, standard: %u)</translation>
     </message>
     <message>
-        <source>Reindex the BLASTX and zBLASTX money supply statistics</source>
-        <translation>Reindex BLASTX og zBLASTX pengemængde statistikker</translation>
+        <source>Reindex the BLAST and zBLAST money supply statistics</source>
+        <translation>Reindex BLAST og zBLAST pengemængde statistikker</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5582,8 +5582,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
 </translation>
     </message>
     <message>
-        <source>Disable all BLASTX specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Slå alle BLASTX funktioner fra (Masternoder, Tilsløring, SwiftTX, Budgetting)(0-1,default:%u)</translation>
+        <source>Disable all BLAST specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Slå alle BLAST funktioner fra (Masternoder, Tilsløring, SwiftTX, Budgetting)(0-1,default:%u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -5618,8 +5618,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Foretrukken Betegnelse for automatisk mintede Zerocoin (1/5/10/50/100/500/1000/5000), 0 uden præference. standard: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zBLASTX backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Angiv brugerdefineret backup-vej for at tilføje en kopi af enhver zBLASTX-backup. Hvis det er angivet som dig, genererer hver backup en tidsstempelet fil. Hvis den er angivet som fil, ønsker man at omskrive til den pågældende fil hver backup. Hvis backupath er indstillet, vil der ske 4 sikkerhedskopier</translation>
+        <source>Specify custom backup path to add a copy of any automatic zBLAST backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Angiv brugerdefineret backup-vej for at tilføje en kopi af enhver zBLAST-backup. Hvis det er angivet som dig, genererer hver backup en tidsstempelet fil. Hvis den er angivet som fil, ønsker man at omskrive til den pågældende fil hver backup. Hvis backupath er indstillet, vil der ske 4 sikkerhedskopier</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6118,8 +6118,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Synkroniserer sporks...</translation>
     </message>
     <message>
-        <source>Syncing zBLASTX wallet...</source>
-        <translation>Syncing zBLASTX wallet ..</translation>
+        <source>Syncing zBLAST wallet...</source>
+        <translation>Syncing zBLAST wallet ..</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6266,8 +6266,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Brugernavn til JSON-RPC forbindelser</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zBLASTX</source>
-        <translation>Værdien er under den mindste tilgængelige værdi (= 1) for zBLASTX</translation>
+        <source>Value is below the smallest available denomination (= 1) of zBLAST</source>
+        <translation>Værdien er under den mindste tilgængelige værdi (= 1) for zBLAST</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6282,8 +6282,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Verificerer  tegnebog</translation>
     </message>
     <message>
-        <source>Version 1 zBLASTX require a security level of 100 to successfully spend.</source>
-        <translation>Version 1 zBLASTX kræver et sikkerhedsniveau på 100 til succes.</translation>
+        <source>Version 1 zBLAST require a security level of 100 to successfully spend.</source>
+        <translation>Version 1 zBLAST kræver et sikkerhedsniveau på 100 til succes.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
@@ -6294,8 +6294,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Tegnebogen er låst</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart BLASTX Core to complete</source>
-        <translation>Tegnebogen måtte genskrives. Genstart BLASTX core for at gøre færdig</translation>
+        <source>Wallet needed to be rewritten: restart BLAST Core to complete</source>
+        <translation>Tegnebogen måtte genskrives. Genstart BLAST core for at gøre færdig</translation>
     </message>
     <message>
         <source>Wallet options:</source>

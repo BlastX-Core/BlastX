@@ -62,12 +62,12 @@
         <translation>Adreces de recepció</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són les teves adreces BLASTX per fer enviar pagaments. Sempre comprova l'import i l'adreça de recepció abans d'enviar les monedes.</translation>
+        <source>These are your BLAST addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són les teves adreces BLAST per fer enviar pagaments. Sempre comprova l'import i l'adreça de recepció abans d'enviar les monedes.</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Aquestes són les teves adreces BLASTX per rebre pagaments. Es recomana utilitzar noves adreces de recepció per cada transacció.</translation>
+        <source>These are your BLAST addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Aquestes són les teves adreces BLAST per rebre pagaments. Es recomana utilitzar noves adreces de recepció per cada transacció.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,16 +168,16 @@
         <translation>Confirma l'encriptació del moneder</translation>
     </message>
     <message>
-        <source>BLASTX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTXs from being stolen by malware infecting your computer.</source>
-        <translation>BLASTX es tancarà per finalitzar el procés d'encriptació. Recorda que encriptant el teu moneder no protegeix els teus BLASTX de ser robats si el teu ordinador està infectat amb programari maliciós.</translation>
+        <source>BLAST will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTs from being stolen by malware infecting your computer.</source>
+        <translation>BLAST es tancarà per finalitzar el procés d'encriptació. Recorda que encriptant el teu moneder no protegeix els teus BLAST de ser robats si el teu ordinador està infectat amb programari maliciós.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Estàs segur que vols encriptar el moneder?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLASTX&lt;/b&gt;!</source>
-        <translation>Avís: Si encripteu el vostre moneder i perdeu la contrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES BLASTXS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLAST&lt;/b&gt;!</source>
+        <translation>Avís: Si encripteu el vostre moneder i perdeu la contrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES BLASTS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -421,12 +421,12 @@
         <translation>A&amp;juda</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
-        <source>Send coins to a BLASTX address</source>
-        <translation>Envia monedes a una adreça BLASTX</translation>
+        <source>Send coins to a BLAST address</source>
+        <translation>Envia monedes a una adreça BLAST</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -437,8 +437,8 @@
         <translation>&amp;Masternodes</translation>
     </message>
     <message>
-        <source>&amp;About BLASTX Core</source>
-        <translation>&amp;Sobre BLASTX Core</translation>
+        <source>&amp;About BLAST Core</source>
+        <translation>&amp;Sobre BLAST Core</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -461,8 +461,8 @@
         <translation>Obre el fitxer de configuració del Masternode</translation>
     </message>
     <message>
-        <source>BLASTX Core client</source>
-        <translation>Client BLASTX core</translation>
+        <source>BLAST Core client</source>
+        <translation>Client BLAST core</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -805,8 +805,8 @@
         <translation>Edita l'adreça d'enviament</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid BLASTX address.</source>
-        <translation>L'adreça introduïda "%1" no és una adreça BLASTX vàlida.</translation>
+        <source>The entered address "%1" is not a valid BLAST address.</source>
+        <translation>L'adreça introduïda "%1" no és una adreça BLAST vàlida.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -851,16 +851,16 @@
         <translation>versió</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About BLASTX Core</source>
-        <translation>Sobre BLASTX Core</translation>
+        <source>About BLAST Core</source>
+        <translation>Sobre BLAST Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -906,12 +906,12 @@
         <translation>Benvingut</translation>
     </message>
     <message>
-        <source>Welcome to BLASTX Core.</source>
-        <translation>Benvingut a BLASTX Core.</translation>
+        <source>Welcome to BLAST Core.</source>
+        <translation>Benvingut a BLAST Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where BLASTX Core will store its data.</source>
-        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del BLASTX Core.</translation>
+        <source>As this is the first time the program is launched, you can choose where BLAST Core will store its data.</source>
+        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del BLAST Core.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -922,8 +922,8 @@
         <translation>Usar una carpeta de dades personalitzada:</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1148,24 +1148,24 @@
         <translation>Si us plau, selecciona un nivell de privacitat.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 BLASTX</source>
-        <translation>Utilitza 2 masternodes diferents per mesclar fons de fins a 10000 BLASTX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 BLAST</source>
+        <translation>Utilitza 2 masternodes diferents per mesclar fons de fins a 10000 BLAST</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 BLASTX</source>
-        <translation>Utilitza 8 masternodes diferents per mesclar fons de fins a 10000 BLASTX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 BLAST</source>
+        <translation>Utilitza 8 masternodes diferents per mesclar fons de fins a 10000 BLAST</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Utilitza 16 masternodes diferents</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Aquesta opció és la més ràpida i té un cost d'uns ~0.025 BLASTX per anonimitzar 10000 BLASTX</translation>
+        <source>This option is the quickest and will cost about ~0.025 BLAST to anonymize 10000 BLAST</source>
+        <translation>Aquesta opció és la més ràpida i té un cost d'uns ~0.025 BLAST per anonimitzar 10000 BLAST</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BLASTX to anonymize 10000 BLASTX</source>
-        <translation>Aquesta opció és moderadament ràpida i té un cost d'uns 0.05 BLASTX per anonimitzar 10000 BLASTX</translation>
+        <source>This option is moderately fast and will cost about 0.05 BLAST to anonymize 10000 BLAST</source>
+        <translation>Aquesta opció és moderadament ràpida i té un cost d'uns 0.05 BLAST per anonimitzar 10000 BLAST</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -1214,8 +1214,8 @@
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start BLASTX after logging in to the system.</source>
-        <translation>Inicia BLASTX automàticament després d'identificar-te en el sistema.</translation>
+        <source>Automatically start BLAST after logging in to the system.</source>
+        <translation>Inicia BLAST automàticament després d'identificar-te en el sistema.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1302,12 +1302,12 @@
         <translation>0</translation>
     </message>
     <message>
-        <source>zBLASTX</source>
-        <translation>zBLASTX</translation>
+        <source>zBLAST</source>
+        <translation>zBLAST</translation>
     </message>
     <message>
-        <source>0.000 000 00 BLASTX</source>
-        <translation>0.000 000 00 BLASTX</translation>
+        <source>0.000 000 00 BLAST</source>
+        <translation>0.000 000 00 BLAST</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1322,8 +1322,8 @@
         <translation>Import:</translation>
     </message>
     <message>
-        <source>0 zBLASTX</source>
-        <translation>0 zBLASTX</translation>
+        <source>0 zBLAST</source>
+        <translation>0 zBLAST</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1713,8 +1713,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>BLASTX Core is shutting down...</source>
-        <translation>BLASTX Core s'està tancant...</translation>
+        <source>BLAST Core is shutting down...</source>
+        <translation>BLAST Core s'està tancant...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1779,8 +1779,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -1969,12 +1969,12 @@
         <translation>0</translation>
     </message>
     <message>
-        <source>zBLASTX</source>
-        <translation>zBLASTX</translation>
+        <source>zBLAST</source>
+        <translation>zBLAST</translation>
     </message>
     </context>
 <context>
-    <name>Blast-core</name>
+    <name>blast-core</name>
     <message>
         <source>Can't mix while sync in progress.</source>
         <translation>No es pot mesclar mentre s'està sincronitzant.</translation>

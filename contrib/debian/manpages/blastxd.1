@@ -1,14 +1,14 @@
 .TH BITCOINGREEND "1" "February 2017" "blastxd 2.1.4.1"
 .SH NAME
-BlastX \- peer-to-peer network based digital currency
+Blastx \- peer-to-peer network based digital currency
 .SH SYNOPSIS
 blastxd [options] <command> [params]
 .TP
 blastxd [options] help <command> \- Get help for a command
 .SH DESCRIPTION
-This  manual page documents the blastxd program. BlastX is a peer-to-peer digital currency. Peer-to-peer (P2P) means that there is no central authority to issue new money or keep track of transactions. Instead, these tasks are managed collectively by the nodes of the network. Advantages:
+This  manual page documents the blastxd program. Blastx is a peer-to-peer digital currency. Peer-to-peer (P2P) means that there is no central authority to issue new money or keep track of transactions. Instead, these tasks are managed collectively by the nodes of the network. Advantages:
 
-BlastX can be sent easily through the Internet, without having to trust middlemen. Transactions are designed to be irreversible. Be safe from instability caused by fractional reserve banking and central banks. The limited inflation of the BlastX system’s money supply is distributed evenly (by CPU power) throughout the network, not monopolized by banks.
+Blastx can be sent easily through the Internet, without having to trust middlemen. Transactions are designed to be irreversible. Be safe from instability caused by fractional reserve banking and central banks. The limited inflation of the Blastx system’s money supply is distributed evenly (by CPU power) throughout the network, not monopolized by banks.
 
 .SH OPTIONS
 .TP
@@ -84,14 +84,14 @@ This help message
 \fBbackupwallet 'destination'\fR
 Safely copies *wallet.dat* to 'destination', which can be a directory or a path with filename.
 .TP
-\fBgetaccount 'Blastaddress'\fR
+\fBgetaccount 'blastaddress'\fR
 Returns the account associated with the given address.
 .TP
-\fBsetaccount 'Blastaddress' ['account']\fR
+\fBsetaccount 'blastaddress' ['account']\fR
 Sets the ['account'] associated with the given address. ['account'] may be omitted to remove an address from ['account'].
 .TP
 \fBgetaccountaddress 'account'\fR
-Returns a new Blast address for 'account'.
+Returns a new blast address for 'account'.
 .TP
 \fBgetaddressesbyaccount 'account'\fR
 Returns the list of addresses associated with the given 'account'.
@@ -112,7 +112,7 @@ Returns the number of connections to other nodes.
 Returns the proof-of-work difficulty as a multiple of the minimum difficulty.
 .TP
 \fBgetgenerate\fR
-Returns boolean true if server is trying to generate BLASTX, false otherwise.
+Returns boolean true if server is trying to generate BLAST, false otherwise.
 .TP
 \fBsetgenerate 'generate' ['genproclimit']\fR
 Generation is limited to ['genproclimit'] processors, \-1 is unlimited.
@@ -124,13 +124,13 @@ Returns a recent hashes per second performance measurement while generating.
 Returns an object containing server information.
 .TP
 \fBgetnewaddress 'account'\fR
-Returns a new Blast address for receiving payments. If 'account' is specified (recommended), it is added to the address book so payments received with the address will be credited to 'account'.
+Returns a new blast address for receiving payments. If 'account' is specified (recommended), it is added to the address book so payments received with the address will be credited to 'account'.
 .TP
 \fBgetreceivedbyaccount 'account' ['minconf=1']\fR
 Returns the total amount received by addresses associated with 'account' in transactions with at least ['minconf'] confirmations.
 .TP
-\fBgetreceivedbyaddress 'Blastaddress' ['minconf=1']\fR
-Returns the total amount received by 'Blastaddress' in transactions with at least ['minconf'] confirmations.
+\fBgetreceivedbyaddress 'blastaddress' ['minconf=1']\fR
+Returns the total amount received by 'blastaddress' in transactions with at least ['minconf'] confirmations.
 .TP
 \fBgettransaction 'txid'\fR
 Returns information about a specific transaction, given hexadecimal transaction ID.
@@ -148,7 +148,7 @@ List commands, or get help for a command.
 .TP
 \fBlistaccounts ['minconf=1']\fR
 List accounts and their current balances.
-     *note: requires Blast 1.0.0.1 or later.
+     *note: requires blast 1.0.0.1 or later.
 .TP
 \fBlistreceivedbyaccount ['minconf=1'] ['includeempty=false']\fR
 ['minconf'] is the minimum number of confirmations before payments are included. ['includeempty'] whether to include addresses that haven't received any payments. Returns an array of objects containing:
@@ -182,21 +182,21 @@ Returns a list of the last ['count'] transactions for 'account' \- for all accou
 \fBmove <'fromaccount'> <'toaccount'> <'amount'> ['minconf=1'] ['comment']\fR
 Moves funds between accounts.
 .TP
-\fBsendfrom* <'account'> <'Blastaddress'> <'amount'> ['minconf=1'] ['comment'] ['comment-to']\fR
-Sends amount from account's balance to 'Blastaddress'. This method will fail if there is less than amount BLASTX with ['minconf'] confirmations in the account's balance (unless account is the empty-string-named default account; it behaves like the *sendtoaddress* method). Returns transaction ID on success.
+\fBsendfrom* <'account'> <'blastaddress'> <'amount'> ['minconf=1'] ['comment'] ['comment-to']\fR
+Sends amount from account's balance to 'blastaddress'. This method will fail if there is less than amount BLAST with ['minconf'] confirmations in the account's balance (unless account is the empty-string-named default account; it behaves like the *sendtoaddress* method). Returns transaction ID on success.
 .TP
-\fBsendtoaddress 'Blastaddress' 'amount' ['comment'] ['comment-to']\fR
-Sends amount from the server's available balance to 'Blastaddress'. amount is a real and is rounded to the nearest 0.01. Returns transaction id on success.
+\fBsendtoaddress 'blastaddress' 'amount' ['comment'] ['comment-to']\fR
+Sends amount from the server's available balance to 'blastaddress'. amount is a real and is rounded to the nearest 0.01. Returns transaction id on success.
 .TP
 \fBstop\fR
 Stops the blastx server.
 .TP
-\fBvalidateaddress 'Blastaddress'\fR
-Checks that 'Blastaddress' looks like a proper Blast address. Returns an object containing:
+\fBvalidateaddress 'blastaddress'\fR
+Checks that 'blastaddress' looks like a proper blast address. Returns an object containing:
 
     "isvalid" : true or false.
     "ismine"  : true if the address is in the server's wallet.
-    "address" : Blastaddress.
+    "address" : blastaddress.
 
     *note: ismine and address are only returned if the address is valid.
 

@@ -62,12 +62,12 @@
         <translation>Adrese za primanje</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To su vaše BLASTX adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your BLAST addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To su vaše BLAST adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your BLASTX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To su vaše BLASTX adrese za primanje uplata. Preporuča se upotreba nove adrese primanja za svaku transakciju.</translation>
+        <source>These are your BLAST addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To su vaše BLAST adrese za primanje uplata. Preporuča se upotreba nove adrese primanja za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,16 +172,16 @@
         <translation>Potvrdite šifriranje novčanika</translation>
     </message>
     <message>
-        <source>BLASTX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTXs from being stolen by malware infecting your computer.</source>
-        <translation>BLASTX se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše BLASTX od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
+        <source>BLAST will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTs from being stolen by malware infecting your computer.</source>
+        <translation>BLAST se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše BLAST od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Jeste li sigurni da želite šifrirati svoj novčanik?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLASTX&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite vašu zaporku, vi ćete1 IZGUBITI ĆE TE SAV VAŠ BLASTX1!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLAST&lt;/b&gt;!</source>
+        <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite vašu zaporku, vi ćete1 IZGUBITI ĆE TE SAV VAŠ BLAST1!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -397,8 +397,8 @@
         <translation>Pregledajte povijest transakcija</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBLASTX</source>
-        <translation>Aktivnosti na privatnost za zBLASTX</translation>
+        <source>Privacy Actions for zBLAST</source>
+        <translation>Aktivnosti na privatnost za zBLAST</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -601,16 +601,16 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
-        <source>Send coins to a BLASTX address</source>
-        <translation>Pošaljite kovanice na BLASTX adresu</translation>
+        <source>Send coins to a BLAST address</source>
+        <translation>Pošaljite kovanice na BLAST adresu</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Blast: URIs)</source>
-        <translation>Zahtjev za plaćanja (generira QR kodove i Blast: URI)</translation>
+        <source>Request payments (generates QR codes and blast: URIs)</source>
+        <translation>Zahtjev za plaćanja (generira QR kodove i blast: URI)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -625,24 +625,24 @@
         <translation>Pregledajte masternode</translation>
     </message>
     <message>
-        <source>&amp;About BLASTX Core</source>
-        <translation>&amp; O BLASTX Coreu</translation>
+        <source>&amp;About BLAST Core</source>
+        <translation>&amp; O BLAST Coreu</translation>
     </message>
     <message>
-        <source>Show information about BLASTX Core</source>
-        <translation>Prikaz informacija o BLASTX Coreu</translation>
+        <source>Show information about BLAST Core</source>
+        <translation>Prikaz informacija o BLAST Coreu</translation>
     </message>
     <message>
-        <source>Modify configuration options for BLASTX</source>
-        <translation>Izmijenite opcije konfiguracije za BLASTX</translation>
+        <source>Modify configuration options for BLAST</source>
+        <translation>Izmijenite opcije konfiguracije za BLAST</translation>
     </message>
     <message>
-        <source>Sign messages with your BLASTX addresses to prove you own them</source>
-        <translation>Potpišite poruke s vašim BLASTX adresama kako biste dokazali da ih posjedujete</translation>
+        <source>Sign messages with your BLAST addresses to prove you own them</source>
+        <translation>Potpišite poruke s vašim BLAST adresama kako biste dokazali da ih posjedujete</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified BLASTX addresses</source>
-        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim BLASTX adresama</translation>
+        <source>Verify messages to ensure they were signed with specified BLAST addresses</source>
+        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim BLAST adresama</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -653,8 +653,8 @@
         <translation>Šifriranje i dešifriranje privatnih ključeva pomoću zaporke</translation>
     </message>
     <message>
-        <source>BLASTX Core client</source>
-        <translation>BLASTX Core klijent</translation>
+        <source>BLAST Core client</source>
+        <translation>BLAST Core klijent</translation>
     </message>
     <message>
         <source>Error</source>
@@ -751,15 +751,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1045,8 +1045,8 @@
         <translation>ne</translation>
     </message>
     <message>
-        <source>0 BLASTX</source>
-        <translation>0 BLASTX</translation>
+        <source>0 BLAST</source>
+        <translation>0 BLAST</translation>
     </message>
     <message>
         <source>Confirmation time:</source>
@@ -1111,15 +1111,15 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>BLASTX Core is shutting down...</source>
-        <translation>BLASTX Core se gasi...</translation>
+        <source>BLAST Core is shutting down...</source>
+        <translation>BLAST Core se gasi...</translation>
     </message>
     </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The BLASTX address to sign the message with</source>
-        <translation>BLASTX adresa za potpisivanje poruke s</translation>
+        <source>The BLAST address to sign the message with</source>
+        <translation>BLAST adresa za potpisivanje poruke s</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1142,16 +1142,16 @@
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this BLASTX address</source>
-        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove BLASTX adrese</translation>
+        <source>Sign the message to prove you own this BLAST address</source>
+        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove BLAST adrese</translation>
     </message>
     <message>
-        <source>The BLASTX address the message was signed with</source>
-        <translation>BLASTX adresa s kojom je potpisana poruka</translation>
+        <source>The BLAST address the message was signed with</source>
+        <translation>BLAST adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified BLASTX address</source>
-        <translation>Potvrdite poruku kako biste bili sigurni da je potpisan s navedenom BLASTX adresom</translation>
+        <source>Verify the message to ensure it was signed with the specified BLAST address</source>
+        <translation>Potvrdite poruku kako biste bili sigurni da je potpisan s navedenom BLAST adresom</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1197,8 +1197,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>BLASTX Core</source>
-        <translation>BLASTX Core</translation>
+        <source>BLAST Core</source>
+        <translation>BLAST Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -1352,7 +1352,7 @@
     </message>
     </context>
 <context>
-    <name>Blast-core</name>
+    <name>blast-core</name>
     <message>
         <source>Error</source>
         <translation>Greška</translation>

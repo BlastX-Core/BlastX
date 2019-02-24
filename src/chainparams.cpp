@@ -191,7 +191,7 @@ public:
 
         nBudget_Fee_Confirmations      = 6; // Number of confirmations for the finalization fee
 
-        strTreasuryAddress             = "BQW65T5MNRzHWv6e5JYcCSitrLmM9qRYFP";
+        strTreasuryAddress             = "BDLFESNY68pEMK3j2sR6HR4YHJVZ2s997x";
     }
 
     const Checkpoints::CCheckpointData& Checkpoints() const

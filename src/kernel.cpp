@@ -1,7 +1,7 @@
 /* @flow */
 // Copyright (c) 2012-2013 The PPCoin developers
-// Copyright (c) 2015-2019 The PIVX developers
-//Copyright (c) 2019 The BlastX Developers// Distributed under the MIT/X11 software license, see the accompanying
+// Copyright (c) 2015-2017 The PIVX developers
+// Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #include <boost/assign/list_of.hpp>
@@ -20,7 +20,7 @@ bool fTestNet = false; //Params().NetworkID() == CBaseChainParams::TESTNET;
 // Modifier interval: time to elapse before new modifier is computed
 // Set to 3-hour for production network and 20-minute for test network
 unsigned int nModifierInterval;
-int nStakeTargetSpacing = 60; // BlastX: 1 minute blocks during POS (block 201+)
+int nStakeTargetSpacing = 60; // Blastx: 1 minute blocks during POS (block 201+)
 unsigned int getIntervalVersion(bool fTestNet)
 {
     if (fTestNet)
@@ -274,7 +274,7 @@ bool GetKernelStakeModifier(uint256 hashBlockFrom, uint64_t& nStakeModifier, int
 
 uint256 stakeHash(unsigned int nTimeTx, CDataStream ss, unsigned int prevoutIndex, uint256 prevoutHash, unsigned int nTimeBlockFrom)
 {
-    // BlastX will hash in the transaction hash and the index number in order to make sure each hash is unique
+    // Blastx will hash in the transaction hash and the index number in order to make sure each hash is unique
     ss << nTimeBlockFrom << prevoutIndex << prevoutHash << nTimeTx;
     return Hash(ss.begin(), ss.end());
 }

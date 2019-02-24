@@ -1,7 +1,7 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2019 The PIVX developers
-//Copyright (c) 2019 The BlastX Developers// Distributed under the MIT/X11 software license, see the accompanying
+// Copyright (c) 2015-2017 The PIVX developers
+// Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #include "overviewpage.h"
@@ -33,7 +33,7 @@ class TxViewDelegate : public QAbstractItemDelegate
 {
     Q_OBJECT
 public:
-    TxViewDelegate() : QAbstractItemDelegate(), unit(BitcoinUnits::BLASTX)
+    TxViewDelegate() : QAbstractItemDelegate(), unit(BitcoinUnits::BLAST)
     {
     }
 
@@ -178,16 +178,16 @@ void OverviewPage::setBalance(const CAmount& balance, const CAmount& unconfirmed
         nWatchOnlyLockedBalance = pwalletMain->GetLockedWatchOnlyBalance();
     }
 
-    // BLASTX Balance
+    // BLAST Balance
     CAmount nTotalBalance = balance + unconfirmedBalance;
-    CAmount BlastAvailableBalance = balance - immatureBalance - nLockedBalance;
+    CAmount blastAvailableBalance = balance - immatureBalance - nLockedBalance;
 
-    // BLASTX Watch-Only Balance
+    // BLAST Watch-Only Balance
     CAmount nTotalWatchBalance = watchOnlyBalance + watchUnconfBalance;
     CAmount nAvailableWatchBalance = watchOnlyBalance - watchImmatureBalance - nWatchOnlyLockedBalance;
 
-    // BLASTX labels
-    ui->labelBalance->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, BlastAvailableBalance, false, BitcoinUnits::separatorAlways));
+    // BLAST labels
+    ui->labelBalance->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, blastAvailableBalance, false, BitcoinUnits::separatorAlways));
     ui->labelUnconfirmed->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, unconfirmedBalance, false, BitcoinUnits::separatorAlways));
     ui->labelImmature->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, immatureBalance, false, BitcoinUnits::separatorAlways));
     ui->labelLockedBalance->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, nLockedBalance, false, BitcoinUnits::separatorAlways));
@@ -206,33 +206,33 @@ void OverviewPage::setBalance(const CAmount& balance, const CAmount& unconfirmed
 
     bool showWatchOnly = nTotalWatchBalance != 0;
 
-    // BLASTX Available
-    bool showBLASTXAvailable = settingShowAllBalances || BlastAvailableBalance != nTotalBalance;
-    bool showWatchOnlyBLASTXAvailable = showBLASTXAvailable || nAvailableWatchBalance != nTotalWatchBalance;
-    ui->labelBalanceText->setVisible(showBLASTXAvailable || showWatchOnlyBLASTXAvailable);
-    ui->labelBalance->setVisible(showBLASTXAvailable || showWatchOnlyBLASTXAvailable);
-    ui->labelWatchAvailable->setVisible(showBLASTXAvailable && showWatchOnly);
+    // BLAST Available
+    bool showBLASTAvailable = settingShowAllBalances || blastAvailableBalance != nTotalBalance;
+    bool showWatchOnlyBLASTAvailable = showBLASTAvailable || nAvailableWatchBalance != nTotalWatchBalance;
+    ui->labelBalanceText->setVisible(showBLASTAvailable || showWatchOnlyBLASTAvailable);
+    ui->labelBalance->setVisible(showBLASTAvailable || showWatchOnlyBLASTAvailable);
+    ui->labelWatchAvailable->setVisible(showBLASTAvailable && showWatchOnly);
 
-    // BLASTX Pending
-    bool showBLASTXPending = settingShowAllBalances || unconfirmedBalance != 0;
-    bool showWatchOnlyBLASTXPending = showBLASTXPending || watchUnconfBalance != 0;
-    ui->labelPendingText->setVisible(showBLASTXPending || showWatchOnlyBLASTXPending);
-    ui->labelUnconfirmed->setVisible(showBLASTXPending || showWatchOnlyBLASTXPending);
-    ui->labelWatchPending->setVisible(showBLASTXPending && showWatchOnly);
+    // BLAST Pending
+    bool showBLASTPending = settingShowAllBalances || unconfirmedBalance != 0;
+    bool showWatchOnlyBLASTPending = showBLASTPending || watchUnconfBalance != 0;
+    ui->labelPendingText->setVisible(showBLASTPending || showWatchOnlyBLASTPending);
+    ui->labelUnconfirmed->setVisible(showBLASTPending || showWatchOnlyBLASTPending);
+    ui->labelWatchPending->setVisible(showBLASTPending && showWatchOnly);
 
-    // BLASTX Immature
+    // BLAST Immature
     bool showImmature = settingShowAllBalances || immatureBalance != 0;
     bool showWatchOnlyImmature = showImmature || watchImmatureBalance != 0;
     ui->labelImmatureText->setVisible(showImmature || showWatchOnlyImmature);
     ui->labelImmature->setVisible(showImmature || showWatchOnlyImmature); // for symmetry reasons also show immature label when the watch-only one is shown
     ui->labelWatchImmature->setVisible(showWatchOnlyImmature && showWatchOnly); // show watch-only immature balance
 
-    // BLASTX Locked
-    bool showBLASTXLocked = settingShowAllBalances || nLockedBalance != 0;
-    bool showWatchOnlyBLASTXLocked = showBLASTXLocked || nWatchOnlyLockedBalance != 0;
-    ui->labelLockedBalanceText->setVisible(showBLASTXLocked || showWatchOnlyBLASTXLocked);
-    ui->labelLockedBalance->setVisible(showBLASTXLocked || showWatchOnlyBLASTXLocked);
-    ui->labelWatchLocked->setVisible(showBLASTXLocked && showWatchOnly);
+    // BLAST Locked
+    bool showBLASTLocked = settingShowAllBalances || nLockedBalance != 0;
+    bool showWatchOnlyBLASTLocked = showBLASTLocked || nWatchOnlyLockedBalance != 0;
+    ui->labelLockedBalanceText->setVisible(showBLASTLocked || showWatchOnlyBLASTLocked);
+    ui->labelLockedBalance->setVisible(showBLASTLocked || showWatchOnlyBLASTLocked);
+    ui->labelWatchLocked->setVisible(showBLASTLocked && showWatchOnly);
 
     static int cachedTxLocks = 0;
 
@@ -302,7 +302,7 @@ void OverviewPage::setWalletModel(WalletModel* model)
         connect(model, SIGNAL(notifyWatchonlyChanged(bool)), this, SLOT(updateWatchOnlyLabels(bool)));
     }
 
-    // update the display unit, to not use the default ("BLASTX")
+    // update the display unit, to not use the default ("BLAST")
     updateDisplayUnit();
 }
 
@@ -343,11 +343,11 @@ void OverviewPage::SetLinks()
     ui->labelLinks6->setText("Github:");
     ui->labelLinks7->setText("");
 
-    ui->labelLinksUrl1->setText("<a href=\"https://www.blastexchange.com/\">https://www.blastexchange.com/</a>");
-    ui->labelLinksUrl2->setText("<a href=\"https://www.blastexchange.com/whitepaper\">https://www.blastexchange.com/whitepaper</a>");
-    ui->labelLinksUrl3->setText("<a href=\"http://explorer.blastexchange.com/\">http://explorer.blastexchange.com/</a>");
-    ui->labelLinksUrl4->setText("<a href=\"https://discord.gg/r34XbnA\">https://discord.gg/r34XbnA</a>");
-    ui->labelLinksUrl5->setText("<a href=\"https://twitter.com/blastx\">https://twitter.com/blastx</a>");
+    ui->labelLinksUrl1->setText("<a href=\"https://blastexchange.com/\">https://blastexchange.com/</a>");
+    ui->labelLinksUrl2->setText("<a href=\"https://blastexchange.com/whitepaper\">https://blastexchange.com/whitepaper</a>");
+    ui->labelLinksUrl3->setText("<a href=\"https://explorer.blastexchange.com/\">https://explorer.blastexchange.com/</a>");
+    ui->labelLinksUrl4->setText("<a href=\"https://discord.gg/dRSTFBq\">https://discord.gg/dRSTFBq</a>");
+    ui->labelLinksUrl5->setText("<a href=\"https://twitter.com/blastx\">https://twitter.com/Blastx</a>");
     ui->labelLinksUrl6->setText("<a href=\"https://github.com/BlastX-Core/BlastX\">https://github.com/BlastX-Core/BlastX</a>");
     ui->labelLinksUrl7->setText("");
 }

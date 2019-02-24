@@ -1,7 +1,7 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2019 The PIVX developers
-//Copyright (c) 2019 The BlastX Developers// Distributed under the MIT/X11 software license, see the accompanying
+// Copyright (c) 2015-2017 The PIVX developers
+// Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #include "sendcoinsentry.h"
@@ -31,9 +31,9 @@ SendCoinsEntry::SendCoinsEntry(QWidget* parent) : QStackedWidget(parent),
     ui->addAsLabel->setPlaceholderText(tr("Enter a label for this address to add it to your address book"));
 #endif
 
-    // normal Blast address field
+    // normal blast address field
     GUIUtil::setupAddressWidget(ui->payTo, this);
-    // just a label for displaying Blast address(es)
+    // just a label for displaying blast address(es)
     ui->payTo_is->setFont(GUIUtil::bitcoinAddressFont());
 
     // Connect signals
@@ -99,7 +99,7 @@ void SendCoinsEntry::clear()
     ui->memoTextLabel_s->clear();
     ui->payAmount_s->clear();
 
-    // update the display unit, to not use the default ("BLASTX")
+    // update the display unit, to not use the default ("BLAST")
     updateDisplayUnit();
 }
 

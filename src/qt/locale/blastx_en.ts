@@ -80,12 +80,12 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your BLASTX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your BLAST addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>These are your BLASTX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your BLAST addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -221,7 +221,7 @@
     </message>
     <message>
         <location line="+9"/>
-        <source>BLASTX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTXs from being stolen by malware infecting your computer.</source>
+        <source>BLAST will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BLASTs from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -231,7 +231,7 @@
     </message>
     <message>
         <location line="+0"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLASTX&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLAST&lt;/b&gt;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -326,12 +326,12 @@
     </message>
     <message>
         <location line="-424"/>
-        <source>Enter a BLASTX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <source>Enter a BLAST Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>The BLASTX address to encrypt</source>
+        <source>The BLAST address to encrypt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -375,7 +375,7 @@
     </message>
     <message>
         <location line="+18"/>
-        <source>Encrypt the private key for this BLASTX address</source>
+        <source>Encrypt the private key for this BLAST address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -557,7 +557,7 @@
     </message>
     <message>
         <location line="+11"/>
-        <source>Privacy Actions for zBLASTX</source>
+        <source>Privacy Actions for zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -832,17 +832,17 @@
     <message>
         <location line="-446"/>
         <location line="+928"/>
-        <source>BLASTX Core</source>
+        <source>BLAST Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-726"/>
-        <source>Send coins to a BLASTX address</source>
+        <source>Send coins to a BLAST address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+11"/>
-        <source>Request payments (generates QR codes and Blast: URIs)</source>
+        <source>Request payments (generates QR codes and blast: URIs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -862,27 +862,27 @@
     </message>
     <message>
         <location line="+31"/>
-        <source>&amp;About BLASTX Core</source>
+        <source>&amp;About BLAST Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about BLASTX Core</source>
+        <source>Show information about BLAST Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Modify configuration options for BLASTX</source>
+        <source>Modify configuration options for BLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>Sign messages with your BLASTX addresses to prove you own them</source>
+        <source>Sign messages with your BLAST addresses to prove you own them</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified BLASTX addresses</source>
+        <source>Verify messages to ensure they were signed with specified BLAST addresses</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -922,7 +922,7 @@
     </message>
     <message>
         <location line="+17"/>
-        <source>Open a BLASTX: URI or payment request</source>
+        <source>Open a BLAST: URI or payment request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -937,17 +937,17 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Show the BLASTX Core help message to get a list with possible BLASTX command-line options</source>
+        <source>Show the BLAST Core help message to get a list with possible BLAST command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+233"/>
-        <source>BLASTX Core client</source>
+        <source>BLAST Core client</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <location line="+212"/>
-        <source>%n active connection(s) to BLASTX network</source>
+        <source>%n active connection(s) to BLAST network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -1153,7 +1153,7 @@ Address: %4
     </message>
     <message>
         <location filename="../blockexplorer.cpp" line="+480"/>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (Blast.conf).</source>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (blast.conf).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1453,7 +1453,7 @@ Address: %4
     </message>
     <message>
         <location line="+8"/>
-        <source>Can vary +/- %1 uBlast per input.</source>
+        <source>Can vary +/- %1 ublast per input.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1522,7 +1522,7 @@ Address: %4
     </message>
     <message>
         <location line="+67"/>
-        <source>The entered address &quot;%1&quot; is not a valid BLASTX address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid BLAST address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1578,7 +1578,7 @@ Address: %4
     </message>
     <message>
         <location line="+0"/>
-        <source>BLASTX Core</source>
+        <source>BLAST Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1589,7 +1589,7 @@ Address: %4
     </message>
     <message>
         <location line="+4"/>
-        <source>About BLASTX Core</source>
+        <source>About BLAST Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1647,17 +1647,17 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to BLASTX Core.</source>
+        <source>Welcome to BLAST Core.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where BLASTX Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where BLAST Core will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>BLASTX Core will download and store a copy of the BLASTX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>BLAST Core will download and store a copy of the BLAST block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1672,7 +1672,7 @@ Address: %4
     </message>
     <message>
         <location filename="../intro.cpp" line="+77"/>
-        <source>BLASTX Core</source>
+        <source>BLAST Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1848,8 +1848,8 @@ Address: %4
     </message>
     <message>
         <location line="-106"/>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other BLASTX addresses after it matures.
-To Add: enter percentage to give and BLASTX address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other BLAST addresses after it matures.
+To Add: enter percentage to give and BLAST address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
         <translation type="unfinished"></translation>
@@ -2125,7 +2125,7 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>Add destinations to send BLASTX to</source>
+        <source>Add destinations to send BLAST to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2248,12 +2248,12 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>Use 2 separate masternodes to mix funds up to 10000 BLASTX</source>
+        <source>Use 2 separate masternodes to mix funds up to 10000 BLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Use 8 separate masternodes to mix funds up to 10000 BLASTX</source>
+        <source>Use 8 separate masternodes to mix funds up to 10000 BLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2263,12 +2263,12 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is the quickest and will cost about ~0.025 BLASTX to anonymize 10000 BLASTX</source>
+        <source>This option is the quickest and will cost about ~0.025 BLAST to anonymize 10000 BLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is moderately fast and will cost about 0.05 BLASTX to anonymize 10000 BLASTX</source>
+        <source>This option is moderately fast and will cost about 0.05 BLAST to anonymize 10000 BLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2278,7 +2278,7 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>0.1 BLASTX per 10000 BLASTX you anonymize.</source>
+        <source>0.1 BLAST per 10000 BLAST you anonymize.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2290,17 +2290,17 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <location line="-27"/>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening BLASTX&apos;s configuration screen.</source>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening BLAST&apos;s configuration screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+14"/>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening BLASTX&apos;s configuration screen.</source>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening BLAST&apos;s configuration screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+14"/>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening BLASTX&apos;s configuration screen.</source>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening BLAST&apos;s configuration screen.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2376,7 +2376,7 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <location line="+33"/>
-        <source>Automatically open the BLASTX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the BLAST client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2401,12 +2401,12 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <location line="-210"/>
-        <source>Automatically start BLASTX after logging in to the system.</source>
+        <source>Automatically start BLAST after logging in to the system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BLASTX on system login</source>
+        <source>&amp;Start BLAST on system login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2441,13 +2441,13 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <location line="+192"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BLASTX.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting BLAST.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Blast-project/Blast-project-translations</source>
+https://www.transifex.com/blast-project/blast-project-translations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2457,33 +2457,33 @@ https://www.transifex.com/Blast-project/Blast-project-translations</source>
     </message>
     <message>
         <location line="-169"/>
-        <source>Enable automatic minting of BLASTX units to zBLASTX</source>
+        <source>Enable automatic minting of BLAST units to zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Enable zBLASTX Automint</source>
+        <source>Enable zBLAST Automint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Percentage of incoming BLASTX which get automatically converted to zBLASTX via Zerocoin Protocol (min: 10%)</source>
+        <source>Percentage of incoming BLAST which get automatically converted to zBLAST via Zerocoin Protocol (min: 10%)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Percentage of autominted zBLASTX</source>
+        <source>Percentage of autominted zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+30"/>
         <location line="+16"/>
-        <source>Wait with automatic conversion to Zerocoin until enough BLASTX for this denomination is available</source>
+        <source>Wait with automatic conversion to Zerocoin until enough BLAST for this denomination is available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-13"/>
-        <source>Preferred Automint zBLASTX Denomination</source>
+        <source>Preferred Automint zBLAST Denomination</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2493,7 +2493,7 @@ https://www.transifex.com/Blast-project/Blast-project-translations</source>
     </message>
     <message>
         <location line="+98"/>
-        <source>Connect to the BLASTX network through a SOCKS5 proxy.</source>
+        <source>Connect to the BLAST network through a SOCKS5 proxy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2692,7 +2692,7 @@ https://www.transifex.com/Blast-project/Blast-project-translations</source>
     </message>
     <message>
         <location line="+71"/>
-        <source>BLASTX Balance</source>
+        <source>BLAST Balance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2724,19 +2724,19 @@ https://www.transifex.com/Blast-project/Blast-project-translations</source>
     <message>
         <location line="+16"/>
         <location line="+19"/>
-        <source>Your current BLASTX balance, unconfirmed and immature transactions included</source>
+        <source>Your current BLAST balance, unconfirmed and immature transactions included</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+96"/>
-        <source>zBLASTX Balance</source>
+        <source>zBLAST Balance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+53"/>
         <location line="+17"/>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBLASTX are spendable.</source>
+These zBLAST are spendable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2751,7 +2751,7 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     <message>
         <location line="-725"/>
         <location line="+852"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLASTX network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLAST network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2809,7 +2809,7 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     <message>
         <location line="+191"/>
         <location line="+19"/>
-        <source>Locked BLASTX or Masternode collaterals. These are excluded from zBLASTX minting.</source>
+        <source>Locked BLAST or Masternode collaterals. These are excluded from zBLAST minting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2825,7 +2825,7 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     <message>
         <location line="+58"/>
         <location line="+19"/>
-        <source>Your current zBLASTX balance, unconfirmed and immature zBLASTX included.</source>
+        <source>Your current zBLAST balance, unconfirmed and immature zBLAST included.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2841,7 +2841,7 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     </message>
     <message>
         <location line="+106"/>
-        <source>Current percentage of zBLASTX.
+        <source>Current percentage of zBLAST.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
         <translation type="unfinished"></translation>
@@ -2853,13 +2853,13 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
     </message>
     <message>
         <location line="+1"/>
-        <source>To disable AutoMint add &apos;enablezeromint=0&apos; in Blast.conf.</source>
+        <source>To disable AutoMint add &apos;enablezeromint=0&apos; in blast.conf.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>AutoMint is currently disabled.
-To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1&apos; in Blast.conf</source>
+To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1&apos; in blast.conf</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2899,12 +2899,12 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="-108"/>
-        <source>Cannot start Blast: click-to-pay handler</source>
+        <source>Cannot start blast: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+114"/>
-        <source>URI cannot be parsed! This can be caused by an invalid BLASTX address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid BLAST address or malformed URI parameters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3012,7 +3012,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+10"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLASTX network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BLAST network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3032,7 +3032,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     <message>
         <location line="-371"/>
         <location line="+651"/>
-        <source>zBLASTX</source>
+        <source>zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3047,7 +3047,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+19"/>
-        <source>0.000 000 00 BLASTX</source>
+        <source>0.000 000 00 BLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3098,17 +3098,17 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     <message>
         <location line="+182"/>
         <location line="+52"/>
-        <source>Enter an amount of Blast to convert to zBLASTX</source>
+        <source>Enter an amount of Blast to convert to zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+301"/>
-        <source>zBLASTX Control</source>
+        <source>zBLAST Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>zBLASTX Selected:</source>
+        <source>zBLAST Selected:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3136,7 +3136,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+7"/>
-        <source>Available (mature and spendable) zBLASTX for spending</source>
+        <source>Available (mature and spendable) zBLAST for spending</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3146,9 +3146,9 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+16"/>
-        <source>Available (mature and spendable) zBLASTX for spending
+        <source>Available (mature and spendable) zBLAST for spending
 
-zBLASTX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+zBLAST are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3163,7 +3163,7 @@ zBLASTX are mature when they have more than 20 confirmations AND more than 2 min
         <location line="+31"/>
         <location line="+31"/>
         <location line="+31"/>
-        <source>0 zBLASTX</source>
+        <source>0 zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3188,7 +3188,7 @@ zBLASTX are mature when they have more than 20 confirmations AND more than 2 min
     </message>
     <message>
         <location line="+27"/>
-        <source>The BLASTX address to send the payment to. Creates local payment to yourself when empty.</source>
+        <source>The BLAST address to send the payment to. Creates local payment to yourself when empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3254,7 +3254,7 @@ zBLASTX are mature when they have more than 20 confirmations AND more than 2 min
     <message>
         <location line="+68"/>
         <location line="+38"/>
-        <source>Total Balance including unconfirmed and immature zBLASTX</source>
+        <source>Total Balance including unconfirmed and immature zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3287,14 +3287,14 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     </message>
     <message>
         <location line="+40"/>
-        <source>Show the current status of automatic zBLASTX minting.
+        <source>Show the current status of automatic zBLAST minting.
 
 To change the status (restart required):
-- enable: add &apos;enablezeromint=1&apos; to Blast.conf
-- disable: add &apos;enablezeromint=0&apos; to Blast.conf
+- enable: add &apos;enablezeromint=1&apos; to blast.conf
+- disable: add &apos;enablezeromint=0&apos; to blast.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zBLASTX
+- menu Settings-&gt;Options-&gt;Percentage of autominted zBLAST
 
 </source>
         <translation type="unfinished"></translation>
@@ -3547,12 +3547,12 @@ Maximum allowed: </source>
     </message>
     <message>
         <location line="+34"/>
-        <source>zBLASTX Spend #: </source>
+        <source>zBLAST Spend #: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>zBLASTX Mint</source>
+        <source>zBLAST Mint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3573,13 +3573,13 @@ Maximum allowed: </source>
     <message>
         <location line="+12"/>
         <location line="+4"/>
-        <source>zBLASTX is currently disabled due to maintenance.</source>
+        <source>zBLAST is currently disabled due to maintenance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-639"/>
         <location line="+111"/>
-        <source>zBLASTX is currently undergoing maintenance.</source>
+        <source>zBLAST is currently undergoing maintenance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3690,7 +3690,7 @@ Maximum allowed: </source>
     </message>
     <message>
         <location line="+0"/>
-        <source> zBLASTX in </source>
+        <source> zBLAST in </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3726,7 +3726,7 @@ Maximum allowed: </source>
     </message>
     <message>
         <location line="+4"/>
-        <source>Invalid BLASTX Address</source>
+        <source>Invalid BLAST Address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3767,13 +3767,13 @@ Maximum allowed: </source>
     <message>
         <location line="+24"/>
         <location line="+32"/>
-        <source>Version 1 zBLASTX require a security level of 100 to successfully spend.</source>
+        <source>Version 1 zBLAST require a security level of 100 to successfully spend.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-31"/>
         <location line="+32"/>
-        <source>Failed to spend zBLASTX</source>
+        <source>Failed to spend zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3801,7 +3801,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <message numerus="yes">
         <location line="+336"/>
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of BLASTX to convert to zBLASTX</comment>
+        <comment>Enter an amount of BLAST to convert to zBLAST</comment>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -3857,7 +3857,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+113"/>
-        <source>Enter a BLASTX address (e.g. %1)</source>
+        <source>Enter a BLAST address (e.g. %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4060,7 +4060,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+79"/>
-        <source>Open the BLASTX debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the BLAST debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4232,7 +4232,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+29"/>
-        <source>Custom zBLASTX Backup Path:</source>
+        <source>Custom zBLAST Backup Path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4242,8 +4242,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+48"/>
-        <source>BlastX wallet</source>
-        <translation>BlastX wallet</translation>
+        <source>Blastx wallet</source>
+        <translation>Blastx wallet</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -4332,7 +4332,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="-36"/>
-        <source>Welcome to the BLASTX RPC console.</source>
+        <source>Welcome to the BLAST RPC console.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4496,7 +4496,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="-37"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BLASTX network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BLAST network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4506,7 +4506,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+124"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BLASTX network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BLAST network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4794,7 +4794,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+7"/>
-        <source>0 BLASTX</source>
+        <source>0 BLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4864,18 +4864,18 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+907"/>
-        <source>If the custom fee is set to 1000 uBLASTXs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uBLASTXs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uBLASTXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uBLASTs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uBLASTs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uBLASTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>If the custom fee is set to 1000 uBLASTXs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uBLASTXs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uBLASTXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uBLASTs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uBLASTs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uBLASTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+33"/>
         <location line="+13"/>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BLASTX transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BLAST transactions than the network can process.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4935,7 +4935,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+35"/>
-        <source>Anonymized BLASTX</source>
+        <source>Anonymized BLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4995,7 +4995,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+629"/>
-        <source>Warning: Invalid BLASTX address</source>
+        <source>Warning: Invalid BLAST address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5129,7 +5129,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+18"/>
-        <source>The BLASTX address to send the payment to</source>
+        <source>The BLAST address to send the payment to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5183,7 +5183,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+10"/>
-        <source>A message that was attached to the BLASTX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BLASTX network.</source>
+        <source>A message that was attached to the BLAST: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BLAST network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5218,7 +5218,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+75"/>
-        <source>BLASTX Core is shutting down...</source>
+        <source>BLAST Core is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5246,7 +5246,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+15"/>
-        <source>The BLASTX address to sign the message with</source>
+        <source>The BLAST address to sign the message with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5288,17 +5288,17 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+18"/>
-        <source>Sign the message to prove you own this BLASTX address</source>
+        <source>Sign the message to prove you own this BLAST address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+103"/>
-        <source>The BLASTX address the message was signed with</source>
+        <source>The BLAST address the message was signed with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>Verify the message to ensure it was signed with the specified BLASTX address</source>
+        <source>Verify the message to ensure it was signed with the specified BLAST address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5413,7 +5413,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+36"/>
-        <source>BLASTX Core</source>
+        <source>BLAST Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5433,7 +5433,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>The BLASTX Core developers</source>
+        <source>The BLAST Core developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5810,12 +5810,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+7"/>
-        <source>BLASTX Stake</source>
+        <source>BLAST Stake</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>zBLASTX Stake</source>
+        <source>zBLAST Stake</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5840,37 +5840,37 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+4"/>
-        <source>Converted BLASTX to zBLASTX</source>
+        <source>Converted BLAST to zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Spent zBLASTX</source>
+        <source>Spent zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Received BLASTX from zBLASTX</source>
+        <source>Received BLAST from zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Minted Change as zBLASTX from zBLASTX Spend</source>
+        <source>Minted Change as zBLAST from zBLAST Spend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Converted zBLASTX to BLASTX</source>
+        <source>Converted zBLAST to BLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+56"/>
-        <source>Anonymous (zBLASTX Transaction)</source>
+        <source>Anonymous (zBLAST Transaction)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Anonymous (zBLASTX Stake)</source>
+        <source>Anonymous (zBLAST Stake)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6134,12 +6134,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="-280"/>
-        <source>Received BLASTX from zBLASTX</source>
+        <source>Received BLAST from zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Zerocoin Spend, Change in zBLASTX</source>
+        <source>Zerocoin Spend, Change in zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6186,7 +6186,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <message>
         <location line="-18"/>
         <location line="+9"/>
-        <source>SwiftX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 BLASTX.</source>
+        <source>SwiftX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 BLAST.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6226,8 +6226,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ZBlastControlDialog</name>
     <message>
-        <location filename="../forms/zBlastcontroldialog.ui" line="+20"/>
-        <source>Select zBLASTX to Spend</source>
+        <location filename="../forms/zblastcontroldialog.ui" line="+20"/>
+        <source>Select zBLAST to Spend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6243,7 +6243,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="-7"/>
-        <source>zBLASTX</source>
+        <source>zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6258,9 +6258,9 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>Blast-core</name>
+    <name>blast-core</name>
     <message>
-        <location filename="../Blaststrings.cpp" line="+15"/>
+        <location filename="../blaststrings.cpp" line="+15"/>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation type="unfinished">(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</translation>
     </message>
@@ -6291,7 +6291,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+2"/>
-        <source>Cannot obtain a lock on data directory %s. BLASTX Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. BLAST Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6326,17 +6326,17 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+5"/>
-        <source>Enable automatic wallet backups triggered after each zBLASTX minting (0-1, default: %u)</source>
+        <source>Enable automatic wallet backups triggered after each zBLAST minting (0-1, default: %u)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enable or disable staking functionality for BLASTX inputs (0-1, default: %u)</source>
+        <source>Enable or disable staking functionality for BLAST inputs (0-1, default: %u)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Enable or disable staking functionality for zBLASTX inputs (0-1, default: %u)</source>
+        <source>Enable or disable staking functionality for zBLAST inputs (0-1, default: %u)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6381,12 +6381,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+8"/>
-        <source>Fees (in BLASTX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <source>Fees (in BLAST/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Fees (in BLASTX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <source>Fees (in BLAST/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6511,7 +6511,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+4"/>
-        <source>Unable to bind to %s on this computer. BLASTX Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. BLAST Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6521,12 +6521,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+2"/>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 BLASTX.</source>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 BLAST.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 BLASTX.</source>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 BLAST.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6546,7 +6546,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BLASTX Core will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BLAST Core will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6736,7 +6736,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2015-%i The BLASTX Core Developers</source>
+        <source>Copyright (C) 2015-%i The BLAST Core Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6846,7 +6846,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BLASTX Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of BLAST Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6926,7 +6926,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+4"/>
-        <source>Fee (in BLASTX/kB) to add to transactions you send (default: %s)</source>
+        <source>Fee (in BLAST/kB) to add to transactions you send (default: %s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7001,7 +7001,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. BLASTX Core is shutting down.</source>
+        <source>Initialization sanity check failed. BLAST Core is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7091,7 +7091,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+9"/>
-        <source>Reindex the BLASTX and zBLASTX money supply statistics</source>
+        <source>Reindex the BLAST and zBLAST money supply statistics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7138,7 +7138,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+38"/>
-        <source>Disable all BLASTX specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <source>Disable all BLAST specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7183,7 +7183,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify custom backup path to add a copy of any automatic zBLASTX backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <source>Specify custom backup path to add a copy of any automatic zBLAST backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7808,7 +7808,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Syncing zBLASTX wallet...</source>
+        <source>Syncing zBLAST wallet...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7993,7 +7993,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Value is below the smallest available denomination (= 1) of zBLASTX</source>
+        <source>Value is below the smallest available denomination (= 1) of zBLAST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8013,7 +8013,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Version 1 zBLASTX require a security level of 100 to successfully spend.</source>
+        <source>Version 1 zBLAST require a security level of 100 to successfully spend.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8028,7 +8028,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BLASTX Core to complete</source>
+        <source>Wallet needed to be rewritten: restart BLAST Core to complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

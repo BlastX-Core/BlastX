@@ -1,7 +1,8 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2019 The PIVX developers
-//Copyright (c) 2019 The BlastX developers
+// Copyright (c) 2015-2017 The PIVX developers
+// Copyright (c) 2019 The Blastx Developers
+// Copyright (c) 2019 The Blastx developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -20,18 +21,18 @@ BitcoinUnits::BitcoinUnits(QObject* parent) : QAbstractListModel(parent),
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits()
 {
     QList<BitcoinUnits::Unit> unitlist;
-    unitlist.append(BLASTX);
-    unitlist.append(mBLASTX);
-    unitlist.append(uBLASTX);
+    unitlist.append(BLAST);
+    unitlist.append(mBLAST);
+    unitlist.append(uBLAST);
     return unitlist;
 }
 
 bool BitcoinUnits::valid(int unit)
 {
     switch (unit) {
-    case BLASTX:
-    case mBLASTX:
-    case uBLASTX:
+    case BLAST:
+    case mBLAST:
+    case uBLAST:
         return true;
     default:
         return false;
@@ -41,12 +42,12 @@ bool BitcoinUnits::valid(int unit)
 QString BitcoinUnits::id(int unit)
 {
     switch (unit) {
-    case BLASTX:
-        return QString("Blast");
-    case mBLASTX:
-        return QString("mBlast");
-    case uBLASTX:
-        return QString::fromUtf8("uBlast");
+    case BLAST:
+        return QString("blast");
+    case mBLAST:
+        return QString("mblast");
+    case uBLAST:
+        return QString::fromUtf8("ublast");
     default:
         return QString("???");
     }
@@ -56,23 +57,23 @@ QString BitcoinUnits::name(int unit)
 {
     if (Params().NetworkID() == CBaseChainParams::MAIN) {
         switch (unit) {
-        case BLASTX:
-            return QString("BLASTX");
-        case mBLASTX:
-            return QString("mBLASTX");
-        case uBLASTX:
-            return QString::fromUtf8("μBLASTX");
+        case BLAST:
+            return QString("BLAST");
+        case mBLAST:
+            return QString("mBLAST");
+        case uBLAST:
+            return QString::fromUtf8("μBLAST");
         default:
             return QString("???");
         }
     } else {
         switch (unit) {
-        case BLASTX:
-            return QString("tBLASTX");
-        case mBLASTX:
-            return QString("mtBLASTX");
-        case uBLASTX:
-            return QString::fromUtf8("μtBLASTX");
+        case BLAST:
+            return QString("tBLAST");
+        case mBLAST:
+            return QString("mtBLAST");
+        case uBLAST:
+            return QString::fromUtf8("μtBLAST");
         default:
             return QString("???");
         }
@@ -83,23 +84,23 @@ QString BitcoinUnits::description(int unit)
 {
     if (Params().NetworkID() == CBaseChainParams::MAIN) {
         switch (unit) {
-        case BLASTX:
-            return QString("BLASTX");
-        case mBLASTX:
-            return QString("Milli-BLASTX (1 / 1" THIN_SP_UTF8 "000)");
-        case uBLASTX:
-            return QString("Micro-BLASTX (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+        case BLAST:
+            return QString("BLAST");
+        case mBLAST:
+            return QString("Milli-BLAST (1 / 1" THIN_SP_UTF8 "000)");
+        case uBLAST:
+            return QString("Micro-BLAST (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
         default:
             return QString("???");
         }
     } else {
         switch (unit) {
-        case BLASTX:
-            return QString("TestBLASTXs");
-        case mBLASTX:
-            return QString("Milli-TestBLASTX (1 / 1" THIN_SP_UTF8 "000)");
-        case uBLASTX:
-            return QString("Micro-TestBLASTX (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+        case BLAST:
+            return QString("TestBLASTs");
+        case mBLAST:
+            return QString("Milli-TestBLAST (1 / 1" THIN_SP_UTF8 "000)");
+        case uBLAST:
+            return QString("Micro-TestBLAST (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
         default:
             return QString("???");
         }
@@ -109,11 +110,11 @@ QString BitcoinUnits::description(int unit)
 qint64 BitcoinUnits::factor(int unit)
 {
     switch (unit) {
-    case BLASTX:
+    case BLAST:
         return 100000000;
-    case mBLASTX:
+    case mBLAST:
         return 100000;
-    case uBLASTX:
+    case uBLAST:
         return 100;
     default:
         return 100000000;
@@ -123,11 +124,11 @@ qint64 BitcoinUnits::factor(int unit)
 int BitcoinUnits::decimals(int unit)
 {
     switch (unit) {
-    case BLASTX:
+    case BLAST:
         return 8;
-    case mBLASTX:
+    case mBLAST:
         return 5;
-    case uBLASTX:
+    case uBLAST:
         return 2;
     default:
         return 0;

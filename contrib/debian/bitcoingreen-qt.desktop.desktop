@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=BlastX
-Comment=BlastX P2P Cryptocurrency
+Name=Blastx
+Comment=Blastx P2P Cryptocurrency
 Exec=blastx-qt %u
 Terminal=false
 Type=Application
