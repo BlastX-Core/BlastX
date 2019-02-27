@@ -342,7 +342,7 @@ void OverviewPage::SetLinks()
     ui->labelLinks5->setText("Discord:");
     ui->labelLinks6->setText("Twitter:");
     ui->labelLinks7->setText("Github:");
-    ui->labelLinks8->setText("");
+
 
     ui->labelLinksUrl1->setText("<a href=\"https://blastexchange.com/\">https://blastexchange.com/</a>");
     ui->labelLinksUrl2->setText("<a href=\"https://trade.blastexchange.com/\">https://trade.blastexchange.com/</a>");
@@ -351,5 +351,5 @@ void OverviewPage::SetLinks()
     ui->labelLinksUrl5->setText("<a href=\"https://discord.gg/dRSTFBq\">https://discord.gg/dRSTFBq</a>");
     ui->labelLinksUrl6->setText("<a href=\"https://twitter.com/Blast_Exchange\">https://twitter.com/Blast_Exchange</a>");
     ui->labelLinksUrl7->setText("<a href=\"https://github.com/BlastX-Core/BlastX\">https://github.com/BlastX-Core/BlastX</a>");
-    ui->labelLinksUrl8->setText("");
+
 }
