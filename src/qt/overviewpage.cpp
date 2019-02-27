@@ -347,7 +347,7 @@ void OverviewPage::SetLinks()
     ui->labelLinksUrl2->setText("<a href=\"https://blastexchange.com/whitepaper\">https://blastexchange.com/whitepaper</a>");
     ui->labelLinksUrl3->setText("<a href=\"https://explorer.blastexchange.com/\">https://explorer.blastexchange.com/</a>");
     ui->labelLinksUrl4->setText("<a href=\"https://discord.gg/dRSTFBq\">https://discord.gg/dRSTFBq</a>");
-    ui->labelLinksUrl5->setText("<a href=\"https://twitter.com/blastx\">https://twitter.com/Blastx</a>");
+    ui->labelLinksUrl5->setText("<a href=\"https://https://twitter.com/Blast_Exchange\">https://twitter.com/Blast_Exchange</a>");
     ui->labelLinksUrl6->setText("<a href=\"https://github.com/BlastX-Core/BlastX\">https://github.com/BlastX-Core/BlastX</a>");
     ui->labelLinksUrl7->setText("");
 }
