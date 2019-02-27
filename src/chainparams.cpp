@@ -26,18 +26,7 @@ struct SeedSpec6 {
 
 #include "chainparamsseeds.h"
 
-/*
----------------
-algorithm: quark
-pzTimestamp: 20190218 CollegiCoin by ZioFabry
-pubkey: 04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f
-bits: 504365040
-time: 1550524693
-merkle root hash: 0x7dd4e54cb0a15d80e8ea57d9149a9bb33cf7ed8d84db62c0d84ce3786ef85003
-Searching for genesis hash...
-nonce: 557099
-genesis hash: 0x00000bf562fe9d57aa202838eee8a6c7c5d566574b5d8c9207bc403def449347
-*/
+
 
 /**
  * Main network
