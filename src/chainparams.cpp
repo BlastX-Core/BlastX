@@ -26,8 +26,6 @@ struct SeedSpec6 {
 
 #include "chainparamsseeds.h"
 
-
-
 /**
  * Main network
  */
@@ -56,30 +54,30 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 // + Contains no strange transactions
 static Checkpoints::MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
-    (0, uint256("0x00000d8a90b3e5bf86330904ae5cdb57794d283cecdacd432578a53dad7cb5a2"));
+    (0, uint256("0x0000028821cccc47b3316e7a52971328f459406bef4324e72e2f8beaf5a02e70"));
 
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
-    1550620800, // * UNIX timestamp of last checkpoint block
+    1551740830, // * UNIX timestamp of last checkpoint block
     0,          // * total number of transactions between genesis and last checkpoint (the tx=... number in the SetBestChain debug.log lines)
     1440        // * estimated number of transactions per day after checkpoint
 };
 
 static Checkpoints::MapCheckpoints mapCheckpointsTestnet =
-    boost::assign::map_list_of(0, uint256("0x0000057b3e19a3b07e3102a770c7a511cb51544ca7033aa54d0fde53acd45584"));
+    boost::assign::map_list_of(0, uint256("0x0000028821cccc47b3316e7a52971328f459406bef4324e72e2f8beaf5a02e70"));
 
 static const Checkpoints::CCheckpointData dataTestnet = {
     &mapCheckpointsTestnet,
-    1550620900, // * UNIX timestamp of last checkpoint block
+    1551740830, // * UNIX timestamp of last checkpoint block
     0,          // * total number of transactions between genesis and last checkpoint (the tx=... number in the SetBestChain debug.log lines)
     1440        // * estimated number of transactions per day after checkpoint
 };
 
 static Checkpoints::MapCheckpoints mapCheckpointsRegtest =
-    boost::assign::map_list_of(0, uint256("0x12e3588ae73da228a1b90f7499a904da6228b7db186877a5b26a02c073f208fe"));
+    boost::assign::map_list_of(0, uint256("0x0000028821cccc47b3316e7a52971328f459406bef4324e72e2f8beaf5a02e70"));
 static const Checkpoints::CCheckpointData dataRegtest = {
     &mapCheckpointsRegtest,
-    1550621000, // * UNIX timestamp of last checkpoint block
+    1551740830, // * UNIX timestamp of last checkpoint block
     0,          // * total number of transactions between genesis and last checkpoint (the tx=... number in the SetBestChain debug.log lines)
     1440        // * estimated number of transactions per day after checkpoint
 };
@@ -126,6 +124,19 @@ public:
         nLastPOWBlock                  = 2000;
         nModifierUpdateBlock           = 1;
 
+/*
+---------------
+algorithm: quark
+pzTimestamp: 20-02-2019 World Day of Social Justice.
+pubkey: 04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f
+bits: 504365040
+time: 1551740830
+merkle root hash: 4b239699c7be15090c228025421a1c62f7d0456e87efac1a61292151fb639333
+Searching for genesis hash...
+nonce: 773904
+genesis hash: 0000028821cccc47b3316e7a52971328f459406bef4324e72e2f8beaf5a02e70
+*/
+
         const char* pszTimestamp       = "20-02-2019 World Day of Social Justice.";
         CMutableTransaction txNew;
         txNew.vin.resize(1);
@@ -137,12 +148,12 @@ public:
         genesis.hashPrevBlock          = 0;
         genesis.hashMerkleRoot         = genesis.BuildMerkleTree();
         genesis.nVersion               = 1;
-        genesis.nTime                  = 1550620800;
-        genesis.nBits                  = 0x1e0ffff0;
-        genesis.nNonce                 = 20693100;
+        genesis.nTime                  = 1551740830;
+        genesis.nBits                  = 504365040;
+        genesis.nNonce                 = 773904;
 
         hashGenesisBlock               = genesis.GetHash();
-        assert(hashGenesisBlock        == uint256("0x00000d8a90b3e5bf86330904ae5cdb57794d283cecdacd432578a53dad7cb5a2"));
+        assert(hashGenesisBlock        == uint256("0x0000028821cccc47b3316e7a52971328f459406bef4324e72e2f8beaf5a02e70"));
         assert(genesis.hashMerkleRoot  == uint256("0x4b239699c7be15090c228025421a1c62f7d0456e87efac1a61292151fb639333"));
  
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,  25);  // Start with 'B' from https://en.bitcoin.it/wiki/List_of_address_prefixes
@@ -175,7 +186,7 @@ public:
 
         nPoolMaxTransactions           = 3;
         strSporkKey                    = "0446c867d14ac892741c068436c05b6b161957aed0261dfa52e830eb124030fb19d96a206563c3011bec319e268b0284d42e48e59c24da7fd1b2012986e9bcef7f";
-        strMasternodePoolDummyAddress  = "BSRM2oehzPJKFRHURXM1Nm62hALFY3pgxJ";
+        strMasternodePoolDummyAddress  = "BDzaDvzEZKuKvMMRRBs6j5hEPwizepJiYx";
         nStartMasternodePayments       = 1550620800; 
 
         nBudget_Fee_Confirmations      = 6; // Number of confirmations for the finalization fee
@@ -226,12 +237,12 @@ public:
         nMaxMoneyOut                   = 10000000 * COIN;
 
         //! Modify the testnet genesis block so the timestamp is valid for a later start.
-        genesis.nTime                  = 1550620800;
-        genesis.nBits                  = 0x1e0ffff0;
-        genesis.nNonce                 = 20693100;
+        genesis.nTime                  = 1551740830;
+        genesis.nBits                  = 504365040;
+        genesis.nNonce                 = 773904;
 
         hashGenesisBlock               = genesis.GetHash();
-        assert(hashGenesisBlock        == uint256("0x00000d8a90b3e5bf86330904ae5cdb57794d283cecdacd432578a53dad7cb5a2"));
+        assert(hashGenesisBlock        == uint256("0x0000028821cccc47b3316e7a52971328f459406bef4324e72e2f8beaf5a02e70"));
         assert(genesis.hashMerkleRoot  == uint256("0x4b239699c7be15090c228025421a1c62f7d0456e87efac1a61292151fb639333"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,  85);  // Start with 'b' from https://en.bitcoin.it/wiki/List_of_address_prefixes
@@ -243,7 +254,8 @@ public:
         base58Prefixes[EXT_COIN_TYPE]  = boost::assign::list_of(0x80)(0x00)(0x00)(0x01).convert_to_container<std::vector<unsigned char> >();
         // Testnet BlastX BIP44 coin type is '1' (All coin's testnet default)
         
-        convertSeed6(vFixedSeeds, pnSeed6_test, ARRAYLEN(pnSeed6_test));
+        vFixedSeeds.clear();
+        vSeeds.clear();
 
         fMiningRequiresPeers           = true;
         fAllowMinDifficultyBlocks      = false;
@@ -254,7 +266,7 @@ public:
 
         nPoolMaxTransactions           = 2;
         strSporkKey                    = "04de3deedb9fc1202793e23121aee132f08ba4617cfd5ee6c664abbc1936f6a0b763f3606f1ebff78f0894932bfaff2ceae93737b3e53bb15c49ee271d2b8ddd53";
-        strMasternodePoolDummyAddress  = "bP5DQxNJ41jaDqiRNJeJMjSF1auhfW9zMQ";
+        strMasternodePoolDummyAddress  = "bFUy3uzz9rMHf1evwzfsgu4oYZLiNh2EP8";
         nStartMasternodePayments       = genesis.nTime + 86400; // 24 hours after genesis
         nBudget_Fee_Confirmations      = 3; // Number of confirmations for the finalization fee. We have to make this very short
                                        // here because we only have a 8 block finalization window on testnet
