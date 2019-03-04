@@ -336,20 +336,18 @@ void OverviewPage::showOutOfSyncWarning(bool fShow)
 void OverviewPage::SetLinks()
 {
     ui->labelLinks1->setText("Website:");
-    ui->labelLinks2->setText("BlastExchange:");
-    ui->labelLinks3->setText("Whitepaper:");
-    ui->labelLinks4->setText("Block Explorer:");
-    ui->labelLinks5->setText("Discord:");
-    ui->labelLinks6->setText("Twitter:");
-    ui->labelLinks7->setText("Github:");
-
+    ui->labelLinks2->setText("Whitepaper:");
+    ui->labelLinks3->setText("Block Explorer:");
+    ui->labelLinks4->setText("Discord:");
+    ui->labelLinks5->setText("Twitter:");
+    ui->labelLinks6->setText("Github:");
+    ui->labelLinks7->setText("");
 
     ui->labelLinksUrl1->setText("<a href=\"https://blastexchange.com/\">https://blastexchange.com/</a>");
-    ui->labelLinksUrl2->setText("<a href=\"https://trade.blastexchange.com/\">https://trade.blastexchange.com/</a>");
-    ui->labelLinksUrl3->setText("<a href=\"https://blastexchange.com/whitepaper\">https://blastexchange.com/whitepaper</a>");
-    ui->labelLinksUrl4->setText("<a href=\"https://explorer.blastexchange.com/\">https://explorer.blastexchange.com/</a>");
-    ui->labelLinksUrl5->setText("<a href=\"https://discord.gg/dRSTFBq\">https://discord.gg/dRSTFBq</a>");
-    ui->labelLinksUrl6->setText("<a href=\"https://twitter.com/Blast_Exchange\">https://twitter.com/Blast_Exchange</a>");
-    ui->labelLinksUrl7->setText("<a href=\"https://github.com/BlastX-Core/BlastX\">https://github.com/BlastX-Core/BlastX</a>");
-
+    ui->labelLinksUrl2->setText("<a href=\"https://blastexchange.com/whitepaper\">https://blastexchange.com/whitepaper</a>");
+    ui->labelLinksUrl3->setText("<a href=\"https://explorer.blastexchange.com/\">https://explorer.blastexchange.com/</a>");
+    ui->labelLinksUrl3->setText("<a href=\"https://discord.gg/dRSTFBq\">https://discord.gg/dRSTFBq</a>");
+    ui->labelLinksUrl4->setText("<a href=\"https://twitter.com/Blast_Exchange\">https://twitter.com/Blast_Exchange</a>");
+    ui->labelLinksUrl6->setText("<a href=\"https://github.com/BlastX-Core/BlastX\">https://github.com/BlastX-Core/BlastX</a>");
+    ui->labelLinksUrl7->setText("");
 }
