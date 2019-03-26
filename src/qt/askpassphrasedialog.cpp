@@ -77,7 +77,7 @@ AskPassphraseDialog::AskPassphraseDialog(Mode mode, QWidget* parent, WalletModel
 
     ui->stakingCheckBox->setChecked(model->isStakingOnlyUnlocked());
 
-    // It doesn't make sense to show the checkbox for sending KYD because you wouldn't check it anyway.
+    // It doesn't make sense to show the checkbox for sending BLAST because you wouldn't check it anyway.
     if (context == Context::Send_BLAST) {
         ui->stakingCheckBox->hide();
     }
